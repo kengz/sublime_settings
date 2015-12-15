@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"ColorPicker",
+		"DocBlockr",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Javatar",
+		"LaTeXTools",
+		"LiveStyle",
+		"Markdown Preview",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python PEP8 Autoformat",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-html-tidy",
+		"Terminal",
+		"Theme - Spacegray",
+		"Themr",
+		"Tomorrow Color Schemes",
+		"View In Browser"
+	]
+}

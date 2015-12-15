@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+
+<!-- COLUMN -->
+<td class="${1:}">
+    <table class="${2:}" align="center">
+        <tr>
+            <td class="hutter">&nbsp;</td>
+        </tr>
+
+
+        <tr>
+            <td class="gutter">&nbsp;</td>
+
+            <td>${3:Content}</td>
+
+            <td class="gutter">&nbsp;</td>
+        </tr>
+
+
+        <tr>
+            <td class="hutter">&nbsp;</td>
+        </tr>
+    </table>
+</td>
+<!-- COLUMN ends -->
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>new</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

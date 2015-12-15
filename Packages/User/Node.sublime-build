@@ -1,0 +1,8 @@
+{
+	"shell_cmd": "node \"${file}\"",
+	// "cmd": ["/usr/local/bin/node", "$file"],
+	"selector": "source.js",
+	"env": {
+		"PATH":"/usr/local/phantomjs/bin"
+	}
+}

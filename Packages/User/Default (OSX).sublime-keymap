@@ -1,0 +1,67 @@
+[
+{"keys": ["super+["], "command": "reindent" , "args": {"single_line": false}},
+{"keys": ["super+shift+["], "command": "unindent" , "args": {"single_line": false}},
+
+{ "keys": ["super+;"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+{ "keys": ["super+shift+;"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+{ "keys": ["super+'"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+{ "keys": ["super+enter"], "command": "duplicate_line" },
+{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+//set layout(single or double rows)
+{
+	"keys": ["super+shift+1"],
+	"command": "set_layout",
+	"args":
+	{
+		"cols": [0.0, 1.0],
+		"rows": [0.0, 1.0],
+		"cells": [[0, 0, 1, 1]]
+	}
+	},
+
+//make 2 rows
+{
+	"keys": ["super+shift+`"],
+	"command": "set_layout",
+	"args":
+	{
+		"cols": [0.0, 1.0],
+		"rows": [0.0, 0.5, 1.0],
+		"cells": [[0, 0, 1, 1], [0, 1, 1, 2]]
+	}
+	},
+
+//make 2 columns
+{
+	"keys": ["super+shift+2"],
+	"command": "set_layout",
+	"args":
+	{
+		"cols": [0.0, 0.5, 1.0],
+		"rows": [0.0, 1.0],
+		"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+	}
+	},
+
+
+// View in Browser
+{ "keys": [ "super+shift+x" ], "command": "view_in_browser", "args": { "browser": "safari" } },
+{ "keys": [ "super+shift+h" ], "command": "view_in_browser", "args": { "browser": "chrome" } },
+
+
+
+// HTMLPrettify
+{ "keys": ["super+shift+["], "command": "htmlprettify" },
+
+// Markdown Preview
+{ "keys": ["alt+/"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+
+// DocBlockr
+// decorate a double-slash comment
+  { "keys": ["ctrl+enter"], "command": "jsdocs_decorate",
+    "context": [
+      { "key": "selector", "operator": "equal", "operand": "comment.line.double-slash"}
+    ]
+  }
+
+]

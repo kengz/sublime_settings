@@ -1,0 +1,57 @@
+<snippet>
+	<content><![CDATA[
+
+<!-- UNICOLUMN -->
+<tr>
+    <td class="row-${1:n}">
+        <table class="wrap-1" align="center">
+            <tr>
+                <td class="hutter">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="bleeding">&nbsp;</td>
+
+
+
+                <!-- COLUMN-1 -->
+                <td class="flow">
+                    <table class="col-1" align="center">
+                        <tr>
+                            <td class="hutter">&nbsp;</td>
+                        </tr>
+
+
+                        <tr>
+                            <td class="gutter">&nbsp;</td>
+
+                            <td>${2:Content 1}</td>
+
+                            <td class="gutter">&nbsp;</td>
+                        </tr>
+
+
+                        <tr>
+                            <td class="hutter">&nbsp;</td>
+                        </tr>
+                    </table>
+                </td>
+                <!-- COLUMN-1 ends -->
+
+
+
+                <td class="bleeding">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="hutter">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!-- UNICOLUMN ends -->
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>1col</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
