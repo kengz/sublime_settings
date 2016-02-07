@@ -1,6 +1,6 @@
 [
 {"keys": ["super+["], "command": "reindent" , "args": {"single_line": false}},
-{"keys": ["super+shift+["], "command": "unindent" , "args": {"single_line": false}},
+// {"keys": ["super+shift+["], "command": "unindent" , "args": {"single_line": false}},
 
 { "keys": ["super+;"], "command": "move_to", "args": {"to": "eol", "extend": false} },
 { "keys": ["super+shift+;"], "command": "move_to", "args": {"to": "bol", "extend": false} },

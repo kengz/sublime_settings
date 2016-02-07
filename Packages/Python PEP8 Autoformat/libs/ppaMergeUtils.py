@@ -23,7 +23,7 @@ SOFTWARE.
 # Borrowed from GoSublime
 
 import sublime
-from diff_match_patch import diff_match_patch
+from ppa_diff_match_patch import diff_match_patch
 
 
 class MergeException(Exception):

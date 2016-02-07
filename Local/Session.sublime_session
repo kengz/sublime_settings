@@ -1,9 +1,47 @@
 {
 	"folder_history":
 	[
+		"/Users/theredrose/Documents/mac_setup",
+		"/Users/theredrose/Documents/Deal_Aggregator",
+		"/Users/theredrose/Documents",
+		"/Users/theredrose/Documents/rub",
+		"/Users/theredrose/Documents/lomath",
+		"/Users/theredrose/Documents/neo4jKB",
+		"/Users/theredrose/Documents/peppurr",
+		"/Users/theredrose/Documents/hubot",
+		"/Users/theredrose/Documents/hubot-test-helper",
+		"/Users/theredrose/Desktop",
+		"/usr/local/lib/node_modules/dokker",
+		"/Users/theredrose/.npm/dokker/0.1.3",
+		"/Users/theredrose/Documents/lodash",
+		"/Users/theredrose/Desktop/x12_parser-master",
+		"/Users/theredrose/Documents/jarvis",
+		"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log",
+		"/Users/theredrose/Documents/kengz.github.io",
+		"/Users/theredrose/Documents/gh-jarvis",
+		"/Users/theredrose/Documents/reqscraper",
+		"/usr/local/Cellar/neo4j/2.3.1/libexec/data/dbms",
+		"/Users/theredrose/Documents/testbot",
+		"/Users/theredrose/Downloads",
+		"/Users/theredrose/Documents/github-buttons",
+		"/Users/theredrose/Documents/yinghang.github.io",
+		"/Users/theredrose/Documents/fake",
+		"/Users/theredrose/Documents/web-starter-kit-0.6.0",
+		"/Users/theredrose/Documents/hubot-test-helper2",
+		"/Users/theredrose/Documents/wantanmee",
+		"/Users/theredrose/Downloads/sherry_stc_sam_bot",
+		"/Users/theredrose/Downloads/tensorflow-master-tensorflow-examples-tutorials-mnist",
+		"/Users/theredrose/Documents/TensorFlow-Tutorials",
+		"/Users/theredrose/Downloads/tensorflow-master-tensorflow-models-embedding",
+		"/Users/theredrose/Downloads/tensorflow-master-tensorflow-examples-tutorials-word2vec",
+		"/Users/theredrose/Documents/convnetjs",
+		"/Users/theredrose/Documents/eligibot",
+		"/usr/local/var/postgres",
+		"/Users/theredrose/Downloads/mac_setup-master",
+		"/Users/theredrose/Documents/Sublime Text 3/Local"
 	],
 	"last_version": 3083,
-	"last_window_id": 105,
+	"last_window_id": 183,
 	"log_indexing": false,
 	"settings":
 	{
@@ -14,6 +52,226 @@
 			{
 				"selected_items":
 				[
+					[
+						"pO",
+						"pOpsRe"
+					],
+					[
+						"rOpsH",
+						"rOpsHeadRe"
+					],
+					[
+						"wOpsH",
+						"wOpsHeadRe"
+					],
+					[
+						"sOp",
+						"sOpsRe"
+					],
+					[
+						"propLabe",
+						"propLabelB"
+					],
+					[
+						"propDis",
+						"propDistLabelE"
+					],
+					[
+						"labelS",
+						"LabelStrA"
+					],
+					[
+						"isLe",
+						"isLegalWSentence"
+					],
+					[
+						"isLega",
+						"isLegalSentence"
+					],
+					[
+						"rOps",
+						"rOpsReStr"
+					],
+					[
+						"c",
+						"chaining"
+					],
+					[
+						"prop",
+						"propLabelCount"
+					],
+					[
+						"propl",
+						"propLabelB"
+					],
+					[
+						"propLa",
+						"propLabelA"
+					],
+					[
+						"propL",
+						"propLabelB"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"singel",
+						"singleLabelQuery"
+					],
+					[
+						"stringi",
+						"stringifyLabel"
+					],
+					[
+						"propE",
+						"propLabelE"
+					],
+					[
+						"labe",
+						"labelStr"
+					],
+					[
+						"hash",
+						"hash_by"
+					],
+					[
+						"lit",
+						"literalizeProp"
+					],
+					[
+						"generat",
+						"generateMandatoryFields"
+					],
+					[
+						"mandator",
+						"mandatoryFields"
+					],
+					[
+						"manda",
+						"mandatoryFields"
+					],
+					[
+						"list-s",
+						"list-style-type"
+					],
+					[
+						"injec",
+						"inject2"
+					],
+					[
+						"castB",
+						"castBadgesForAll"
+					],
+					[
+						"create",
+						"createTable1"
+					],
+					[
+						"cli",
+						"client2"
+					],
+					[
+						"summa",
+						"summary_str"
+					],
+					[
+						"add",
+						"add_summary"
+					],
+					[
+						"feed",
+						"feed_dict"
+					],
+					[
+						"grah",
+						"graph_def"
+					],
+					[
+						"acc",
+						"accuracy_summary"
+					],
+					[
+						"name",
+						"name_scope"
+					],
+					[
+						"h_fc1",
+						"h_fc1_drop"
+					],
+					[
+						"h_pool2",
+						"h_pool2_flat"
+					],
+					[
+						"h_poo",
+						"h_pool2"
+					],
+					[
+						"bias",
+						"bias_variable"
+					],
+					[
+						"b_con",
+						"b_conv2"
+					],
+					[
+						"weig",
+						"weight_variable"
+					],
+					[
+						"h_",
+						"h_conv1"
+					],
+					[
+						"max_",
+						"max_pool_2x2"
+					],
+					[
+						"initia",
+						"initialize_all_variables"
+					],
+					[
+						"cross",
+						"cross_entropy"
+					],
+					[
+						"initil",
+						"initialize"
+					],
+					[
+						"matr",
+						"matrix2"
+					],
+					[
+						"chan",
+						"changeIP"
+					],
+					[
+						"demogra",
+						"demograph"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"missed",
+						"missedTargets"
+					],
+					[
+						"con",
+						"convnetjs"
+					],
+					[
+						"reqpro",
+						"reqpromise"
+					],
+					[
+						"reqpr",
+						"reqpromises"
+					]
 				]
 			},
 			"build_system_choices":
@@ -21,25 +279,17 @@
 				[
 					[
 						[
-							"Packages/Makefile/Make.sublime-build",
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
 							""
 						],
 						[
-							"Packages/Makefile/Make.sublime-build",
-							"Clean"
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							"Run"
 						]
 					],
 					[
-						"Packages/Python/Python.sublime-build",
-						""
+						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+						"Run"
 					]
 				],
 				[
@@ -78,16 +328,60 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "package",
+				"height": 137.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"edito",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"coffee",
+						"Coffee: Check Syntax"
+					],
+					[
+						"coffeescr",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"editor",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"prettif",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"view re",
+						"PackageResourceViewer: Open Resource"
+					]
 				],
-				"width": 381.0
+				"width": 452.0
 			},
 			"console":
 			{
-				"height": 150.0,
+				"height": 0.0,
 				"history":
 				[
 				]
@@ -103,6 +397,134 @@
 			},
 			"file_history":
 			[
+				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
+				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
+				"/Users/theredrose/Documents/peppurr/test/common.js",
+				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
+				"/Users/theredrose/Documents/peppurr/README.md",
+				"/Users/theredrose/Documents/peppurr/package.json",
+				"/Users/theredrose/Documents/peppurr/lib/user.js",
+				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
+				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/.env-example",
+				"/Users/theredrose/Documents/neo4jKB/,",
+				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
+				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/theredrose/Documents/Machines/machine.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
+				"/Users/theredrose/Documents/peppurr/brain/query.js",
+				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
+				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
+				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
+				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
+				"/Users/theredrose/Documents/peppurr/.env",
+				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
+				"/Users/theredrose/Documents/peppurr/bin/install",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
+				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
+				"/Users/theredrose/Documents/peppurr/meh",
+				"/Users/theredrose/Documents/peppurr/bin/hubot",
+				"/Users/theredrose/Documents/peppurr/index.js",
+				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
+				"/Users/theredrose/Documents/peppurr/test/meh.js",
+				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
+				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/Users/theredrose/Documents/peppurr/.editorconfig",
+				"/Users/theredrose/Documents/peppurr/test/t.coffee",
+				"/Users/theredrose/Documents/peppurr/.gitignore",
+				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
+				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
+				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
+				"/Users/theredrose/Documents/kengz.github.io/README.md",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
+				"/Users/theredrose/Documents/kengz.github.io/index2.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
+				"/Users/theredrose/Documents/kengz.github.io/package.json",
+				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
+				"/Users/theredrose/Desktop/repos",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/CNAME",
+				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
+				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
+				"/Users/theredrose/Documents/mac_setup/README.md",
+				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
+				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
+				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/.bash_profile",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
+				"/Users/theredrose/.forever/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/.index",
+				"/Users/theredrose/Documents/peppurr/scripts/test.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
+				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
+				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
+				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
+				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
+				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
+				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
+				"/Users/theredrose/Documents/wantanmee/README.md",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
+				"/Users/theredrose/.ssh/id_rsa.pub",
+				"/etc/sudoers",
+				"/usr/sbin/networksetup",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
 			],
 			"find":
 			{
@@ -120,6 +542,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"alice",
+					"test_to",
+					"task2",
+					"item",
+					"targetObj",
+					"undefined",
+					"index",
+					"markDown",
+					"index",
+					"flat",
+					"mat",
+					"pull",
+					"res",
+					"nameOrIndex",
+					"name",
+					"filter",
+					"pick",
+					"'",
+					"yield",
+					"assign",
+					"updated_when",
+					"keyword",
+					"priority",
+					"fieldArr",
+					"illegalize",
+					"created_by",
+					"neoRes",
+					"transNeoRes",
+					"_.size",
+					"res",
+					"flatIndexMat",
+					"transBeautify",
+					"join(",
+					"log",
+					"console",
+					"shit",
+					"picker",
+					"KB",
+					"picker",
+					"msg",
+					"assignTodo",
+					"low",
+					"transbeaut",
+					"sortRow",
+					"_.partial",
+					"partial",
+					"transBeautify",
+					"transform",
+					"partialRight",
+					"gather",
+					"function",
+					"neoRes",
+					"gather",
+					"KB",
+					"tail",
+					"sortByRow",
+					"neoRes",
+					"sortByRow",
+					"transNeoRes",
+					"neoRes",
+					"tail",
+					"mat",
+					"console",
+					"shit",
+					"alice",
+					"ID0000001",
+					"getId",
+					"userId",
+					"ID0000001",
+					"getId",
+					"ID0000001",
+					"eventually",
+					"alice",
+					"whois",
+					"alice",
+					"ID0000001",
+					"whois",
+					" describe 'whois', ->",
+					"describe 'whois', ->",
+					"	describe 'whois', ->",
+					"	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"root",
+					"alice",
+					"\"",
+					"string",
+					"user",
+					"users",
+					"keyword",
+					"scriptsPath",
+					"MockRobot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"0_init",
+					"this.robot",
+					"0_init",
+					"serialize_users",
+					"robot",
+					"@",
+					"function",
+					"Shell",
+					"serialize_users",
+					"spySer",
+					")\n",
+					"system",
+					"yield",
+					"Promise",
+					"var",
+					"whois",
+					"ping",
+					"user",
+					"0_init",
+					"scripts",
+					"parseObj",
+					"parseKV",
+					"task2"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -145,7 +695,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 216.0
+				"height": 157.0
 			},
 			"output.find_results":
 			{
@@ -163,6 +713,206 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"neo4jkb/lib/parse",
+						"node_modules/neo4jkb/lib/parse.js"
+					],
+					[
+						"common",
+						"test/common.js"
+					],
+					[
+						"user",
+						"lib/user.js"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"0_",
+						"scripts/0_init.js"
+					],
+					[
+						"todo",
+						"scripts/todo.js"
+					],
+					[
+						"dodo",
+						"node_modules/lomath/docs/annotated/docco.css"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"whosi",
+						"scripts/whois.js"
+					],
+					[
+						"const",
+						"brain/constrain.js"
+					],
+					[
+						"constr",
+						"brain/constrain.js"
+					],
+					[
+						"cons",
+						"brain/constrain.js"
+					],
+					[
+						"kb",
+						"scripts/KB_builder.js"
+					],
+					[
+						"consr",
+						"brain/constrain.js"
+					],
+					[
+						"meh",
+						"scripts/meh.js"
+					],
+					[
+						"meh2",
+						"scripts/meh2.js"
+					],
+					[
+						"npm",
+						"node_modules/scoped-http-client/src/npm-version.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"query",
+						"brain/query.js"
+					],
+					[
+						"kb_bui",
+						"scripts/KB_builder.js"
+					],
+					[
+						"lodas",
+						"node_modules/lodash/lodash.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"quer",
+						"brain/query.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"githu",
+						"app/scripts/github.js"
+					],
+					[
+						"",
+						"app/styles/lanyon.css"
+					],
+					[
+						"repo-card",
+						"repo-card.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.babel.js"
+					],
+					[
+						"t.",
+						"test/t.coffee"
+					],
+					[
+						"html",
+						"node_modules/html-tags/html-tags.json"
+					],
+					[
+						"side",
+						"app/scripts/side.js"
+					],
+					[
+						"repo",
+						"app/repo-card.html"
+					],
+					[
+						"github",
+						"app/scripts/github.js"
+					],
+					[
+						"cna",
+						"CNAME"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"pg",
+						"D/dirtree/pg.js"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"readm",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"mnis",
+						"mnist.py"
+					],
+					[
+						"test",
+						"D/monster/test.js"
+					],
+					[
+						"targe",
+						"D/monsprof/target.js"
+					],
+					[
+						"readme",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"genoption",
+						"D/lib/genOption.js"
+					],
+					[
+						"target",
+						"D/monster/target.js"
+					],
+					[
+						"main",
+						"D/monster/main.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -182,13 +932,13 @@
 				"selected_items":
 				[
 				],
-				"width": 381.0
+				"width": 390.0
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 161.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -198,6 +948,5357 @@
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"beaut",
+						"beautifyMat"
+					],
+					[
+						"pO",
+						"pOpsRe"
+					],
+					[
+						"rOpsH",
+						"rOpsHeadRe"
+					],
+					[
+						"wOpsH",
+						"wOpsHeadRe"
+					],
+					[
+						"sOp",
+						"sOpsRe"
+					],
+					[
+						"propLabe",
+						"propLabelB"
+					],
+					[
+						"propDis",
+						"propDistLabelE"
+					],
+					[
+						"labelS",
+						"LabelStrA"
+					],
+					[
+						"isLe",
+						"isLegalWSentence"
+					],
+					[
+						"isLega",
+						"isLegalSentence"
+					],
+					[
+						"rOps",
+						"rOpsReStr"
+					],
+					[
+						"c",
+						"chaining"
+					],
+					[
+						"prop",
+						"propLabelCount"
+					],
+					[
+						"propl",
+						"propLabelB"
+					],
+					[
+						"propLa",
+						"propLabelA"
+					],
+					[
+						"propL",
+						"propLabelB"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"singel",
+						"singleLabelQuery"
+					],
+					[
+						"stringi",
+						"stringifyLabel"
+					],
+					[
+						"propE",
+						"propLabelE"
+					],
+					[
+						"labe",
+						"labelStr"
+					],
+					[
+						"hash",
+						"hash_by"
+					],
+					[
+						"lit",
+						"literalizeProp"
+					],
+					[
+						"generat",
+						"generateMandatoryFields"
+					],
+					[
+						"mandator",
+						"mandatoryFields"
+					],
+					[
+						"manda",
+						"mandatoryFields"
+					],
+					[
+						"list-s",
+						"list-style-type"
+					],
+					[
+						"injec",
+						"inject2"
+					],
+					[
+						"castB",
+						"castBadgesForAll"
+					],
+					[
+						"create",
+						"createTable1"
+					],
+					[
+						"cli",
+						"client2"
+					],
+					[
+						"summa",
+						"summary_str"
+					],
+					[
+						"add",
+						"add_summary"
+					],
+					[
+						"feed",
+						"feed_dict"
+					],
+					[
+						"grah",
+						"graph_def"
+					],
+					[
+						"acc",
+						"accuracy_summary"
+					],
+					[
+						"name",
+						"name_scope"
+					],
+					[
+						"h_fc1",
+						"h_fc1_drop"
+					],
+					[
+						"h_pool2",
+						"h_pool2_flat"
+					],
+					[
+						"h_poo",
+						"h_pool2"
+					],
+					[
+						"bias",
+						"bias_variable"
+					],
+					[
+						"b_con",
+						"b_conv2"
+					],
+					[
+						"weig",
+						"weight_variable"
+					],
+					[
+						"h_",
+						"h_conv1"
+					],
+					[
+						"max_",
+						"max_pool_2x2"
+					],
+					[
+						"initia",
+						"initialize_all_variables"
+					],
+					[
+						"cross",
+						"cross_entropy"
+					],
+					[
+						"initil",
+						"initialize"
+					],
+					[
+						"matr",
+						"matrix2"
+					],
+					[
+						"chan",
+						"changeIP"
+					],
+					[
+						"demogra",
+						"demograph"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"missed",
+						"missedTargets"
+					],
+					[
+						"con",
+						"convnetjs"
+					],
+					[
+						"reqpro",
+						"reqpromise"
+					],
+					[
+						"reqpr",
+						"reqpromises"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/theredrose/Documents/neo4jKB/lib/parse.js",
+					"settings":
+					{
+						"buffer_size": 17120,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/neo4jKB/package.json",
+					"settings":
+					{
+						"buffer_size": 951,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/neo4jKB/README.md",
+					"settings":
+					{
+						"buffer_size": 5938,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/neo4jKB/test/test_parse.js",
+					"settings":
+					{
+						"buffer_size": 10445,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							""
+						],
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"edito",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"coffee",
+						"Coffee: Check Syntax"
+					],
+					[
+						"coffeescr",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"editor",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"prettif",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"view re",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 452.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/theredrose/Documents/neo4jKB"
+			],
+			"file_history":
+			[
+				"/Users/theredrose/Documents/neo4jKB/lib/parse.js",
+				"/Users/theredrose/Documents/neo4jKB/package.json",
+				"/Users/theredrose/Documents/neo4jKB/README.md",
+				"/Users/theredrose/Documents/neo4jKB/lib/constrain.js",
+				"/Users/theredrose/Documents/neo4jKB/test/asset.js",
+				"/Users/theredrose/Documents/peppurr/test/common.js",
+				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
+				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
+				"/Users/theredrose/Documents/peppurr/README.md",
+				"/Users/theredrose/Documents/peppurr/package.json",
+				"/Users/theredrose/Documents/peppurr/lib/user.js",
+				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
+				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/.env-example",
+				"/Users/theredrose/Documents/neo4jKB/,",
+				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
+				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/theredrose/Documents/Machines/machine.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
+				"/Users/theredrose/Documents/peppurr/brain/query.js",
+				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
+				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
+				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
+				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
+				"/Users/theredrose/Documents/peppurr/.env",
+				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
+				"/Users/theredrose/Documents/peppurr/bin/install",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
+				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
+				"/Users/theredrose/Documents/peppurr/meh",
+				"/Users/theredrose/Documents/peppurr/bin/hubot",
+				"/Users/theredrose/Documents/peppurr/index.js",
+				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
+				"/Users/theredrose/Documents/peppurr/test/meh.js",
+				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
+				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/Users/theredrose/Documents/peppurr/.editorconfig",
+				"/Users/theredrose/Documents/peppurr/test/t.coffee",
+				"/Users/theredrose/Documents/peppurr/.gitignore",
+				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
+				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
+				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
+				"/Users/theredrose/Documents/kengz.github.io/README.md",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
+				"/Users/theredrose/Documents/kengz.github.io/index2.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
+				"/Users/theredrose/Documents/kengz.github.io/package.json",
+				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
+				"/Users/theredrose/Desktop/repos",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/CNAME",
+				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
+				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
+				"/Users/theredrose/Documents/mac_setup/README.md",
+				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
+				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
+				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/.bash_profile",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
+				"/Users/theredrose/.forever/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/.index",
+				"/Users/theredrose/Documents/peppurr/scripts/test.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
+				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
+				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
+				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
+				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
+				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
+				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
+				"/Users/theredrose/Documents/wantanmee/README.md",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
+				"/Users/theredrose/.ssh/id_rsa.pub",
+				"/etc/sudoers"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"todo",
+					"transQRes",
+					"transform(",
+					"flattenIndex",
+					"console.log",
+					"isObject",
+					"transqres(",
+					"transQRes",
+					"transform",
+					"parseUser",
+					"parseKV",
+					"t1",
+					"transform(",
+					"var",
+					"tail",
+					"qRes",
+					"head",
+					"check",
+					"columns",
+					"size(",
+					"_.isArray(_.get(neoRes, '0.0')) && ",
+					"head",
+					"qRes",
+					"tail",
+					"transData",
+					"transqRes",
+					"transform",
+					"parseUser",
+					"cleanUser",
+					"neoRes",
+					"parseUser",
+					"_.size(",
+					"transform(",
+					"beautifymat",
+					"transbeaut",
+					"beautifyMat",
+					"transNeoRes",
+					"neoRes",
+					"beautify",
+					"beautify(",
+					"beautifyMat",
+					"beautify(",
+					"name: alice\\nid: ID0000001\\nemail_address: alice@email.com\\n\\n---\\n\\nname: bob\\nid: ID0000002\\nemail_address: bob@email.com\\n\\n---\\n\\nname: slackbot\\nreal_name: slackbot\\nid: USLACKBOT\\nemail_address: null\\n```",
+					"item",
+					"sum",
+					"\\n\\n---\\n\\n\\n```",
+					"item",
+					"transNeoRes",
+					"else",
+					"beautifyMat",
+					"transBeautify",
+					"beautify",
+					"string",
+					"formatter",
+					"\\n",
+					"flattenIndex",
+					"JSON",
+					"isBoolean",
+					"pickerBy",
+					"description",
+					"type",
+					"description",
+					"type",
+					"flatMatIndex",
+					"description",
+					"format",
+					"flatFormat",
+					"flatMat",
+					"flatIndexMat",
+					"join(",
+					"transbea",
+					"neoRes",
+					"picker",
+					"cleanUser",
+					"KB.picker()",
+					", (neoRes)",
+					"cleanUser",
+					"sorter",
+					"default",
+					"neoRes",
+					"default",
+					"neoRes",
+					"sorter",
+					"partial",
+					"true",
+					"iteratees",
+					"description",
+					"type",
+					"Funct",
+					"Object",
+					"description",
+					"type",
+					"name",
+					"matSorter",
+					"name",
+					"pickBy",
+					"description",
+					"type",
+					"description",
+					"sortMat",
+					"_.partial",
+					"transform(",
+					"neoRes",
+					"transNeoRes",
+					"transbeautify",
+					"true",
+					"[A.neoRes, A.neoRes]",
+					"qRes",
+					"[ 'a' ],",
+					"true",
+					"drophead",
+					"dropHead=true",
+					"Function",
+					"Array",
+					"gather",
+					"function",
+					"neoRes",
+					"gather",
+					"KB",
+					"tail",
+					"sortByRow",
+					"neoRes",
+					"sortByRow",
+					"transNeoRes",
+					"neoRes",
+					"tail",
+					"mat",
+					"console"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/theredrose/Documents/neo4jKB"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/theredrose/Documents/neo4jKB/lib/parse.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17120,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16777,
+										16777
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 11420.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/theredrose/Documents/neo4jKB/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 951,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										407,
+										407
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/theredrose/Documents/neo4jKB/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5938,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4842,
+										4842
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2587.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/Users/theredrose/Documents/neo4jKB/test/test_parse.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10105,
+										10105
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2075.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/theredrose/Documents/neo4jKB/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 951,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										43,
+										43
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 157.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 319 0 638 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"parse.",
+						"lib/parse.js"
+					],
+					[
+						"cons",
+						"lib/constrain.js"
+					],
+					[
+						"asset",
+						"test/asset.js"
+					],
+					[
+						"test_parse",
+						"test/test_parse.js"
+					],
+					[
+						"parse",
+						"lib/parse.js"
+					],
+					[
+						"common",
+						"test/common.js"
+					],
+					[
+						"user",
+						"lib/user.js"
+					],
+					[
+						"0_",
+						"scripts/0_init.js"
+					],
+					[
+						"todo",
+						"scripts/todo.js"
+					],
+					[
+						"dodo",
+						"node_modules/lomath/docs/annotated/docco.css"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"whosi",
+						"scripts/whois.js"
+					],
+					[
+						"const",
+						"brain/constrain.js"
+					],
+					[
+						"constr",
+						"brain/constrain.js"
+					],
+					[
+						"kb",
+						"scripts/KB_builder.js"
+					],
+					[
+						"consr",
+						"brain/constrain.js"
+					],
+					[
+						"meh",
+						"scripts/meh.js"
+					],
+					[
+						"meh2",
+						"scripts/meh2.js"
+					],
+					[
+						"npm",
+						"node_modules/scoped-http-client/src/npm-version.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"query",
+						"brain/query.js"
+					],
+					[
+						"kb_bui",
+						"scripts/KB_builder.js"
+					],
+					[
+						"lodas",
+						"node_modules/lodash/lodash.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"quer",
+						"brain/query.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"githu",
+						"app/scripts/github.js"
+					],
+					[
+						"",
+						"app/styles/lanyon.css"
+					],
+					[
+						"repo-card",
+						"repo-card.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.babel.js"
+					],
+					[
+						"t.",
+						"test/t.coffee"
+					],
+					[
+						"html",
+						"node_modules/html-tags/html-tags.json"
+					],
+					[
+						"side",
+						"app/scripts/side.js"
+					],
+					[
+						"repo",
+						"app/repo-card.html"
+					],
+					[
+						"github",
+						"app/scripts/github.js"
+					],
+					[
+						"cna",
+						"CNAME"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"pg",
+						"D/dirtree/pg.js"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"readm",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"mnis",
+						"mnist.py"
+					],
+					[
+						"test",
+						"D/monster/test.js"
+					],
+					[
+						"targe",
+						"D/monsprof/target.js"
+					],
+					[
+						"readme",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"genoption",
+						"D/lib/genOption.js"
+					],
+					[
+						"target",
+						"D/monster/target.js"
+					],
+					[
+						"main",
+						"D/monster/main.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 390.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 178,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pO",
+						"pOpsRe"
+					],
+					[
+						"rOpsH",
+						"rOpsHeadRe"
+					],
+					[
+						"wOpsH",
+						"wOpsHeadRe"
+					],
+					[
+						"sOp",
+						"sOpsRe"
+					],
+					[
+						"propLabe",
+						"propLabelB"
+					],
+					[
+						"propDis",
+						"propDistLabelE"
+					],
+					[
+						"labelS",
+						"LabelStrA"
+					],
+					[
+						"isLe",
+						"isLegalWSentence"
+					],
+					[
+						"isLega",
+						"isLegalSentence"
+					],
+					[
+						"rOps",
+						"rOpsReStr"
+					],
+					[
+						"c",
+						"chaining"
+					],
+					[
+						"prop",
+						"propLabelCount"
+					],
+					[
+						"propl",
+						"propLabelB"
+					],
+					[
+						"propLa",
+						"propLabelA"
+					],
+					[
+						"propL",
+						"propLabelB"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"singel",
+						"singleLabelQuery"
+					],
+					[
+						"stringi",
+						"stringifyLabel"
+					],
+					[
+						"propE",
+						"propLabelE"
+					],
+					[
+						"labe",
+						"labelStr"
+					],
+					[
+						"hash",
+						"hash_by"
+					],
+					[
+						"lit",
+						"literalizeProp"
+					],
+					[
+						"generat",
+						"generateMandatoryFields"
+					],
+					[
+						"mandator",
+						"mandatoryFields"
+					],
+					[
+						"manda",
+						"mandatoryFields"
+					],
+					[
+						"list-s",
+						"list-style-type"
+					],
+					[
+						"injec",
+						"inject2"
+					],
+					[
+						"castB",
+						"castBadgesForAll"
+					],
+					[
+						"create",
+						"createTable1"
+					],
+					[
+						"cli",
+						"client2"
+					],
+					[
+						"summa",
+						"summary_str"
+					],
+					[
+						"add",
+						"add_summary"
+					],
+					[
+						"feed",
+						"feed_dict"
+					],
+					[
+						"grah",
+						"graph_def"
+					],
+					[
+						"acc",
+						"accuracy_summary"
+					],
+					[
+						"name",
+						"name_scope"
+					],
+					[
+						"h_fc1",
+						"h_fc1_drop"
+					],
+					[
+						"h_pool2",
+						"h_pool2_flat"
+					],
+					[
+						"h_poo",
+						"h_pool2"
+					],
+					[
+						"bias",
+						"bias_variable"
+					],
+					[
+						"b_con",
+						"b_conv2"
+					],
+					[
+						"weig",
+						"weight_variable"
+					],
+					[
+						"h_",
+						"h_conv1"
+					],
+					[
+						"max_",
+						"max_pool_2x2"
+					],
+					[
+						"initia",
+						"initialize_all_variables"
+					],
+					[
+						"cross",
+						"cross_entropy"
+					],
+					[
+						"initil",
+						"initialize"
+					],
+					[
+						"matr",
+						"matrix2"
+					],
+					[
+						"chan",
+						"changeIP"
+					],
+					[
+						"demogra",
+						"demograph"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"missed",
+						"missedTargets"
+					],
+					[
+						"con",
+						"convnetjs"
+					],
+					[
+						"reqpro",
+						"reqpromise"
+					],
+					[
+						"reqpr",
+						"reqpromises"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/theredrose/Documents/peppurr/scripts/todo.js",
+					"settings":
+					{
+						"buffer_size": 5148,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/peppurr/.env",
+					"settings":
+					{
+						"buffer_size": 151,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/peppurr/lib/user.js",
+					"settings":
+					{
+						"buffer_size": 1569,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+					"settings":
+					{
+						"buffer_size": 1559,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/peppurr/README.md",
+					"settings":
+					{
+						"buffer_size": 6232,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
+					"settings":
+					{
+						"buffer_size": 17120,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							""
+						],
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"edito",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"coffee",
+						"Coffee: Check Syntax"
+					],
+					[
+						"coffeescr",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"editor",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"prettif",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"view re",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 452.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/theredrose/Documents/peppurr",
+				"/Users/theredrose/Documents/peppurr/lib",
+				"/Users/theredrose/Documents/peppurr/logs",
+				"/Users/theredrose/Documents/peppurr/test",
+				"/Users/theredrose/Documents/peppurr/test/lib",
+				"/Users/theredrose/Documents/peppurr/test/scripts"
+			],
+			"file_history":
+			[
+				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
+				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
+				"/Users/theredrose/Documents/peppurr/test/common.js",
+				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
+				"/Users/theredrose/Documents/peppurr/README.md",
+				"/Users/theredrose/Documents/peppurr/package.json",
+				"/Users/theredrose/Documents/peppurr/lib/user.js",
+				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
+				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/.env-example",
+				"/Users/theredrose/Documents/neo4jKB/,",
+				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
+				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/theredrose/Documents/Machines/machine.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
+				"/Users/theredrose/Documents/peppurr/brain/query.js",
+				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
+				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
+				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
+				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
+				"/Users/theredrose/Documents/peppurr/.env",
+				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
+				"/Users/theredrose/Documents/peppurr/bin/install",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
+				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
+				"/Users/theredrose/Documents/peppurr/meh",
+				"/Users/theredrose/Documents/peppurr/bin/hubot",
+				"/Users/theredrose/Documents/peppurr/index.js",
+				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
+				"/Users/theredrose/Documents/peppurr/test/meh.js",
+				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
+				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/Users/theredrose/Documents/peppurr/.editorconfig",
+				"/Users/theredrose/Documents/peppurr/test/t.coffee",
+				"/Users/theredrose/Documents/peppurr/.gitignore",
+				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
+				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
+				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
+				"/Users/theredrose/Documents/kengz.github.io/README.md",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
+				"/Users/theredrose/Documents/kengz.github.io/index2.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
+				"/Users/theredrose/Documents/kengz.github.io/package.json",
+				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
+				"/Users/theredrose/Desktop/repos",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/CNAME",
+				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
+				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
+				"/Users/theredrose/Documents/mac_setup/README.md",
+				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
+				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
+				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/.bash_profile",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
+				"/Users/theredrose/.forever/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/.index",
+				"/Users/theredrose/Documents/peppurr/scripts/test.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
+				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
+				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
+				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
+				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
+				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
+				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
+				"/Users/theredrose/Documents/wantanmee/README.md",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
+				"/Users/theredrose/.ssh/id_rsa.pub",
+				"/etc/sudoers",
+				"/usr/sbin/networksetup",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alice",
+					"test_to",
+					"task2",
+					"item",
+					"targetObj",
+					"undefined",
+					"index",
+					"markDown",
+					"index",
+					"flat",
+					"mat",
+					"pull",
+					"res",
+					"nameOrIndex",
+					"name",
+					"filter",
+					"pick",
+					"'",
+					"yield",
+					"assign",
+					"updated_when",
+					"keyword",
+					"priority",
+					"fieldArr",
+					"illegalize",
+					"created_by",
+					"neoRes",
+					"transNeoRes",
+					"_.size",
+					"res",
+					"flatIndexMat",
+					"transBeautify",
+					"join(",
+					"log",
+					"console",
+					"shit",
+					"picker",
+					"KB",
+					"picker",
+					"msg",
+					"assignTodo",
+					"low",
+					"transbeaut",
+					"sortRow",
+					"_.partial",
+					"partial",
+					"transBeautify",
+					"transform",
+					"partialRight",
+					"gather",
+					"function",
+					"neoRes",
+					"gather",
+					"KB",
+					"tail",
+					"sortByRow",
+					"neoRes",
+					"sortByRow",
+					"transNeoRes",
+					"neoRes",
+					"tail",
+					"mat",
+					"console",
+					"shit",
+					"alice",
+					"ID0000001",
+					"getId",
+					"userId",
+					"ID0000001",
+					"getId",
+					"ID0000001",
+					"eventually",
+					"alice",
+					"whois",
+					"alice",
+					"ID0000001",
+					"whois",
+					" describe 'whois', ->",
+					"describe 'whois', ->",
+					"	describe 'whois', ->",
+					"	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"root",
+					"alice",
+					"\"",
+					"string",
+					"user",
+					"users",
+					"keyword",
+					"scriptsPath",
+					"MockRobot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"0_init",
+					"this.robot",
+					"0_init",
+					"serialize_users",
+					"robot",
+					"@",
+					"function",
+					"Shell",
+					"serialize_users",
+					"spySer",
+					")\n",
+					"system",
+					"yield",
+					"Promise",
+					"var",
+					"whois",
+					"ping",
+					"user",
+					"0_init",
+					"scripts",
+					"parseObj",
+					"parseKV",
+					"task2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/theredrose/Documents/peppurr"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/theredrose/Documents/peppurr/scripts/todo.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5148,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3726,
+										3663
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2384.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/theredrose/Documents/peppurr/.env",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 151,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/Users/theredrose/Documents/peppurr/lib/user.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1569,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										539,
+										539
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 41.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1559,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1216,
+										1216
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 296.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/theredrose/Documents/peppurr/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6232,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1404,
+										1404
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 512.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17120,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3009,
+										2776
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1813.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 157.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 642 0 638 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"neo4jkb/lib/parse",
+						"node_modules/neo4jkb/lib/parse.js"
+					],
+					[
+						"common",
+						"test/common.js"
+					],
+					[
+						"user",
+						"lib/user.js"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"0_",
+						"scripts/0_init.js"
+					],
+					[
+						"todo",
+						"scripts/todo.js"
+					],
+					[
+						"dodo",
+						"node_modules/lomath/docs/annotated/docco.css"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"whosi",
+						"scripts/whois.js"
+					],
+					[
+						"const",
+						"brain/constrain.js"
+					],
+					[
+						"constr",
+						"brain/constrain.js"
+					],
+					[
+						"cons",
+						"brain/constrain.js"
+					],
+					[
+						"kb",
+						"scripts/KB_builder.js"
+					],
+					[
+						"consr",
+						"brain/constrain.js"
+					],
+					[
+						"meh",
+						"scripts/meh.js"
+					],
+					[
+						"meh2",
+						"scripts/meh2.js"
+					],
+					[
+						"npm",
+						"node_modules/scoped-http-client/src/npm-version.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"query",
+						"brain/query.js"
+					],
+					[
+						"kb_bui",
+						"scripts/KB_builder.js"
+					],
+					[
+						"lodas",
+						"node_modules/lodash/lodash.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"quer",
+						"brain/query.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"githu",
+						"app/scripts/github.js"
+					],
+					[
+						"",
+						"app/styles/lanyon.css"
+					],
+					[
+						"repo-card",
+						"repo-card.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.babel.js"
+					],
+					[
+						"t.",
+						"test/t.coffee"
+					],
+					[
+						"html",
+						"node_modules/html-tags/html-tags.json"
+					],
+					[
+						"side",
+						"app/scripts/side.js"
+					],
+					[
+						"repo",
+						"app/repo-card.html"
+					],
+					[
+						"github",
+						"app/scripts/github.js"
+					],
+					[
+						"cna",
+						"CNAME"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"pg",
+						"D/dirtree/pg.js"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"readm",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"mnis",
+						"mnist.py"
+					],
+					[
+						"test",
+						"D/monster/test.js"
+					],
+					[
+						"targe",
+						"D/monsprof/target.js"
+					],
+					[
+						"readme",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"genoption",
+						"D/lib/genOption.js"
+					],
+					[
+						"target",
+						"D/monster/target.js"
+					],
+					[
+						"main",
+						"D/monster/main.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 390.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 176,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pO",
+						"pOpsRe"
+					],
+					[
+						"rOpsH",
+						"rOpsHeadRe"
+					],
+					[
+						"wOpsH",
+						"wOpsHeadRe"
+					],
+					[
+						"sOp",
+						"sOpsRe"
+					],
+					[
+						"propLabe",
+						"propLabelB"
+					],
+					[
+						"propDis",
+						"propDistLabelE"
+					],
+					[
+						"labelS",
+						"LabelStrA"
+					],
+					[
+						"isLe",
+						"isLegalWSentence"
+					],
+					[
+						"isLega",
+						"isLegalSentence"
+					],
+					[
+						"rOps",
+						"rOpsReStr"
+					],
+					[
+						"c",
+						"chaining"
+					],
+					[
+						"prop",
+						"propLabelCount"
+					],
+					[
+						"propl",
+						"propLabelB"
+					],
+					[
+						"propLa",
+						"propLabelA"
+					],
+					[
+						"propL",
+						"propLabelB"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"singel",
+						"singleLabelQuery"
+					],
+					[
+						"stringi",
+						"stringifyLabel"
+					],
+					[
+						"propE",
+						"propLabelE"
+					],
+					[
+						"labe",
+						"labelStr"
+					],
+					[
+						"hash",
+						"hash_by"
+					],
+					[
+						"lit",
+						"literalizeProp"
+					],
+					[
+						"generat",
+						"generateMandatoryFields"
+					],
+					[
+						"mandator",
+						"mandatoryFields"
+					],
+					[
+						"manda",
+						"mandatoryFields"
+					],
+					[
+						"list-s",
+						"list-style-type"
+					],
+					[
+						"injec",
+						"inject2"
+					],
+					[
+						"castB",
+						"castBadgesForAll"
+					],
+					[
+						"create",
+						"createTable1"
+					],
+					[
+						"cli",
+						"client2"
+					],
+					[
+						"summa",
+						"summary_str"
+					],
+					[
+						"add",
+						"add_summary"
+					],
+					[
+						"feed",
+						"feed_dict"
+					],
+					[
+						"grah",
+						"graph_def"
+					],
+					[
+						"acc",
+						"accuracy_summary"
+					],
+					[
+						"name",
+						"name_scope"
+					],
+					[
+						"h_fc1",
+						"h_fc1_drop"
+					],
+					[
+						"h_pool2",
+						"h_pool2_flat"
+					],
+					[
+						"h_poo",
+						"h_pool2"
+					],
+					[
+						"bias",
+						"bias_variable"
+					],
+					[
+						"b_con",
+						"b_conv2"
+					],
+					[
+						"weig",
+						"weight_variable"
+					],
+					[
+						"h_",
+						"h_conv1"
+					],
+					[
+						"max_",
+						"max_pool_2x2"
+					],
+					[
+						"initia",
+						"initialize_all_variables"
+					],
+					[
+						"cross",
+						"cross_entropy"
+					],
+					[
+						"initil",
+						"initialize"
+					],
+					[
+						"matr",
+						"matrix2"
+					],
+					[
+						"chan",
+						"changeIP"
+					],
+					[
+						"demogra",
+						"demograph"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"missed",
+						"missedTargets"
+					],
+					[
+						"con",
+						"convnetjs"
+					],
+					[
+						"reqpro",
+						"reqpromise"
+					],
+					[
+						"reqpr",
+						"reqpromises"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/theredrose/Documents/rub/index.rb",
+					"settings":
+					{
+						"buffer_size": 3680,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/theredrose/Documents/rub/module1.rb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							""
+						],
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"edito",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"coffee",
+						"Coffee: Check Syntax"
+					],
+					[
+						"coffeescr",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"editor",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"prettif",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"view re",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 452.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/theredrose/Documents/rub"
+			],
+			"file_history":
+			[
+				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
+				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
+				"/Users/theredrose/Documents/peppurr/test/common.js",
+				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
+				"/Users/theredrose/Documents/peppurr/README.md",
+				"/Users/theredrose/Documents/peppurr/package.json",
+				"/Users/theredrose/Documents/peppurr/lib/user.js",
+				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
+				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/.env-example",
+				"/Users/theredrose/Documents/neo4jKB/,",
+				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
+				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/theredrose/Documents/Machines/machine.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
+				"/Users/theredrose/Documents/peppurr/brain/query.js",
+				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
+				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
+				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
+				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
+				"/Users/theredrose/Documents/peppurr/.env",
+				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
+				"/Users/theredrose/Documents/peppurr/bin/install",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
+				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
+				"/Users/theredrose/Documents/peppurr/meh",
+				"/Users/theredrose/Documents/peppurr/bin/hubot",
+				"/Users/theredrose/Documents/peppurr/index.js",
+				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
+				"/Users/theredrose/Documents/peppurr/test/meh.js",
+				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
+				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/Users/theredrose/Documents/peppurr/.editorconfig",
+				"/Users/theredrose/Documents/peppurr/test/t.coffee",
+				"/Users/theredrose/Documents/peppurr/.gitignore",
+				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
+				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
+				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
+				"/Users/theredrose/Documents/kengz.github.io/README.md",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
+				"/Users/theredrose/Documents/kengz.github.io/index2.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
+				"/Users/theredrose/Documents/kengz.github.io/package.json",
+				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
+				"/Users/theredrose/Desktop/repos",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/CNAME",
+				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
+				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
+				"/Users/theredrose/Documents/mac_setup/README.md",
+				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
+				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
+				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/.bash_profile",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
+				"/Users/theredrose/.forever/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/.index",
+				"/Users/theredrose/Documents/peppurr/scripts/test.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
+				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
+				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
+				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
+				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
+				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
+				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
+				"/Users/theredrose/Documents/wantanmee/README.md",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
+				"/Users/theredrose/.ssh/id_rsa.pub",
+				"/etc/sudoers",
+				"/usr/sbin/networksetup",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alice",
+					"test_to",
+					"task2",
+					"item",
+					"targetObj",
+					"undefined",
+					"index",
+					"markDown",
+					"index",
+					"flat",
+					"mat",
+					"pull",
+					"res",
+					"nameOrIndex",
+					"name",
+					"filter",
+					"pick",
+					"'",
+					"yield",
+					"assign",
+					"updated_when",
+					"keyword",
+					"priority",
+					"fieldArr",
+					"illegalize",
+					"created_by",
+					"neoRes",
+					"transNeoRes",
+					"_.size",
+					"res",
+					"flatIndexMat",
+					"transBeautify",
+					"join(",
+					"log",
+					"console",
+					"shit",
+					"picker",
+					"KB",
+					"picker",
+					"msg",
+					"assignTodo",
+					"low",
+					"transbeaut",
+					"sortRow",
+					"_.partial",
+					"partial",
+					"transBeautify",
+					"transform",
+					"partialRight",
+					"gather",
+					"function",
+					"neoRes",
+					"gather",
+					"KB",
+					"tail",
+					"sortByRow",
+					"neoRes",
+					"sortByRow",
+					"transNeoRes",
+					"neoRes",
+					"tail",
+					"mat",
+					"console",
+					"shit",
+					"alice",
+					"ID0000001",
+					"getId",
+					"userId",
+					"ID0000001",
+					"getId",
+					"ID0000001",
+					"eventually",
+					"alice",
+					"whois",
+					"alice",
+					"ID0000001",
+					"whois",
+					" describe 'whois', ->",
+					"describe 'whois', ->",
+					"	describe 'whois', ->",
+					"	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"root",
+					"alice",
+					"\"",
+					"string",
+					"user",
+					"users",
+					"keyword",
+					"scriptsPath",
+					"MockRobot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"0_init",
+					"this.robot",
+					"0_init",
+					"serialize_users",
+					"robot",
+					"@",
+					"function",
+					"Shell",
+					"serialize_users",
+					"spySer",
+					")\n",
+					"system",
+					"yield",
+					"Promise",
+					"var",
+					"whois",
+					"ping",
+					"user",
+					"0_init",
+					"scripts",
+					"parseObj",
+					"parseKV",
+					"task2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/theredrose/Documents/rub"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/theredrose/Documents/rub/index.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3680,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										417,
+										417
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/theredrose/Documents/rub/module1.rb",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 157.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 319 0 638 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"neo4jkb/lib/parse",
+						"node_modules/neo4jkb/lib/parse.js"
+					],
+					[
+						"common",
+						"test/common.js"
+					],
+					[
+						"user",
+						"lib/user.js"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"0_",
+						"scripts/0_init.js"
+					],
+					[
+						"todo",
+						"scripts/todo.js"
+					],
+					[
+						"dodo",
+						"node_modules/lomath/docs/annotated/docco.css"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"whosi",
+						"scripts/whois.js"
+					],
+					[
+						"const",
+						"brain/constrain.js"
+					],
+					[
+						"constr",
+						"brain/constrain.js"
+					],
+					[
+						"cons",
+						"brain/constrain.js"
+					],
+					[
+						"kb",
+						"scripts/KB_builder.js"
+					],
+					[
+						"consr",
+						"brain/constrain.js"
+					],
+					[
+						"meh",
+						"scripts/meh.js"
+					],
+					[
+						"meh2",
+						"scripts/meh2.js"
+					],
+					[
+						"npm",
+						"node_modules/scoped-http-client/src/npm-version.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"query",
+						"brain/query.js"
+					],
+					[
+						"kb_bui",
+						"scripts/KB_builder.js"
+					],
+					[
+						"lodas",
+						"node_modules/lodash/lodash.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"quer",
+						"brain/query.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"githu",
+						"app/scripts/github.js"
+					],
+					[
+						"",
+						"app/styles/lanyon.css"
+					],
+					[
+						"repo-card",
+						"repo-card.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.babel.js"
+					],
+					[
+						"t.",
+						"test/t.coffee"
+					],
+					[
+						"html",
+						"node_modules/html-tags/html-tags.json"
+					],
+					[
+						"side",
+						"app/scripts/side.js"
+					],
+					[
+						"repo",
+						"app/repo-card.html"
+					],
+					[
+						"github",
+						"app/scripts/github.js"
+					],
+					[
+						"cna",
+						"CNAME"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"pg",
+						"D/dirtree/pg.js"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"readm",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"mnis",
+						"mnist.py"
+					],
+					[
+						"test",
+						"D/monster/test.js"
+					],
+					[
+						"targe",
+						"D/monsprof/target.js"
+					],
+					[
+						"readme",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"genoption",
+						"D/lib/genOption.js"
+					],
+					[
+						"target",
+						"D/monster/target.js"
+					],
+					[
+						"main",
+						"D/monster/main.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 390.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 180,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pO",
+						"pOpsRe"
+					],
+					[
+						"rOpsH",
+						"rOpsHeadRe"
+					],
+					[
+						"wOpsH",
+						"wOpsHeadRe"
+					],
+					[
+						"sOp",
+						"sOpsRe"
+					],
+					[
+						"propLabe",
+						"propLabelB"
+					],
+					[
+						"propDis",
+						"propDistLabelE"
+					],
+					[
+						"labelS",
+						"LabelStrA"
+					],
+					[
+						"isLe",
+						"isLegalWSentence"
+					],
+					[
+						"isLega",
+						"isLegalSentence"
+					],
+					[
+						"rOps",
+						"rOpsReStr"
+					],
+					[
+						"c",
+						"chaining"
+					],
+					[
+						"prop",
+						"propLabelCount"
+					],
+					[
+						"propl",
+						"propLabelB"
+					],
+					[
+						"propLa",
+						"propLabelA"
+					],
+					[
+						"propL",
+						"propLabelB"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"singel",
+						"singleLabelQuery"
+					],
+					[
+						"stringi",
+						"stringifyLabel"
+					],
+					[
+						"propE",
+						"propLabelE"
+					],
+					[
+						"labe",
+						"labelStr"
+					],
+					[
+						"hash",
+						"hash_by"
+					],
+					[
+						"lit",
+						"literalizeProp"
+					],
+					[
+						"generat",
+						"generateMandatoryFields"
+					],
+					[
+						"mandator",
+						"mandatoryFields"
+					],
+					[
+						"manda",
+						"mandatoryFields"
+					],
+					[
+						"list-s",
+						"list-style-type"
+					],
+					[
+						"injec",
+						"inject2"
+					],
+					[
+						"castB",
+						"castBadgesForAll"
+					],
+					[
+						"create",
+						"createTable1"
+					],
+					[
+						"cli",
+						"client2"
+					],
+					[
+						"summa",
+						"summary_str"
+					],
+					[
+						"add",
+						"add_summary"
+					],
+					[
+						"feed",
+						"feed_dict"
+					],
+					[
+						"grah",
+						"graph_def"
+					],
+					[
+						"acc",
+						"accuracy_summary"
+					],
+					[
+						"name",
+						"name_scope"
+					],
+					[
+						"h_fc1",
+						"h_fc1_drop"
+					],
+					[
+						"h_pool2",
+						"h_pool2_flat"
+					],
+					[
+						"h_poo",
+						"h_pool2"
+					],
+					[
+						"bias",
+						"bias_variable"
+					],
+					[
+						"b_con",
+						"b_conv2"
+					],
+					[
+						"weig",
+						"weight_variable"
+					],
+					[
+						"h_",
+						"h_conv1"
+					],
+					[
+						"max_",
+						"max_pool_2x2"
+					],
+					[
+						"initia",
+						"initialize_all_variables"
+					],
+					[
+						"cross",
+						"cross_entropy"
+					],
+					[
+						"initil",
+						"initialize"
+					],
+					[
+						"matr",
+						"matrix2"
+					],
+					[
+						"chan",
+						"changeIP"
+					],
+					[
+						"demogra",
+						"demograph"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"missed",
+						"missedTargets"
+					],
+					[
+						"con",
+						"convnetjs"
+					],
+					[
+						"reqpro",
+						"reqpromise"
+					],
+					[
+						"reqpr",
+						"reqpromises"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/theredrose/Documents/Deal_Aggregator/.gitignore",
+					"settings":
+					{
+						"buffer_size": 607,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							""
+						],
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"edito",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"coffee",
+						"Coffee: Check Syntax"
+					],
+					[
+						"coffeescr",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"editor",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"prettif",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"view re",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 452.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/theredrose/Documents/Deal_Aggregator"
+			],
+			"file_history":
+			[
+				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
+				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
+				"/Users/theredrose/Documents/peppurr/test/common.js",
+				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
+				"/Users/theredrose/Documents/peppurr/README.md",
+				"/Users/theredrose/Documents/peppurr/package.json",
+				"/Users/theredrose/Documents/peppurr/lib/user.js",
+				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
+				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/.env-example",
+				"/Users/theredrose/Documents/neo4jKB/,",
+				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
+				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/theredrose/Documents/Machines/machine.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
+				"/Users/theredrose/Documents/peppurr/brain/query.js",
+				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
+				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
+				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
+				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
+				"/Users/theredrose/Documents/peppurr/.env",
+				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
+				"/Users/theredrose/Documents/peppurr/bin/install",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
+				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
+				"/Users/theredrose/Documents/peppurr/meh",
+				"/Users/theredrose/Documents/peppurr/bin/hubot",
+				"/Users/theredrose/Documents/peppurr/index.js",
+				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
+				"/Users/theredrose/Documents/peppurr/test/meh.js",
+				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
+				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/Users/theredrose/Documents/peppurr/.editorconfig",
+				"/Users/theredrose/Documents/peppurr/test/t.coffee",
+				"/Users/theredrose/Documents/peppurr/.gitignore",
+				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
+				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
+				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
+				"/Users/theredrose/Documents/kengz.github.io/README.md",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
+				"/Users/theredrose/Documents/kengz.github.io/index2.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
+				"/Users/theredrose/Documents/kengz.github.io/package.json",
+				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
+				"/Users/theredrose/Desktop/repos",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/CNAME",
+				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
+				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
+				"/Users/theredrose/Documents/mac_setup/README.md",
+				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
+				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
+				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/.bash_profile",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
+				"/Users/theredrose/.forever/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/.index",
+				"/Users/theredrose/Documents/peppurr/scripts/test.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
+				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
+				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
+				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
+				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
+				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
+				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
+				"/Users/theredrose/Documents/wantanmee/README.md",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
+				"/Users/theredrose/.ssh/id_rsa.pub",
+				"/etc/sudoers",
+				"/usr/sbin/networksetup",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alice",
+					"test_to",
+					"task2",
+					"item",
+					"targetObj",
+					"undefined",
+					"index",
+					"markDown",
+					"index",
+					"flat",
+					"mat",
+					"pull",
+					"res",
+					"nameOrIndex",
+					"name",
+					"filter",
+					"pick",
+					"'",
+					"yield",
+					"assign",
+					"updated_when",
+					"keyword",
+					"priority",
+					"fieldArr",
+					"illegalize",
+					"created_by",
+					"neoRes",
+					"transNeoRes",
+					"_.size",
+					"res",
+					"flatIndexMat",
+					"transBeautify",
+					"join(",
+					"log",
+					"console",
+					"shit",
+					"picker",
+					"KB",
+					"picker",
+					"msg",
+					"assignTodo",
+					"low",
+					"transbeaut",
+					"sortRow",
+					"_.partial",
+					"partial",
+					"transBeautify",
+					"transform",
+					"partialRight",
+					"gather",
+					"function",
+					"neoRes",
+					"gather",
+					"KB",
+					"tail",
+					"sortByRow",
+					"neoRes",
+					"sortByRow",
+					"transNeoRes",
+					"neoRes",
+					"tail",
+					"mat",
+					"console",
+					"shit",
+					"alice",
+					"ID0000001",
+					"getId",
+					"userId",
+					"ID0000001",
+					"getId",
+					"ID0000001",
+					"eventually",
+					"alice",
+					"whois",
+					"alice",
+					"ID0000001",
+					"whois",
+					" describe 'whois', ->",
+					"describe 'whois', ->",
+					"	describe 'whois', ->",
+					"	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"root",
+					"alice",
+					"\"",
+					"string",
+					"user",
+					"users",
+					"keyword",
+					"scriptsPath",
+					"MockRobot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"0_init",
+					"this.robot",
+					"0_init",
+					"serialize_users",
+					"robot",
+					"@",
+					"function",
+					"Shell",
+					"serialize_users",
+					"spySer",
+					")\n",
+					"system",
+					"yield",
+					"Promise",
+					"var",
+					"whois",
+					"ping",
+					"user",
+					"0_init",
+					"scripts",
+					"parseObj",
+					"parseKV",
+					"task2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/theredrose/Documents/Deal_Aggregator"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/theredrose/Documents/Deal_Aggregator/.gitignore",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 607,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 157.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 319 0 638 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"neo4jkb/lib/parse",
+						"node_modules/neo4jkb/lib/parse.js"
+					],
+					[
+						"common",
+						"test/common.js"
+					],
+					[
+						"user",
+						"lib/user.js"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"0_",
+						"scripts/0_init.js"
+					],
+					[
+						"todo",
+						"scripts/todo.js"
+					],
+					[
+						"dodo",
+						"node_modules/lomath/docs/annotated/docco.css"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"whosi",
+						"scripts/whois.js"
+					],
+					[
+						"const",
+						"brain/constrain.js"
+					],
+					[
+						"constr",
+						"brain/constrain.js"
+					],
+					[
+						"cons",
+						"brain/constrain.js"
+					],
+					[
+						"kb",
+						"scripts/KB_builder.js"
+					],
+					[
+						"consr",
+						"brain/constrain.js"
+					],
+					[
+						"meh",
+						"scripts/meh.js"
+					],
+					[
+						"meh2",
+						"scripts/meh2.js"
+					],
+					[
+						"npm",
+						"node_modules/scoped-http-client/src/npm-version.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"query",
+						"brain/query.js"
+					],
+					[
+						"kb_bui",
+						"scripts/KB_builder.js"
+					],
+					[
+						"lodas",
+						"node_modules/lodash/lodash.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"quer",
+						"brain/query.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"githu",
+						"app/scripts/github.js"
+					],
+					[
+						"",
+						"app/styles/lanyon.css"
+					],
+					[
+						"repo-card",
+						"repo-card.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.babel.js"
+					],
+					[
+						"t.",
+						"test/t.coffee"
+					],
+					[
+						"html",
+						"node_modules/html-tags/html-tags.json"
+					],
+					[
+						"side",
+						"app/scripts/side.js"
+					],
+					[
+						"repo",
+						"app/repo-card.html"
+					],
+					[
+						"github",
+						"app/scripts/github.js"
+					],
+					[
+						"cna",
+						"CNAME"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"pg",
+						"D/dirtree/pg.js"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"readm",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"mnis",
+						"mnist.py"
+					],
+					[
+						"test",
+						"D/monster/test.js"
+					],
+					[
+						"targe",
+						"D/monsprof/target.js"
+					],
+					[
+						"readme",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"genoption",
+						"D/lib/genOption.js"
+					],
+					[
+						"target",
+						"D/monster/target.js"
+					],
+					[
+						"main",
+						"D/monster/main.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 390.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 182,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pO",
+						"pOpsRe"
+					],
+					[
+						"rOpsH",
+						"rOpsHeadRe"
+					],
+					[
+						"wOpsH",
+						"wOpsHeadRe"
+					],
+					[
+						"sOp",
+						"sOpsRe"
+					],
+					[
+						"propLabe",
+						"propLabelB"
+					],
+					[
+						"propDis",
+						"propDistLabelE"
+					],
+					[
+						"labelS",
+						"LabelStrA"
+					],
+					[
+						"isLe",
+						"isLegalWSentence"
+					],
+					[
+						"isLega",
+						"isLegalSentence"
+					],
+					[
+						"rOps",
+						"rOpsReStr"
+					],
+					[
+						"c",
+						"chaining"
+					],
+					[
+						"prop",
+						"propLabelCount"
+					],
+					[
+						"propl",
+						"propLabelB"
+					],
+					[
+						"propLa",
+						"propLabelA"
+					],
+					[
+						"propL",
+						"propLabelB"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"singel",
+						"singleLabelQuery"
+					],
+					[
+						"stringi",
+						"stringifyLabel"
+					],
+					[
+						"propE",
+						"propLabelE"
+					],
+					[
+						"labe",
+						"labelStr"
+					],
+					[
+						"hash",
+						"hash_by"
+					],
+					[
+						"lit",
+						"literalizeProp"
+					],
+					[
+						"generat",
+						"generateMandatoryFields"
+					],
+					[
+						"mandator",
+						"mandatoryFields"
+					],
+					[
+						"manda",
+						"mandatoryFields"
+					],
+					[
+						"list-s",
+						"list-style-type"
+					],
+					[
+						"injec",
+						"inject2"
+					],
+					[
+						"castB",
+						"castBadgesForAll"
+					],
+					[
+						"create",
+						"createTable1"
+					],
+					[
+						"cli",
+						"client2"
+					],
+					[
+						"summa",
+						"summary_str"
+					],
+					[
+						"add",
+						"add_summary"
+					],
+					[
+						"feed",
+						"feed_dict"
+					],
+					[
+						"grah",
+						"graph_def"
+					],
+					[
+						"acc",
+						"accuracy_summary"
+					],
+					[
+						"name",
+						"name_scope"
+					],
+					[
+						"h_fc1",
+						"h_fc1_drop"
+					],
+					[
+						"h_pool2",
+						"h_pool2_flat"
+					],
+					[
+						"h_poo",
+						"h_pool2"
+					],
+					[
+						"bias",
+						"bias_variable"
+					],
+					[
+						"b_con",
+						"b_conv2"
+					],
+					[
+						"weig",
+						"weight_variable"
+					],
+					[
+						"h_",
+						"h_conv1"
+					],
+					[
+						"max_",
+						"max_pool_2x2"
+					],
+					[
+						"initia",
+						"initialize_all_variables"
+					],
+					[
+						"cross",
+						"cross_entropy"
+					],
+					[
+						"initil",
+						"initialize"
+					],
+					[
+						"matr",
+						"matrix2"
+					],
+					[
+						"chan",
+						"changeIP"
+					],
+					[
+						"demogra",
+						"demograph"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"missed",
+						"missedTargets"
+					],
+					[
+						"con",
+						"convnetjs"
+					],
+					[
+						"reqpro",
+						"reqpromise"
+					],
+					[
+						"reqpr",
+						"reqpromises"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/theredrose/Documents/mac_setup/setup",
+					"settings":
+					{
+						"buffer_size": 8853,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							""
+						],
+						[
+							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"edito",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"coffee",
+						"Coffee: Check Syntax"
+					],
+					[
+						"coffeescr",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"editor",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"prettif",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"view re",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 452.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/theredrose/Documents/mac_setup"
+			],
+			"file_history":
+			[
+				"/Users/theredrose/.bash_profile",
+				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
+				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
+				"/Users/theredrose/Documents/peppurr/test/common.js",
+				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
+				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
+				"/Users/theredrose/Documents/peppurr/README.md",
+				"/Users/theredrose/Documents/peppurr/package.json",
+				"/Users/theredrose/Documents/peppurr/lib/user.js",
+				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
+				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
+				"/Users/theredrose/Documents/peppurr/.env-example",
+				"/Users/theredrose/Documents/neo4jKB/,",
+				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
+				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/theredrose/Documents/Machines/machine.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
+				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
+				"/Users/theredrose/Documents/peppurr/brain/query.js",
+				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
+				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
+				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
+				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
+				"/Users/theredrose/Documents/peppurr/.env",
+				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
+				"/Users/theredrose/Documents/peppurr/bin/install",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
+				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
+				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
+				"/Users/theredrose/Documents/peppurr/meh",
+				"/Users/theredrose/Documents/peppurr/bin/hubot",
+				"/Users/theredrose/Documents/peppurr/index.js",
+				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
+				"/Users/theredrose/Documents/peppurr/test/meh.js",
+				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
+				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
+				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+				"/Users/theredrose/Documents/peppurr/.editorconfig",
+				"/Users/theredrose/Documents/peppurr/test/t.coffee",
+				"/Users/theredrose/Documents/peppurr/.gitignore",
+				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/index.html",
+				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
+				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
+				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
+				"/Users/theredrose/Documents/kengz.github.io/README.md",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
+				"/Users/theredrose/Documents/kengz.github.io/index2.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
+				"/Users/theredrose/Documents/kengz.github.io/package.json",
+				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
+				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
+				"/Users/theredrose/Desktop/repos",
+				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
+				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
+				"/Users/theredrose/Documents/kengz.github.io/CNAME",
+				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
+				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
+				"/Users/theredrose/Documents/mac_setup/README.md",
+				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
+				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
+				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
+				"/Users/theredrose/.forever/peppurr.log",
+				"/Users/theredrose/Documents/peppurr/logs/.index",
+				"/Users/theredrose/Documents/peppurr/scripts/test.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
+				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
+				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
+				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
+				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
+				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
+				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
+				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
+				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
+				"/Users/theredrose/Documents/wantanmee/README.md",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
+				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
+				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
+				"/Users/theredrose/.ssh/id_rsa.pub",
+				"/etc/sudoers",
+				"/usr/sbin/networksetup",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
+				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"-v",
+					"install",
+					"RVM",
+					"ruby",
+					"alice",
+					"test_to",
+					"task2",
+					"item",
+					"targetObj",
+					"undefined",
+					"index",
+					"markDown",
+					"index",
+					"flat",
+					"mat",
+					"pull",
+					"res",
+					"nameOrIndex",
+					"name",
+					"filter",
+					"pick",
+					"'",
+					"yield",
+					"assign",
+					"updated_when",
+					"keyword",
+					"priority",
+					"fieldArr",
+					"illegalize",
+					"created_by",
+					"neoRes",
+					"transNeoRes",
+					"_.size",
+					"res",
+					"flatIndexMat",
+					"transBeautify",
+					"join(",
+					"log",
+					"console",
+					"shit",
+					"picker",
+					"KB",
+					"picker",
+					"msg",
+					"assignTodo",
+					"low",
+					"transbeaut",
+					"sortRow",
+					"_.partial",
+					"partial",
+					"transBeautify",
+					"transform",
+					"partialRight",
+					"gather",
+					"function",
+					"neoRes",
+					"gather",
+					"KB",
+					"tail",
+					"sortByRow",
+					"neoRes",
+					"sortByRow",
+					"transNeoRes",
+					"neoRes",
+					"tail",
+					"mat",
+					"console",
+					"shit",
+					"alice",
+					"ID0000001",
+					"getId",
+					"userId",
+					"ID0000001",
+					"getId",
+					"ID0000001",
+					"eventually",
+					"alice",
+					"whois",
+					"alice",
+					"ID0000001",
+					"whois",
+					" describe 'whois', ->",
+					"describe 'whois', ->",
+					"	describe 'whois', ->",
+					"	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
+					"describe 'lib/user.js', ->\n",
+					"root",
+					"alice",
+					"\"",
+					"string",
+					"user",
+					"users",
+					"keyword",
+					"scriptsPath",
+					"MockRobot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"hubot",
+					"Hubot",
+					"0_init",
+					"this.robot",
+					"0_init",
+					"serialize_users",
+					"robot",
+					"@",
+					"function",
+					"Shell",
+					"serialize_users",
+					"spySer",
+					")\n",
+					"system",
+					"yield",
+					"Promise",
+					"var",
+					"whois",
+					"ping",
+					"user",
+					"0_init"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/theredrose/Documents/mac_setup"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/theredrose/Documents/mac_setup/setup",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8853,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7230,
+										7230
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4902.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 157.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 561 0 638 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"neo4jkb/lib/parse",
+						"node_modules/neo4jkb/lib/parse.js"
+					],
+					[
+						"common",
+						"test/common.js"
+					],
+					[
+						"user",
+						"lib/user.js"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"0_",
+						"scripts/0_init.js"
+					],
+					[
+						"todo",
+						"scripts/todo.js"
+					],
+					[
+						"dodo",
+						"node_modules/lomath/docs/annotated/docco.css"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"whosi",
+						"scripts/whois.js"
+					],
+					[
+						"const",
+						"brain/constrain.js"
+					],
+					[
+						"constr",
+						"brain/constrain.js"
+					],
+					[
+						"cons",
+						"brain/constrain.js"
+					],
+					[
+						"kb",
+						"scripts/KB_builder.js"
+					],
+					[
+						"consr",
+						"brain/constrain.js"
+					],
+					[
+						"meh",
+						"scripts/meh.js"
+					],
+					[
+						"meh2",
+						"scripts/meh2.js"
+					],
+					[
+						"npm",
+						"node_modules/scoped-http-client/src/npm-version.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"query",
+						"brain/query.js"
+					],
+					[
+						"kb_bui",
+						"scripts/KB_builder.js"
+					],
+					[
+						"lodas",
+						"node_modules/lodash/lodash.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"quer",
+						"brain/query.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"githu",
+						"app/scripts/github.js"
+					],
+					[
+						"",
+						"app/styles/lanyon.css"
+					],
+					[
+						"repo-card",
+						"repo-card.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.babel.js"
+					],
+					[
+						"t.",
+						"test/t.coffee"
+					],
+					[
+						"html",
+						"node_modules/html-tags/html-tags.json"
+					],
+					[
+						"side",
+						"app/scripts/side.js"
+					],
+					[
+						"repo",
+						"app/repo-card.html"
+					],
+					[
+						"github",
+						"app/scripts/github.js"
+					],
+					[
+						"cna",
+						"CNAME"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"pg",
+						"D/dirtree/pg.js"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"readm",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"mnis",
+						"mnist.py"
+					],
+					[
+						"test",
+						"D/monster/test.js"
+					],
+					[
+						"targe",
+						"D/monsprof/target.js"
+					],
+					[
+						"readme",
+						"node_modules/colors/ReadMe.md"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"genoption",
+						"D/lib/genOption.js"
+					],
+					[
+						"target",
+						"D/monster/target.js"
+					],
+					[
+						"main",
+						"D/monster/main.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 390.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 183,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{
