@@ -2,7 +2,8 @@
   "shell_cmd": "python3 -u \"$file\"",
   "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
   "selector": "source.python",
-
+  "encoding": "utf8",
+  "env": {"PYTHONIOENCODING": "UTF-8"},
   "variants":
   [
     {

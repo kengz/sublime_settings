@@ -1,34 +1,81 @@
 {
 	"folder_history":
 	[
+		"/Users/theredrose/Downloads",
+		"/Users/theredrose/Documents/aiva",
 		"/Users/theredrose/Documents/mac_setup",
-		"/Users/theredrose/Documents/Deal_Aggregator",
-		"/Users/theredrose/Documents",
-		"/Users/theredrose/Documents/rub",
-		"/Users/theredrose/Documents/lomath",
+		"/Users/theredrose/Documents/ai-notebook",
+		"/Users/theredrose/Downloads/Global Hackers Slack export Mar 28 2016",
+		"/Users/theredrose/Documents/reqscraper",
+		"/Users/theredrose/Desktop/tensorflow",
+		"/Users/theredrose/Documents/node-sdk",
 		"/Users/theredrose/Documents/neo4jKB",
+		"/Users/theredrose/Documents/node-concept-net",
+		"/Users/theredrose/Desktop/node-concept-net",
+		"/Users/theredrose/Desktop/conceptnet5.wiki",
+		"/Users/theredrose/Desktop/superscript",
+		"/Users/theredrose/Documents/neo4j-procedure-template",
+		"/Users/theredrose/Documents/wantanmee",
+		"/Users/theredrose/Documents/tensorflow-notebook",
+		"/Users/theredrose/Documents/jarvis",
+		"/usr/local/lib/python3.5/site-packages/tensorflow/models",
+		"/Users/theredrose/Downloads/dbpedia_csv",
+		"/usr/local/lib/python3.5/site-packages/skflow",
+		"/Users/theredrose/Documents/ai-notebook/tf_examples",
+		"/Users/theredrose/Documents/ai-notebook/skflow",
+		"/Users/theredrose/Documents/jarvis/lib/py",
 		"/Users/theredrose/Documents/peppurr",
+		"/Users/theredrose/Documents/alchemyapi_node",
+		"/Users/theredrose/Documents/watson",
+		"/Users/theredrose",
+		"/Users/theredrose/Documents/date",
+		"/Users/theredrose/Documents/date/lib",
+		"/Users/theredrose/Documents/date/node_modules/lodash.sortby",
+		"/Users/theredrose/Documents/nlp-time",
+		"/Users/theredrose/Documents/rub",
+		"/Users/theredrose/Documents/Deal_Aggregator",
+		"/usr/local/lib/python3.5/site-packages/socketIO_client",
+		"/Users/theredrose/Documents/socketIO-client",
+		"/Users/theredrose/Documents/peppurr/lib",
+		"/usr/local/lib/python3.5/site-packages",
+		"/Users/theredrose/Documents/gh-jarvis",
+		"/Users/theredrose/Documents/Machines",
+		"/Users/theredrose/Documents/lomath",
+		"/Users/theredrose/Documents/chrono",
+		"/Users/theredrose/Documents/chronic",
+		"/Users/theredrose/.ssh",
+		"/Users/theredrose/Documents/python-structure",
+		"/Users/theredrose/Documents/nodenlp",
+		"/Users/theredrose/Downloads/egenix-mx-base-3.2.9",
+		"/Users/theredrose/nltk_data/stanford-corenlp-full",
+		"/Users/theredrose/nltk_data/corpora/conll2000",
+		"/Users/theredrose/stanford-ner-2015-12-09",
 		"/Users/theredrose/Documents/hubot",
+		"/Users/theredrose/Documents/tensorflow-notebook/socketcontrol",
+		"/Users/theredrose/Documents/tensorflow-notebook/tb",
+		"/Users/theredrose/Documents/tensorflow-notebook/tensorflow/tensorflow/models/embedding",
+		"/Users/theredrose/Desktop/neo4j-shell-tools",
+		"/Users/theredrose/Documents/neo4j-shell-tools",
+		"/Users/theredrose/Documents",
+		"/Users/theredrose/Documents/GoGoInflight",
+		"/usr/local/Cellar/neo4j/2.3.1/libexec",
+		"/usr/local/Cellar/neo4j/2.3.1/libexec/data",
 		"/Users/theredrose/Documents/hubot-test-helper",
+		"/Users/theredrose/Documents/kengz.github.io",
+		"/Users/theredrose/Documents/deal_finder",
 		"/Users/theredrose/Desktop",
 		"/usr/local/lib/node_modules/dokker",
 		"/Users/theredrose/.npm/dokker/0.1.3",
 		"/Users/theredrose/Documents/lodash",
 		"/Users/theredrose/Desktop/x12_parser-master",
-		"/Users/theredrose/Documents/jarvis",
 		"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log",
-		"/Users/theredrose/Documents/kengz.github.io",
-		"/Users/theredrose/Documents/gh-jarvis",
-		"/Users/theredrose/Documents/reqscraper",
 		"/usr/local/Cellar/neo4j/2.3.1/libexec/data/dbms",
 		"/Users/theredrose/Documents/testbot",
-		"/Users/theredrose/Downloads",
 		"/Users/theredrose/Documents/github-buttons",
 		"/Users/theredrose/Documents/yinghang.github.io",
 		"/Users/theredrose/Documents/fake",
 		"/Users/theredrose/Documents/web-starter-kit-0.6.0",
 		"/Users/theredrose/Documents/hubot-test-helper2",
-		"/Users/theredrose/Documents/wantanmee",
 		"/Users/theredrose/Downloads/sherry_stc_sam_bot",
 		"/Users/theredrose/Downloads/tensorflow-master-tensorflow-examples-tutorials-mnist",
 		"/Users/theredrose/Documents/TensorFlow-Tutorials",
@@ -40,8 +87,8 @@
 		"/Users/theredrose/Downloads/mac_setup-master",
 		"/Users/theredrose/Documents/Sublime Text 3/Local"
 	],
-	"last_version": 3083,
-	"last_window_id": 183,
+	"last_version": 3103,
+	"last_window_id": 441,
 	"log_indexing": false,
 	"settings":
 	{
@@ -52,6 +99,230 @@
 			{
 				"selected_items":
 				[
+					[
+						"h_",
+						"h_npzfile"
+					],
+					[
+						"fit",
+						"fit_transform"
+					],
+					[
+						"str_",
+						"str_headers"
+					],
+					[
+						"fill",
+						"fillna_dict"
+					],
+					[
+						"enco",
+						"encoder_path"
+					],
+					[
+						"promi",
+						"promisifyAll"
+					],
+					[
+						"look",
+						"lookup"
+					],
+					[
+						"client",
+						"clientGen"
+					],
+					[
+						"clien",
+						"clientItr"
+					],
+					[
+						"cl",
+						"clientItr"
+					],
+					[
+						"class",
+						"classifier"
+					],
+					[
+						"model",
+						"model_path"
+					],
+					[
+						"mode",
+						"model_path"
+					],
+					[
+						"tokeni",
+						"tokenize"
+					],
+					[
+						"sing",
+						"singularize"
+					],
+					[
+						"log",
+						"logCb"
+					],
+					[
+						"h",
+						"h_conv2"
+					],
+					[
+						"tensor",
+						"tensor_in"
+					],
+					[
+						"language",
+						"language_model"
+					],
+					[
+						"seq",
+						"sequence_classifier"
+					],
+					[
+						"hidd",
+						"hidden_size"
+					],
+					[
+						"hidden",
+						"HIDDEN_SIZE"
+					],
+					[
+						"in",
+						"int32"
+					],
+					[
+						"offset",
+						"offset_begin"
+					],
+					[
+						"va",
+						"val_monitor"
+					],
+					[
+						"exp",
+						"exp_decay"
+					],
+					[
+						"random",
+						"random_state"
+					],
+					[
+						"Ten",
+						"TensorFlowEstimator"
+					],
+					[
+						"one_ho",
+						"one_hot_categorical_model"
+					],
+					[
+						"Em",
+						"EMBEDDING_SIZE"
+					],
+					[
+						"Tens",
+						"TensorFlowLinearClassifier"
+					],
+					[
+						"lemma",
+						"lemmaCanon"
+					],
+					[
+						"largest",
+						"largest_unit"
+					],
+					[
+						"string",
+						"stringified"
+					],
+					[
+						"origi",
+						"originDefault"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"lengt",
+						"lengthSortedMat"
+					],
+					[
+						"time",
+						"timeUnitOrder"
+					],
+					[
+						"title",
+						"title_link"
+					],
+					[
+						"Obj",
+						"objRb"
+					],
+					[
+						"nex",
+						"nextnVal"
+					],
+					[
+						"delm",
+						"delimiter"
+					],
+					[
+						"lowest",
+						"lowestOverable"
+					],
+					[
+						"low",
+						"lowestOverable"
+					],
+					[
+						"overab",
+						"overableKeys"
+					],
+					[
+						"date",
+						"dateStrArr"
+					],
+					[
+						"replae",
+						"replaceAndSplit"
+					],
+					[
+						"da",
+						"dateArr"
+					],
+					[
+						"normal",
+						"normalDate"
+					],
+					[
+						"cns",
+						"console"
+					],
+					[
+						"searc",
+						"searchUserID"
+					],
+					[
+						"defau",
+						"defaultRoom"
+					],
+					[
+						"legal",
+						"legalizeProp"
+					],
+					[
+						"seria",
+						"serialize_users"
+					],
+					[
+						"lega",
+						"legalizeProp"
+					],
+					[
+						"change",
+						"changeEdgePL"
+					],
 					[
 						"pO",
 						"pOpsRe"
@@ -221,10 +492,6 @@
 						"weight_variable"
 					],
 					[
-						"h_",
-						"h_conv1"
-					],
-					[
 						"max_",
 						"max_pool_2x2"
 					],
@@ -295,6 +562,30 @@
 				[
 					[
 						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/Python/Python.sublime-build",
 							""
 						],
@@ -328,10 +619,38 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 137.0,
-				"last_filter": "",
+				"height": 354.0,
+				"last_filter": "markdow",
 				"selected_items":
 				[
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"open re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
@@ -361,23 +680,15 @@
 						"Set Syntax: EditorConfig"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"prettif",
 						"HTMLPrettify: Set Prettify Preferences"
-					],
-					[
-						"kbu",
-						"Preferences: Key Bindings - User"
 					],
 					[
 						"view re",
 						"PackageResourceViewer: Open Resource"
 					]
 				],
-				"width": 452.0
+				"width": 350.0
 			},
 			"console":
 			{
@@ -397,138 +708,138 @@
 			},
 			"file_history":
 			[
-				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
-				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
-				"/Users/theredrose/Documents/peppurr/test/common.js",
-				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
-				"/Users/theredrose/Documents/peppurr/README.md",
-				"/Users/theredrose/Documents/peppurr/package.json",
-				"/Users/theredrose/Documents/peppurr/lib/user.js",
-				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
-				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/.env-example",
-				"/Users/theredrose/Documents/neo4jKB/,",
-				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
-				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/Users/theredrose/Documents/Machines/machine.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
-				"/Users/theredrose/Documents/peppurr/brain/query.js",
-				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
-				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
-				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
-				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
-				"/Users/theredrose/Documents/peppurr/.env",
-				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
-				"/Users/theredrose/Documents/peppurr/bin/install",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
-				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
-				"/Users/theredrose/Documents/peppurr/meh",
-				"/Users/theredrose/Documents/peppurr/bin/hubot",
-				"/Users/theredrose/Documents/peppurr/index.js",
-				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
-				"/Users/theredrose/Documents/peppurr/test/meh.js",
-				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
-				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
-				"/Users/theredrose/Documents/peppurr/.editorconfig",
-				"/Users/theredrose/Documents/peppurr/test/t.coffee",
-				"/Users/theredrose/Documents/peppurr/.gitignore",
-				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
-				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
-				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
-				"/Users/theredrose/Documents/kengz.github.io/README.md",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
-				"/Users/theredrose/Documents/kengz.github.io/index2.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
-				"/Users/theredrose/Documents/kengz.github.io/package.json",
-				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/aiva/docs/CHANGELOG.md",
+				"/Users/theredrose/Documents/aiva/lib/js/ai.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ais/watson.js",
+				"/Users/theredrose/Documents/aiva/lib/js/helper.js",
+				"/Users/theredrose/Documents/aiva/lib/py/ai.py",
+				"/Users/theredrose/Documents/aiva/lib/client.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/dnn_titanic_deploy.py",
+				"/Users/theredrose/Documents/aiva/scripts/dnn_titanic.js",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/dnn_titanic_train.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai_py.py",
+				"/Users/theredrose/Documents/aiva/lib/client.rb",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_titanic_train.py",
+				"/Users/theredrose/Documents/aiva/lib/io_server.js",
+				"/Users/theredrose/Documents/aiva/node_modules/hubot/script/server",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_titanic_deploy.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_1_deploy.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/titanic_dnn_deploy.py",
+				"/Users/theredrose/Documents/aiva/scripts/dnn.js",
+				"/Users/theredrose/Documents/aiva/docs/DEVELOPMENT.md",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ai_lib/preprocess.py",
+				"/Users/theredrose/Documents/aiva/package.json",
+				"/Users/theredrose/Documents/aiva/.travis.yml",
+				"/Users/theredrose/Documents/aiva/test/0_init_test.js",
+				"/Users/theredrose/Documents/aiva/test/meh.js",
+				"/Users/theredrose/Documents/aiva/lib/rb/Hello.rb",
+				"/Users/theredrose/Documents/aiva/lib/py/hello.py",
+				"/Users/theredrose/Documents/aiva/lib/py/hello_rb.py",
 				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
-				"/Users/theredrose/Desktop/repos",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/CNAME",
-				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
-				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
-				"/Users/theredrose/Documents/mac_setup/README.md",
-				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
-				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
-				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/aiva/bin/install",
+				"/Users/theredrose/Documents/aiva/README.md",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_1_train.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic.csv",
+				"/Users/theredrose/Desktop/key",
+				"/Users/theredrose/Documents/aiva/node_modules/watson-developer-cloud/services/natural_language_classifier/json-training-to-csv.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/conceptnet.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/watson.js",
+				"/Users/theredrose/Documents/aiva/index.js",
+				"/Users/theredrose/Documents/aiva/test/common.js",
+				"/Users/theredrose/Documents/aiva/lib/client.js",
+				"/Users/theredrose/Documents/aiva/test/lib/test_client.coffee",
+				"/Users/theredrose/Documents/aiva/node_modules/hubot-slack/.travis.yml",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ai_lib/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/__init__.py",
+				"/Users/theredrose/Documents/aiva/.gitignore",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic2.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic_train2.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic_train.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ailib/preprocess.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ailib/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/lib/encoding.py",
+				"/Users/theredrose/Documents/aiva/scripts/ping.js",
+				"/Users/theredrose/Documents/aiva/lib/js/custom_msg.js",
+				"/Users/theredrose/Documents/aiva/node_modules/solr-client/lib/utils/type.js",
+				"/Users/theredrose/Documents/aiva/coverage/lcov-report/index.html",
+				"/Users/theredrose/Documents/aiva/bin/.keys-aivadev",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/google.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/googletranslate.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/googleapis.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/indico.js",
+				"/Users/theredrose/Documents/aiva/.env",
 				"/Users/theredrose/.bash_profile",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
-				"/Users/theredrose/.forever/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/.index",
-				"/Users/theredrose/Documents/peppurr/scripts/test.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
-				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
-				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
-				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
-				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
-				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
-				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
-				"/Users/theredrose/Documents/wantanmee/README.md",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
-				"/Users/theredrose/.ssh/id_rsa.pub",
-				"/etc/sudoers",
-				"/usr/sbin/networksetup",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
+				"/Users/theredrose/Documents/aiva/scripts/whois.js",
+				"/Users/theredrose/Documents/aiva/lib/js/googleapis.js",
+				"/Users/theredrose/Documents/aiva/lib/js/watson.js",
+				"/Users/theredrose/Documents/aiva/node_modules/JSONStream/examples/all_docs.js",
+				"/Users/theredrose/Documents/aiva/lib/js/indico.js",
+				"/Users/theredrose/Documents/aiva/bin/.keys-example",
+				"/Users/theredrose/Documents/aiva/bin/.keys-aiva",
+				"/Users/theredrose/Documents/aiva/node_modules/tar/test/pack-no-proprietary.js",
+				"/Users/theredrose/Documents/aiva/node_modules/esprima/ChangeLog",
+				"/Users/theredrose/Documents/aiva/Gemfile",
+				"/Users/theredrose/Documents/aiva/lib/js/nlp.js",
+				"/Users/theredrose/Documents/aiva/lib/js/nodenatural.js",
+				"/Users/theredrose/Documents/aiva/scripts/googleapis.js",
+				"/Users/theredrose/Documents/aiva/node_modules/googleapis/lib/auth/oauth2client.js",
+				"/Users/theredrose/Documents/aiva/test/scripts/test_hello_py_rb.coffee",
+				"/Users/theredrose/Documents/aiva/scripts/hello_py_rb.js",
+				"/Users/theredrose/Documents/aiva/test/lib/test_hasher.coffee",
+				"/Users/theredrose/Documents/aiva/node_modules/wordpos/src/wordpos.js",
+				"/Users/theredrose/Documents/aiva/test/scripts/test_translate.coffee",
+				"/Users/theredrose/Documents/aiva/scripts/natural.js",
+				"/Users/theredrose/Documents/aiva/.env-example",
+				"/Users/theredrose/Documents/aiva/scripts/translate.js",
+				"/Users/theredrose/Documents/aiva/docs/DESIGN.md",
+				"/Users/theredrose/Documents/aiva/docs/FEATURES.md",
+				"/Users/theredrose/Documents/aiva/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/aiva/scripts/wordnet.js",
+				"/Users/theredrose/Documents/aiva/scripts/conceptnet.js",
+				"/Users/theredrose/Documents/aiva/node_modules/concept-net/src/store.js",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_save_restore.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/ptb_word_lm.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/data/text8",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/tensor.py",
+				"/Users/theredrose/Documents/ai-notebook/scikit_tut/intro.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/README.md",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/tf_convnet.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/grid_search.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/deploy.py",
+				"/Users/theredrose/Documents/ai-notebook/.gitignore",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris.py",
+				"/Users/theredrose/Documents/ai-notebook/eg/examples/iris.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/titanic_deploy.py",
+				"/Users/theredrose/Documents/ai-notebook/README.md",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/titanic.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_val_based_early_stopping.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_with_pipeline.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_config_addon.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_custom_decay_dnn.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_custom_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/multiple_gpu.py",
+				"/Users/theredrose/Documents/ai-notebook/eg/examples/multiple_gpu.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/out_of_core_data_classification.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/mnist_weights.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/mnist.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/language_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/language_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_with_pipeline.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_val_based_early_stopping.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/category.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/boston.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_custom_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/digits.py",
+				"/usr/local/lib/python3.5/site-packages/skflow/estimators/base.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/README.rst",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_config_addon.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_custom_decay_dnn.py"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -542,134 +853,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"alice",
-					"test_to",
-					"task2",
-					"item",
-					"targetObj",
-					"undefined",
-					"index",
-					"markDown",
-					"index",
-					"flat",
-					"mat",
-					"pull",
+					"classifier",
+					"accuracy",
+					"train",
+					"predict",
+					"model",
+					"classifier",
 					"res",
-					"nameOrIndex",
-					"name",
-					"filter",
-					"pick",
-					"'",
-					"yield",
-					"assign",
-					"updated_when",
-					"keyword",
-					"priority",
-					"fieldArr",
-					"illegalize",
-					"created_by",
-					"neoRes",
-					"transNeoRes",
-					"_.size",
-					"res",
-					"flatIndexMat",
-					"transBeautify",
-					"join(",
-					"log",
-					"console",
-					"shit",
-					"picker",
-					"KB",
-					"picker",
-					"msg",
-					"assignTodo",
-					"low",
-					"transbeaut",
-					"sortRow",
-					"_.partial",
-					"partial",
-					"transBeautify",
-					"transform",
-					"partialRight",
-					"gather",
-					"function",
-					"neoRes",
-					"gather",
-					"KB",
-					"tail",
-					"sortByRow",
-					"neoRes",
-					"sortByRow",
-					"transNeoRes",
-					"neoRes",
-					"tail",
-					"mat",
-					"console",
-					"shit",
-					"alice",
-					"ID0000001",
-					"getId",
-					"userId",
-					"ID0000001",
-					"getId",
-					"ID0000001",
-					"eventually",
-					"alice",
-					"whois",
-					"alice",
-					"ID0000001",
-					"whois",
-					" describe 'whois', ->",
-					"describe 'whois', ->",
-					"	describe 'whois', ->",
-					"	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"root",
-					"alice",
+					"res_aslist",
+					"score_native",
+					"tolist",
+					"x",
+					"predict",
+					"output",
+					"input",
+					"output",
+					"parseArr",
+					"input",
+					"strInput",
+					"input",
+					"user",
+					"this",
+					"split",
+					"token",
+					"str",
+					"replace",
+					"sample",
+					" \n",
+					"form",
+					"arrayParse",
+					"str",
+					"male",
+					"stringify",
+					"print(",
+					"initialize",
+					"nativ",
+					"res_aslist",
+					"output",
+					"__class__",
+					"sayHi",
+					"ai",
+					"ai_py",
+					"ai",
+					"ai_py",
+					"ai_lib",
+					"consol",
+					"predict",
+					"deploy",
+					"predict",
+					"hello",
+					"ai",
+					"dnn_1_deploy",
+					"sayHi",
+					"titanic_dnn",
+					"dnn",
+					"titanic_dnn",
+					"dnn_titanic",
+					"titanic_dnn",
+					"sayHi",
+					"hello",
+					"train",
+					"predict",
+					"str",
 					"\"",
-					"string",
+					"Survived",
+					"'",
+					", ",
+					"input",
+					"py",
+					"hello_py",
+					"titanic",
+					"predict",
+					"bin",
+					"lib",
+					"pyenv",
+					"hubot",
+					"SocketIO",
+					"socketIO",
+					"SocketIO",
+					"guide",
+					"(*)",
+					"`",
+					"Wordnet",
+					"Knowledge",
+					"java",
+					"rust",
+					"Machine",
+					"RESTful",
+					"java",
+					"py",
+					"thei",
+					"languages",
+					"python",
+					"Libraries",
+					"Tasks",
+					"Dev",
+					"JSON",
+					"msg",
+					"mocha",
+					"prevent",
+					"unit t",
+					"above",
+					"pattern",
+					"same",
+					"multipl",
+					"from",
+					"python",
+					"module",
 					"user",
-					"users",
-					"keyword",
-					"scriptsPath",
-					"MockRobot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"0_init",
-					"this.robot",
-					"0_init",
-					"serialize_users",
-					"robot",
-					"@",
-					"function",
-					"Shell",
-					"serialize_users",
-					"spySer",
-					")\n",
-					"system",
-					"yield",
-					"Promise",
-					"var",
-					"whois",
-					"ping",
-					"user",
-					"0_init",
-					"scripts",
-					"parseObj",
-					"parseKV",
-					"task2"
+					"capitalized",
+					"msg",
+					"```py",
+					"purposes",
+					"from",
+					"the",
+					"payload",
+					"Hello",
+					"pass",
+					"other_function",
+					"add",
+					"javascript",
+					"in",
+					"control",
+					"interface",
+					"module",
+					"this",
+					"use",
+					"hash",
+					"clientPass"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -686,7 +997,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -695,16 +1006,20 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 157.0
+				"height": 168.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.markdown":
+			{
+				"height": 144.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -714,204 +1029,516 @@
 				"selected_items":
 				[
 					[
-						"read",
-						"README.md"
+						"cha",
+						"docs/CHANGELOG.md"
 					],
 					[
-						"neo4jkb/lib/parse",
-						"node_modules/neo4jkb/lib/parse.js"
+						"deploy",
+						"lib/py/ais/dnn_titanic_deploy.py"
 					],
 					[
-						"common",
-						"test/common.js"
+						"ai.p",
+						"lib/py/ai.py"
 					],
 					[
-						"user",
-						"lib/user.js"
+						"ai.js",
+						"lib/js/ai.js"
+					],
+					[
+						"helper",
+						"lib/js/helper.js"
+					],
+					[
+						"wats",
+						"lib/js/ais/watson.js"
+					],
+					[
+						"dnn_",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"ai.py",
+						"lib/py/ai.py"
+					],
+					[
+						"dnn",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"io_ser",
+						"lib/io_server.js"
+					],
+					[
+						"client.p",
+						"lib/client.py"
+					],
+					[
+						"io_serv",
+						"lib/io_server.js"
+					],
+					[
+						"server",
+						"node_modules/hubot/script/server"
+					],
+					[
+						"change",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"dnn_t",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"deve",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"prepr",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"travi",
+						".travis.yml"
 					],
 					[
 						"pack",
 						"package.json"
 					],
 					[
-						"0_",
-						"scripts/0_init.js"
+						"meh.",
+						"test/meh.js"
 					],
 					[
-						"todo",
-						"scripts/todo.js"
-					],
-					[
-						"dodo",
-						"node_modules/lomath/docs/annotated/docco.css"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"whosi",
-						"scripts/whois.js"
-					],
-					[
-						"const",
-						"brain/constrain.js"
-					],
-					[
-						"constr",
-						"brain/constrain.js"
-					],
-					[
-						"cons",
-						"brain/constrain.js"
-					],
-					[
-						"kb",
-						"scripts/KB_builder.js"
-					],
-					[
-						"consr",
-						"brain/constrain.js"
-					],
-					[
-						"meh",
-						"scripts/meh.js"
-					],
-					[
-						"meh2",
-						"scripts/meh2.js"
-					],
-					[
-						"npm",
-						"node_modules/scoped-http-client/src/npm-version.js"
-					],
-					[
-						"ping",
-						"scripts/ping.js"
-					],
-					[
-						"query",
-						"brain/query.js"
-					],
-					[
-						"kb_bui",
-						"scripts/KB_builder.js"
-					],
-					[
-						"lodas",
-						"node_modules/lodash/lodash.js"
-					],
-					[
-						"packa",
+						"package",
 						"package.json"
 					],
 					[
-						"quer",
-						"brain/query.js"
+						"devel",
+						"docs/DEVELOPMENT.md"
 					],
 					[
-						".env",
-						".env"
+						"train",
+						"lib/py/ai/dnn_1_train.py"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"install",
+						"bin/install"
+					],
+					[
+						"prep",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"prepro",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"chan",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"conce",
+						"lib/js/ai/conceptnet.js"
+					],
+					[
+						"chage",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"preproce",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"common",
+						"test/common.js"
 					],
 					[
 						"index",
 						"index.js"
 					],
 					[
-						"githu",
-						"app/scripts/github.js"
+						"test_cl",
+						"test/lib/test_client.coffee"
 					],
 					[
-						"",
-						"app/styles/lanyon.css"
+						"lib/cli",
+						"lib/client.js"
 					],
 					[
-						"repo-card",
-						"repo-card.html"
+						"trav",
+						".travis.yml"
 					],
 					[
-						"inde",
-						"app/index.html"
+						"trsavis",
+						"node_modules/hubot-slack/.travis.yml"
 					],
 					[
-						"gulp",
-						"gulpfile.babel.js"
+						"travis",
+						".travis.yml"
 					],
 					[
-						"t.",
-						"test/t.coffee"
+						".travis",
+						".travis.yml"
 					],
 					[
-						"html",
-						"node_modules/html-tags/html-tags.json"
+						".travi",
+						".travis.yml"
 					],
 					[
-						"side",
-						"app/scripts/side.js"
+						"clien",
+						"lib/client.py"
 					],
 					[
-						"repo",
-						"app/repo-card.html"
+						"dnn_1",
+						"lib/py/ai/dnn_1_deploy.py"
 					],
 					[
-						"github",
-						"app/scripts/github.js"
-					],
-					[
-						"cna",
-						"CNAME"
+						"client",
+						"lib/client.py"
 					],
 					[
 						".giti",
 						".gitignore"
 					],
 					[
-						"pg",
-						"D/dirtree/pg.js"
+						"instal",
+						"bin/install"
 					],
 					[
-						"giti",
+						"gitig",
 						".gitignore"
 					],
 					[
-						"readm",
-						"node_modules/colors/ReadMe.md"
+						"custom",
+						"lib/js/custom_msg.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"concep",
+						"lib/js/ai/conceptnet.js"
+					],
+					[
+						"clieny.p",
+						"node_modules/solr-client/lib/utils/type.js"
+					],
+					[
+						"index.",
+						"index.js"
+					],
+					[
+						"watson",
+						"lib/js/ai/watson.js"
+					],
+					[
+						"index.html",
+						"coverage/lcov-report/index.html"
+					],
+					[
+						"tbtr",
+						"lib/js/ai/TBtranslate.py"
+					],
+					[
+						"googletr",
+						"lib/js/ai/googletranslate.js"
+					],
+					[
+						"goog",
+						"lib/js/ai/google.js"
+					],
+					[
+						"ai.",
+						"lib/js/ai.js"
+					],
+					[
+						"indi",
+						"lib/js/ai/indico.js"
+					],
+					[
+						"googleap",
+						"lib/js/ai/googleapis.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						".e",
+						".env"
+					],
+					[
+						"docs",
+						"node_modules/JSONStream/examples/all_docs.js"
+					],
+					[
+						".keys-",
+						"bin/.keys-example"
+					],
+					[
+						".keys",
+						"bin/.keys-example"
+					],
+					[
+						".ekys",
+						"bin/.keys-example"
+					],
+					[
+						"key-aiva",
+						"bin/.keys-aiva"
+					],
+					[
+						".keys-aiva",
+						"bin/.keys-aiva"
 					],
 					[
 						"pac",
 						"package.json"
 					],
 					[
-						"mnis",
-						"mnist.py"
+						"packat",
+						"node_modules/tar/test/pack-no-proprietary.js"
 					],
 					[
-						"test",
-						"D/monster/test.js"
+						"chang",
+						"docs/CHANGELOG.md"
 					],
 					[
-						"targe",
-						"D/monsprof/target.js"
+						"changelo",
+						"node_modules/esprima/ChangeLog"
+					],
+					[
+						"google",
+						"lib/js/googleapis.js"
+					],
+					[
+						".keys-e",
+						"bin/.keys-example"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						".keys-a",
+						"bin/.keys-aiva"
+					],
+					[
+						"googl",
+						"lib/js/googleapis.js"
+					],
+					[
+						".key",
+						"bin/.keys-example"
+					],
+					[
+						"nlp",
+						"lib/js/nlp.js"
+					],
+					[
+						"nodena",
+						"lib/js/nodenatural.js"
+					],
+					[
+						"noden",
+						"lib/js/nodenatural.js"
+					],
+					[
+						"changel",
+						"node_modules/esprima/ChangeLog"
+					],
+					[
+						"googleapo",
+						"node_modules/googleapis/lib/auth/oauth2client.js"
+					],
+					[
+						"idnex",
+						"index.js"
+					],
+					[
+						"scripts/hello_py_rb",
+						"scripts/hello_py_rb.js"
+					],
+					[
+						"test/scripts/hello",
+						"test/scripts/test_hello_py_rb.coffee"
+					],
+					[
+						"node_moules/wordpos/src/wor",
+						"node_modules/wordpos/src/wordpos.js"
+					],
+					[
+						"test/lib_has",
+						"test/lib/test_hasher.coffee"
+					],
+					[
+						".gitig",
+						".gitignore"
+					],
+					[
+						"packge",
+						"package.json"
+					],
+					[
+						".env-e",
+						".env-example"
+					],
+					[
+						"env",
+						".env"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"natural",
+						"scripts/natural.js"
 					],
 					[
 						"readme",
 						"node_modules/colors/ReadMe.md"
 					],
 					[
-						"gul",
-						"gulpfile.js"
+						"changelog",
+						"node_modules/esprima/ChangeLog"
 					],
 					[
-						"genoption",
-						"D/lib/genOption.js"
+						"natura",
+						"scripts/natural.js"
 					],
 					[
-						"target",
-						"D/monster/target.js"
+						"desig",
+						"docs/DESIGN.md"
 					],
 					[
-						"main",
-						"D/monster/main.js"
+						"wordne",
+						"scripts/wordnet.js"
+					],
+					[
+						"design",
+						"docs/DESIGN.md"
+					],
+					[
+						"cocep",
+						"scripts/conceptnet.js"
+					],
+					[
+						"develop",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"dev",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"desi",
+						"docs/DESIGN.md"
+					],
+					[
+						"save",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"ptb",
+						"skflow_tut/ptb_word_lm.py"
+					],
+					[
+						"data/tex",
+						"skflow_tut/data/text8"
+					],
+					[
+						"gens",
+						"skflow_tut/gensim_word2vec.py"
+					],
+					[
+						"tf_con",
+						"skflow_tut/tf_convnet.py"
+					],
+					[
+						"grid",
+						"skflow_tut/grid_search.py"
+					],
+					[
+						"intro.",
+						"scikit_tut/intro.py"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"iris",
+						"eg/examples/iris.py"
+					],
+					[
+						"tita",
+						"skflow_tut/titanic_deploy.py"
+					],
+					[
+						"iris_sav",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"titanic",
+						"skflow_tut/titanic.py"
+					],
+					[
+						"re",
+						"skflow_tut/README.md"
+					],
+					[
+						"out",
+						"skflow_tut/out_of_core_data_classification.py"
+					],
+					[
+						"mult",
+						"skflow_tut/multiple_gpu.py"
+					],
+					[
+						"mnist",
+						"skflow_tut/mnist.py"
+					],
+					[
+						"iris_save",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"mnis",
+						"skflow_tut/mnist.py"
+					],
+					[
+						"languag",
+						"skflow_tut/language_model.py"
+					],
+					[
+						"irispip",
+						"skflow/examples/iris_with_pipeline.py"
+					],
+					[
+						"irisp",
+						"skflow_tut/iris_with_pipeline.py"
+					],
+					[
+						"iris_val",
+						"skflow/examples/iris_val_based_early_stopping.py"
+					],
+					[
+						"digits",
+						"skflow/examples/digits.py"
 					]
 				],
 				"width": 0.0
@@ -938,7 +1565,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 167.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -954,8 +1581,228 @@
 				"selected_items":
 				[
 					[
-						"beaut",
-						"beautifyMat"
+						"h_",
+						"h_npzfile"
+					],
+					[
+						"fit",
+						"fit_transform"
+					],
+					[
+						"str_",
+						"str_headers"
+					],
+					[
+						"fill",
+						"fillna_dict"
+					],
+					[
+						"enco",
+						"encoder_path"
+					],
+					[
+						"promi",
+						"promisifyAll"
+					],
+					[
+						"look",
+						"lookup"
+					],
+					[
+						"client",
+						"clientGen"
+					],
+					[
+						"clien",
+						"clientItr"
+					],
+					[
+						"cl",
+						"clientItr"
+					],
+					[
+						"class",
+						"classifier"
+					],
+					[
+						"model",
+						"model_path"
+					],
+					[
+						"mode",
+						"model_path"
+					],
+					[
+						"tokeni",
+						"tokenize"
+					],
+					[
+						"sing",
+						"singularize"
+					],
+					[
+						"log",
+						"logCb"
+					],
+					[
+						"h",
+						"h_conv2"
+					],
+					[
+						"tensor",
+						"tensor_in"
+					],
+					[
+						"language",
+						"language_model"
+					],
+					[
+						"seq",
+						"sequence_classifier"
+					],
+					[
+						"hidd",
+						"hidden_size"
+					],
+					[
+						"hidden",
+						"HIDDEN_SIZE"
+					],
+					[
+						"in",
+						"int32"
+					],
+					[
+						"offset",
+						"offset_begin"
+					],
+					[
+						"va",
+						"val_monitor"
+					],
+					[
+						"exp",
+						"exp_decay"
+					],
+					[
+						"random",
+						"random_state"
+					],
+					[
+						"Ten",
+						"TensorFlowEstimator"
+					],
+					[
+						"one_ho",
+						"one_hot_categorical_model"
+					],
+					[
+						"Em",
+						"EMBEDDING_SIZE"
+					],
+					[
+						"Tens",
+						"TensorFlowLinearClassifier"
+					],
+					[
+						"lemma",
+						"lemmaCanon"
+					],
+					[
+						"largest",
+						"largest_unit"
+					],
+					[
+						"string",
+						"stringified"
+					],
+					[
+						"origi",
+						"originDefault"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"lengt",
+						"lengthSortedMat"
+					],
+					[
+						"time",
+						"timeUnitOrder"
+					],
+					[
+						"title",
+						"title_link"
+					],
+					[
+						"Obj",
+						"objRb"
+					],
+					[
+						"nex",
+						"nextnVal"
+					],
+					[
+						"delm",
+						"delimiter"
+					],
+					[
+						"lowest",
+						"lowestOverable"
+					],
+					[
+						"low",
+						"lowestOverable"
+					],
+					[
+						"overab",
+						"overableKeys"
+					],
+					[
+						"date",
+						"dateStrArr"
+					],
+					[
+						"replae",
+						"replaceAndSplit"
+					],
+					[
+						"da",
+						"dateArr"
+					],
+					[
+						"normal",
+						"normalDate"
+					],
+					[
+						"cns",
+						"console"
+					],
+					[
+						"searc",
+						"searchUserID"
+					],
+					[
+						"defau",
+						"defaultRoom"
+					],
+					[
+						"legal",
+						"legalizeProp"
+					],
+					[
+						"seria",
+						"serialize_users"
+					],
+					[
+						"lega",
+						"legalizeProp"
+					],
+					[
+						"change",
+						"changeEdgePL"
 					],
 					[
 						"pO",
@@ -1126,10 +1973,6 @@
 						"weight_variable"
 					],
 					[
-						"h_",
-						"h_conv1"
-					],
-					[
 						"max_",
 						"max_pool_2x2"
 					],
@@ -1182,34 +2025,26 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/theredrose/Documents/neo4jKB/lib/parse.js",
+					"file": "/Users/theredrose/Documents/aiva/lib/py/ai.py",
 					"settings":
 					{
-						"buffer_size": 17120,
+						"buffer_size": 1012,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/theredrose/Documents/neo4jKB/package.json",
+					"file": "/Users/theredrose/Documents/aiva/scripts/dnn_titanic.js",
 					"settings":
 					{
-						"buffer_size": 951,
+						"buffer_size": 1388,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/theredrose/Documents/neo4jKB/README.md",
+					"file": "/Users/theredrose/Documents/aiva/docs/CHANGELOG.md",
 					"settings":
 					{
-						"buffer_size": 5938,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/theredrose/Documents/neo4jKB/test/test_parse.js",
-					"settings":
-					{
-						"buffer_size": 10445,
+						"buffer_size": 6963,
 						"line_ending": "Unix"
 					}
 				}
@@ -1231,6 +2066,30 @@
 					[
 						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
 						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
 					]
 				],
 				[
@@ -1269,10 +2128,38 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 137.0,
-				"last_filter": "",
+				"height": 354.0,
+				"last_filter": "markdow",
 				"selected_items":
 				[
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"open re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
@@ -1302,23 +2189,15 @@
 						"Set Syntax: EditorConfig"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"prettif",
 						"HTMLPrettify: Set Prettify Preferences"
-					],
-					[
-						"kbu",
-						"Preferences: Key Bindings - User"
 					],
 					[
 						"view re",
 						"PackageResourceViewer: Open Resource"
 					]
 				],
-				"width": 452.0
+				"width": 350.0
 			},
 			"console":
 			{
@@ -1338,142 +2217,145 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/theredrose/Documents/neo4jKB"
+				"/Users/theredrose/Documents/aiva",
+				"/Users/theredrose/Documents/aiva/lib",
+				"/Users/theredrose/Documents/aiva/lib/js",
+				"/Users/theredrose/Documents/aiva/lib/py/ais"
 			],
 			"file_history":
 			[
-				"/Users/theredrose/Documents/neo4jKB/lib/parse.js",
-				"/Users/theredrose/Documents/neo4jKB/package.json",
-				"/Users/theredrose/Documents/neo4jKB/README.md",
-				"/Users/theredrose/Documents/neo4jKB/lib/constrain.js",
-				"/Users/theredrose/Documents/neo4jKB/test/asset.js",
-				"/Users/theredrose/Documents/peppurr/test/common.js",
-				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
-				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
-				"/Users/theredrose/Documents/peppurr/README.md",
-				"/Users/theredrose/Documents/peppurr/package.json",
-				"/Users/theredrose/Documents/peppurr/lib/user.js",
-				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
-				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/.env-example",
-				"/Users/theredrose/Documents/neo4jKB/,",
-				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
-				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/Users/theredrose/Documents/Machines/machine.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
-				"/Users/theredrose/Documents/peppurr/brain/query.js",
-				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
-				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
-				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
-				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
-				"/Users/theredrose/Documents/peppurr/.env",
-				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
-				"/Users/theredrose/Documents/peppurr/bin/install",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
-				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
-				"/Users/theredrose/Documents/peppurr/meh",
-				"/Users/theredrose/Documents/peppurr/bin/hubot",
-				"/Users/theredrose/Documents/peppurr/index.js",
-				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
-				"/Users/theredrose/Documents/peppurr/test/meh.js",
-				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
-				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
-				"/Users/theredrose/Documents/peppurr/.editorconfig",
-				"/Users/theredrose/Documents/peppurr/test/t.coffee",
-				"/Users/theredrose/Documents/peppurr/.gitignore",
-				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
-				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
-				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
-				"/Users/theredrose/Documents/kengz.github.io/README.md",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
-				"/Users/theredrose/Documents/kengz.github.io/index2.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
-				"/Users/theredrose/Documents/kengz.github.io/package.json",
-				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/aiva/lib/client.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/dnn_titanic_deploy.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/ai_lib/preprocess.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/dnn_titanic_train.py",
+				"/Users/theredrose/Documents/aiva/scripts/dnn_titanic.js",
+				"/Users/theredrose/Documents/aiva/lib/py/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/ai_lib/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/data/titanic_train.csv",
+				"/Users/theredrose/Documents/aiva/node_modules/watson-developer-cloud/services/natural_language_classifier/json-training-to-csv.js",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/data/titanic.csv",
+				"/Users/theredrose/Documents/aiva/docs/CHANGELOG.md",
+				"/Users/theredrose/Documents/aiva/lib/js/ai.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ais/watson.js",
+				"/Users/theredrose/Documents/aiva/lib/js/helper.js",
+				"/Users/theredrose/Documents/aiva/lib/py/ai_py.py",
+				"/Users/theredrose/Documents/aiva/lib/client.rb",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_titanic_train.py",
+				"/Users/theredrose/Documents/aiva/lib/io_server.js",
+				"/Users/theredrose/Documents/aiva/node_modules/hubot/script/server",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_titanic_deploy.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_1_deploy.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/titanic_dnn_deploy.py",
+				"/Users/theredrose/Documents/aiva/scripts/dnn.js",
+				"/Users/theredrose/Documents/aiva/docs/DEVELOPMENT.md",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ai_lib/preprocess.py",
+				"/Users/theredrose/Documents/aiva/package.json",
+				"/Users/theredrose/Documents/aiva/.travis.yml",
+				"/Users/theredrose/Documents/aiva/test/0_init_test.js",
+				"/Users/theredrose/Documents/aiva/test/meh.js",
+				"/Users/theredrose/Documents/aiva/lib/rb/Hello.rb",
+				"/Users/theredrose/Documents/aiva/lib/py/hello.py",
+				"/Users/theredrose/Documents/aiva/lib/py/hello_rb.py",
 				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
-				"/Users/theredrose/Desktop/repos",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/CNAME",
-				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
-				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
-				"/Users/theredrose/Documents/mac_setup/README.md",
-				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
-				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
-				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/aiva/bin/install",
+				"/Users/theredrose/Documents/aiva/README.md",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_1_train.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic.csv",
+				"/Users/theredrose/Desktop/key",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/conceptnet.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/watson.js",
+				"/Users/theredrose/Documents/aiva/index.js",
+				"/Users/theredrose/Documents/aiva/test/common.js",
+				"/Users/theredrose/Documents/aiva/lib/client.js",
+				"/Users/theredrose/Documents/aiva/test/lib/test_client.coffee",
+				"/Users/theredrose/Documents/aiva/node_modules/hubot-slack/.travis.yml",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ai_lib/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/__init__.py",
+				"/Users/theredrose/Documents/aiva/.gitignore",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic2.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic_train2.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic_train.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ailib/preprocess.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ailib/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/lib/encoding.py",
+				"/Users/theredrose/Documents/aiva/scripts/ping.js",
+				"/Users/theredrose/Documents/aiva/lib/js/custom_msg.js",
+				"/Users/theredrose/Documents/aiva/node_modules/solr-client/lib/utils/type.js",
+				"/Users/theredrose/Documents/aiva/coverage/lcov-report/index.html",
+				"/Users/theredrose/Documents/aiva/bin/.keys-aivadev",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/google.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/googletranslate.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/googleapis.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/indico.js",
+				"/Users/theredrose/Documents/aiva/.env",
 				"/Users/theredrose/.bash_profile",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
-				"/Users/theredrose/.forever/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/.index",
-				"/Users/theredrose/Documents/peppurr/scripts/test.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
-				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
-				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
-				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
-				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
-				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
-				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
-				"/Users/theredrose/Documents/wantanmee/README.md",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
-				"/Users/theredrose/.ssh/id_rsa.pub",
-				"/etc/sudoers"
+				"/Users/theredrose/Documents/aiva/scripts/whois.js",
+				"/Users/theredrose/Documents/aiva/lib/js/googleapis.js",
+				"/Users/theredrose/Documents/aiva/lib/js/watson.js",
+				"/Users/theredrose/Documents/aiva/node_modules/JSONStream/examples/all_docs.js",
+				"/Users/theredrose/Documents/aiva/lib/js/indico.js",
+				"/Users/theredrose/Documents/aiva/bin/.keys-example",
+				"/Users/theredrose/Documents/aiva/bin/.keys-aiva",
+				"/Users/theredrose/Documents/aiva/node_modules/tar/test/pack-no-proprietary.js",
+				"/Users/theredrose/Documents/aiva/node_modules/esprima/ChangeLog",
+				"/Users/theredrose/Documents/aiva/Gemfile",
+				"/Users/theredrose/Documents/aiva/lib/js/nlp.js",
+				"/Users/theredrose/Documents/aiva/lib/js/nodenatural.js",
+				"/Users/theredrose/Documents/aiva/scripts/googleapis.js",
+				"/Users/theredrose/Documents/aiva/node_modules/googleapis/lib/auth/oauth2client.js",
+				"/Users/theredrose/Documents/aiva/test/scripts/test_hello_py_rb.coffee",
+				"/Users/theredrose/Documents/aiva/scripts/hello_py_rb.js",
+				"/Users/theredrose/Documents/aiva/test/lib/test_hasher.coffee",
+				"/Users/theredrose/Documents/aiva/node_modules/wordpos/src/wordpos.js",
+				"/Users/theredrose/Documents/aiva/test/scripts/test_translate.coffee",
+				"/Users/theredrose/Documents/aiva/scripts/natural.js",
+				"/Users/theredrose/Documents/aiva/.env-example",
+				"/Users/theredrose/Documents/aiva/scripts/translate.js",
+				"/Users/theredrose/Documents/aiva/docs/DESIGN.md",
+				"/Users/theredrose/Documents/aiva/docs/FEATURES.md",
+				"/Users/theredrose/Documents/aiva/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/aiva/scripts/wordnet.js",
+				"/Users/theredrose/Documents/aiva/scripts/conceptnet.js",
+				"/Users/theredrose/Documents/aiva/node_modules/concept-net/src/store.js",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_save_restore.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/ptb_word_lm.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/data/text8",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/tensor.py",
+				"/Users/theredrose/Documents/ai-notebook/scikit_tut/intro.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/README.md",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/tf_convnet.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/grid_search.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/deploy.py",
+				"/Users/theredrose/Documents/ai-notebook/.gitignore",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris.py",
+				"/Users/theredrose/Documents/ai-notebook/eg/examples/iris.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/titanic_deploy.py",
+				"/Users/theredrose/Documents/ai-notebook/README.md",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/titanic.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_val_based_early_stopping.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_with_pipeline.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_config_addon.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_custom_decay_dnn.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_custom_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/multiple_gpu.py",
+				"/Users/theredrose/Documents/ai-notebook/eg/examples/multiple_gpu.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/out_of_core_data_classification.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/mnist_weights.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/mnist.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/language_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/language_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_with_pipeline.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_val_based_early_stopping.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/category.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/boston.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_custom_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/digits.py"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -1487,134 +2369,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"todo",
-					"transQRes",
-					"transform(",
-					"flattenIndex",
-					"console.log",
-					"isObject",
-					"transqres(",
-					"transQRes",
+					"print",
+					"DNN",
+					"JSON.stringify(",
+					"titanic",
+					"current",
+					"predict",
+					"new_score",
+					"predict",
+					"train",
+					"titanic_train",
+					"predict",
+					"titanic_predict",
+					"predict",
+					"mle",
+					"increases",
+					"train",
+					"more",
+					"Dataframe",
+					"X_test",
+					"x",
+					"X",
+					"X_test",
+					"y_test",
+					"not",
+					"df_X",
+					"deploy_transform",
+					"deploy",
 					"transform",
-					"parseUser",
-					"parseKV",
-					"t1",
-					"transform(",
-					"var",
-					"tail",
-					"qRes",
-					"head",
-					"check",
-					"columns",
-					"size(",
-					"_.isArray(_.get(neoRes, '0.0')) && ",
-					"head",
-					"qRes",
-					"tail",
-					"transData",
-					"transqRes",
-					"transform",
-					"parseUser",
-					"cleanUser",
-					"neoRes",
-					"parseUser",
-					"_.size(",
-					"transform(",
-					"beautifymat",
-					"transbeaut",
-					"beautifyMat",
-					"transNeoRes",
-					"neoRes",
-					"beautify",
-					"beautify(",
-					"beautifyMat",
-					"beautify(",
-					"name: alice\\nid: ID0000001\\nemail_address: alice@email.com\\n\\n---\\n\\nname: bob\\nid: ID0000002\\nemail_address: bob@email.com\\n\\n---\\n\\nname: slackbot\\nreal_name: slackbot\\nid: USLACKBOT\\nemail_address: null\\n```",
-					"item",
-					"sum",
-					"\\n\\n---\\n\\n\\n```",
-					"item",
-					"transNeoRes",
-					"else",
-					"beautifyMat",
-					"transBeautify",
-					"beautify",
-					"string",
-					"formatter",
-					"\\n",
-					"flattenIndex",
-					"JSON",
-					"isBoolean",
-					"pickerBy",
-					"description",
-					"type",
-					"description",
-					"type",
-					"flatMatIndex",
-					"description",
-					"format",
-					"flatFormat",
-					"flatMat",
-					"flatIndexMat",
-					"join(",
-					"transbea",
-					"neoRes",
-					"picker",
-					"cleanUser",
-					"KB.picker()",
-					", (neoRes)",
-					"cleanUser",
-					"sorter",
-					"default",
-					"neoRes",
-					"default",
-					"neoRes",
-					"sorter",
-					"partial",
-					"true",
-					"iteratees",
-					"description",
-					"type",
-					"Funct",
-					"Object",
-					"description",
-					"type",
-					"name",
-					"matSorter",
-					"name",
-					"pickBy",
-					"description",
-					"type",
-					"description",
-					"sortMat",
-					"_.partial",
-					"transform(",
-					"neoRes",
-					"transNeoRes",
-					"transbeautify",
-					"true",
-					"[A.neoRes, A.neoRes]",
-					"qRes",
-					"[ 'a' ],",
-					"true",
-					"drophead",
-					"dropHead=true",
-					"Function",
-					"Array",
-					"gather",
-					"function",
-					"neoRes",
-					"gather",
-					"KB",
-					"tail",
-					"sortByRow",
-					"neoRes",
-					"sortByRow",
-					"transNeoRes",
-					"neoRes",
-					"tail",
-					"mat",
-					"console"
+					"df_X",
+					"header",
+					"None",
+					"header",
+					"X_header",
+					"header",
+					"heade",
+					"header",
+					"lorem",
+					"mle",
+					"auto_clean",
+					"mle_header",
+					"tabl",
+					"X",
+					"hek",
+					"new_score",
+					"predict",
+					"X",
+					"X_train",
+					"X_test",
+					"X_train",
+					"titanic.csv",
+					"classifier",
+					"accuracy",
+					"train",
+					"predict",
+					"model",
+					"classifier",
+					"res",
+					"res_aslist",
+					"score_native",
+					"tolist",
+					"x",
+					"predict",
+					"output",
+					"input",
+					"output",
+					"parseArr",
+					"input",
+					"strInput",
+					"input",
+					"user",
+					"this",
+					"split",
+					"token",
+					"str",
+					"replace",
+					"sample",
+					" \n",
+					"form",
+					"arrayParse",
+					"str",
+					"male",
+					"stringify",
+					"print(",
+					"initialize",
+					"nativ",
+					"res_aslist",
+					"output",
+					"__class__",
+					"sayHi",
+					"ai",
+					"ai_py",
+					"ai",
+					"ai_py",
+					"ai_lib",
+					"consol",
+					"predict",
+					"deploy",
+					"predict",
+					"hello",
+					"ai",
+					"dnn_1_deploy",
+					"sayHi",
+					"titanic_dnn",
+					"dnn",
+					"titanic_dnn",
+					"dnn_titanic",
+					"titanic_dnn",
+					"sayHi",
+					"hello",
+					"train",
+					"predict",
+					"str",
+					"\"",
+					"Survived",
+					"'",
+					", ",
+					"input",
+					"py",
+					"hello_py",
+					"titanic",
+					"predict",
+					"bin",
+					"lib",
+					"pyenv",
+					"hubot",
+					"SocketIO",
+					"socketIO",
+					"SocketIO"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1632,1231 +2514,22 @@
 			"folders":
 			[
 				{
-					"path": "/Users/theredrose/Documents/neo4jKB"
+					"path": "/Users/theredrose/Documents/aiva"
 				}
 			],
 			"groups":
 			[
-				{
-					"selected": 2,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/theredrose/Documents/neo4jKB/lib/parse.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 17120,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										16777,
-										16777
-									]
-								],
-								"settings":
-								{
-									"history_list_is_closing": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 11420.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/theredrose/Documents/neo4jKB/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 951,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										407,
-										407
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/theredrose/Documents/neo4jKB/README.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5938,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4842,
-										4842
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2587.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				},
 				{
 					"selected": 0,
 					"sheets":
 					[
 						{
-							"buffer": 3,
-							"file": "/Users/theredrose/Documents/neo4jKB/test/test_parse.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10445,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10105,
-										10105
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2075.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/theredrose/Documents/neo4jKB/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 951,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										43,
-										43
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 0.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 157.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "1 319 0 638 777 0 0 1280 777 ",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"read",
-						"README.md"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"parse.",
-						"lib/parse.js"
-					],
-					[
-						"cons",
-						"lib/constrain.js"
-					],
-					[
-						"asset",
-						"test/asset.js"
-					],
-					[
-						"test_parse",
-						"test/test_parse.js"
-					],
-					[
-						"parse",
-						"lib/parse.js"
-					],
-					[
-						"common",
-						"test/common.js"
-					],
-					[
-						"user",
-						"lib/user.js"
-					],
-					[
-						"0_",
-						"scripts/0_init.js"
-					],
-					[
-						"todo",
-						"scripts/todo.js"
-					],
-					[
-						"dodo",
-						"node_modules/lomath/docs/annotated/docco.css"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"whosi",
-						"scripts/whois.js"
-					],
-					[
-						"const",
-						"brain/constrain.js"
-					],
-					[
-						"constr",
-						"brain/constrain.js"
-					],
-					[
-						"kb",
-						"scripts/KB_builder.js"
-					],
-					[
-						"consr",
-						"brain/constrain.js"
-					],
-					[
-						"meh",
-						"scripts/meh.js"
-					],
-					[
-						"meh2",
-						"scripts/meh2.js"
-					],
-					[
-						"npm",
-						"node_modules/scoped-http-client/src/npm-version.js"
-					],
-					[
-						"ping",
-						"scripts/ping.js"
-					],
-					[
-						"query",
-						"brain/query.js"
-					],
-					[
-						"kb_bui",
-						"scripts/KB_builder.js"
-					],
-					[
-						"lodas",
-						"node_modules/lodash/lodash.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"quer",
-						"brain/query.js"
-					],
-					[
-						".env",
-						".env"
-					],
-					[
-						"index",
-						"index.js"
-					],
-					[
-						"githu",
-						"app/scripts/github.js"
-					],
-					[
-						"",
-						"app/styles/lanyon.css"
-					],
-					[
-						"repo-card",
-						"repo-card.html"
-					],
-					[
-						"inde",
-						"app/index.html"
-					],
-					[
-						"gulp",
-						"gulpfile.babel.js"
-					],
-					[
-						"t.",
-						"test/t.coffee"
-					],
-					[
-						"html",
-						"node_modules/html-tags/html-tags.json"
-					],
-					[
-						"side",
-						"app/scripts/side.js"
-					],
-					[
-						"repo",
-						"app/repo-card.html"
-					],
-					[
-						"github",
-						"app/scripts/github.js"
-					],
-					[
-						"cna",
-						"CNAME"
-					],
-					[
-						".giti",
-						".gitignore"
-					],
-					[
-						"pg",
-						"D/dirtree/pg.js"
-					],
-					[
-						"giti",
-						".gitignore"
-					],
-					[
-						"readm",
-						"node_modules/colors/ReadMe.md"
-					],
-					[
-						"pac",
-						"package.json"
-					],
-					[
-						"mnis",
-						"mnist.py"
-					],
-					[
-						"test",
-						"D/monster/test.js"
-					],
-					[
-						"targe",
-						"D/monsprof/target.js"
-					],
-					[
-						"readme",
-						"node_modules/colors/ReadMe.md"
-					],
-					[
-						"gul",
-						"gulpfile.js"
-					],
-					[
-						"genoption",
-						"D/lib/genOption.js"
-					],
-					[
-						"target",
-						"D/monster/target.js"
-					],
-					[
-						"main",
-						"D/monster/main.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 400.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 390.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 178,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"pO",
-						"pOpsRe"
-					],
-					[
-						"rOpsH",
-						"rOpsHeadRe"
-					],
-					[
-						"wOpsH",
-						"wOpsHeadRe"
-					],
-					[
-						"sOp",
-						"sOpsRe"
-					],
-					[
-						"propLabe",
-						"propLabelB"
-					],
-					[
-						"propDis",
-						"propDistLabelE"
-					],
-					[
-						"labelS",
-						"LabelStrA"
-					],
-					[
-						"isLe",
-						"isLegalWSentence"
-					],
-					[
-						"isLega",
-						"isLegalSentence"
-					],
-					[
-						"rOps",
-						"rOpsReStr"
-					],
-					[
-						"c",
-						"chaining"
-					],
-					[
-						"prop",
-						"propLabelCount"
-					],
-					[
-						"propl",
-						"propLabelB"
-					],
-					[
-						"propLa",
-						"propLabelA"
-					],
-					[
-						"propL",
-						"propLabelB"
-					],
-					[
-						"cons",
-						"console"
-					],
-					[
-						"singel",
-						"singleLabelQuery"
-					],
-					[
-						"stringi",
-						"stringifyLabel"
-					],
-					[
-						"propE",
-						"propLabelE"
-					],
-					[
-						"labe",
-						"labelStr"
-					],
-					[
-						"hash",
-						"hash_by"
-					],
-					[
-						"lit",
-						"literalizeProp"
-					],
-					[
-						"generat",
-						"generateMandatoryFields"
-					],
-					[
-						"mandator",
-						"mandatoryFields"
-					],
-					[
-						"manda",
-						"mandatoryFields"
-					],
-					[
-						"list-s",
-						"list-style-type"
-					],
-					[
-						"injec",
-						"inject2"
-					],
-					[
-						"castB",
-						"castBadgesForAll"
-					],
-					[
-						"create",
-						"createTable1"
-					],
-					[
-						"cli",
-						"client2"
-					],
-					[
-						"summa",
-						"summary_str"
-					],
-					[
-						"add",
-						"add_summary"
-					],
-					[
-						"feed",
-						"feed_dict"
-					],
-					[
-						"grah",
-						"graph_def"
-					],
-					[
-						"acc",
-						"accuracy_summary"
-					],
-					[
-						"name",
-						"name_scope"
-					],
-					[
-						"h_fc1",
-						"h_fc1_drop"
-					],
-					[
-						"h_pool2",
-						"h_pool2_flat"
-					],
-					[
-						"h_poo",
-						"h_pool2"
-					],
-					[
-						"bias",
-						"bias_variable"
-					],
-					[
-						"b_con",
-						"b_conv2"
-					],
-					[
-						"weig",
-						"weight_variable"
-					],
-					[
-						"h_",
-						"h_conv1"
-					],
-					[
-						"max_",
-						"max_pool_2x2"
-					],
-					[
-						"initia",
-						"initialize_all_variables"
-					],
-					[
-						"cross",
-						"cross_entropy"
-					],
-					[
-						"initil",
-						"initialize"
-					],
-					[
-						"matr",
-						"matrix2"
-					],
-					[
-						"chan",
-						"changeIP"
-					],
-					[
-						"demogra",
-						"demograph"
-					],
-					[
-						"connec",
-						"connectionString"
-					],
-					[
-						"missed",
-						"missedTargets"
-					],
-					[
-						"con",
-						"convnetjs"
-					],
-					[
-						"reqpro",
-						"reqpromise"
-					],
-					[
-						"reqpr",
-						"reqpromises"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/theredrose/Documents/peppurr/scripts/todo.js",
-					"settings":
-					{
-						"buffer_size": 5148,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/theredrose/Documents/peppurr/.env",
-					"settings":
-					{
-						"buffer_size": 151,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/theredrose/Documents/peppurr/lib/user.js",
-					"settings":
-					{
-						"buffer_size": 1569,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-					"settings":
-					{
-						"buffer_size": 1559,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/theredrose/Documents/peppurr/README.md",
-					"settings":
-					{
-						"buffer_size": 6232,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
-					"settings":
-					{
-						"buffer_size": 17120,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-							""
-						],
-						[
-							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/JavaScript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Node.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/Node.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 137.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"coff",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"edito",
-						"Set Syntax: EditorConfig"
-					],
-					[
-						"coffee",
-						"Coffee: Check Syntax"
-					],
-					[
-						"coffeescr",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"editor",
-						"Set Syntax: EditorConfig"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"prettif",
-						"HTMLPrettify: Set Prettify Preferences"
-					],
-					[
-						"kbu",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"view re",
-						"PackageResourceViewer: Open Resource"
-					]
-				],
-				"width": 452.0
-			},
-			"console":
-			{
-				"height": 0.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Users/theredrose/Documents/peppurr",
-				"/Users/theredrose/Documents/peppurr/lib",
-				"/Users/theredrose/Documents/peppurr/logs",
-				"/Users/theredrose/Documents/peppurr/test",
-				"/Users/theredrose/Documents/peppurr/test/lib",
-				"/Users/theredrose/Documents/peppurr/test/scripts"
-			],
-			"file_history":
-			[
-				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
-				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
-				"/Users/theredrose/Documents/peppurr/test/common.js",
-				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
-				"/Users/theredrose/Documents/peppurr/README.md",
-				"/Users/theredrose/Documents/peppurr/package.json",
-				"/Users/theredrose/Documents/peppurr/lib/user.js",
-				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
-				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/.env-example",
-				"/Users/theredrose/Documents/neo4jKB/,",
-				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
-				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/Users/theredrose/Documents/Machines/machine.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
-				"/Users/theredrose/Documents/peppurr/brain/query.js",
-				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
-				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
-				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
-				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
-				"/Users/theredrose/Documents/peppurr/.env",
-				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
-				"/Users/theredrose/Documents/peppurr/bin/install",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
-				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
-				"/Users/theredrose/Documents/peppurr/meh",
-				"/Users/theredrose/Documents/peppurr/bin/hubot",
-				"/Users/theredrose/Documents/peppurr/index.js",
-				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
-				"/Users/theredrose/Documents/peppurr/test/meh.js",
-				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
-				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
-				"/Users/theredrose/Documents/peppurr/.editorconfig",
-				"/Users/theredrose/Documents/peppurr/test/t.coffee",
-				"/Users/theredrose/Documents/peppurr/.gitignore",
-				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
-				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
-				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
-				"/Users/theredrose/Documents/kengz.github.io/README.md",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
-				"/Users/theredrose/Documents/kengz.github.io/index2.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
-				"/Users/theredrose/Documents/kengz.github.io/package.json",
-				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
-				"/Users/theredrose/Desktop/repos",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/CNAME",
-				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
-				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
-				"/Users/theredrose/Documents/mac_setup/README.md",
-				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
-				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
-				"/Users/theredrose/.bash_profile2",
-				"/Users/theredrose/.bash_profile",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
-				"/Users/theredrose/.forever/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/.index",
-				"/Users/theredrose/Documents/peppurr/scripts/test.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
-				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
-				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
-				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
-				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
-				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
-				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
-				"/Users/theredrose/Documents/wantanmee/README.md",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
-				"/Users/theredrose/.ssh/id_rsa.pub",
-				"/etc/sudoers",
-				"/usr/sbin/networksetup",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"alice",
-					"test_to",
-					"task2",
-					"item",
-					"targetObj",
-					"undefined",
-					"index",
-					"markDown",
-					"index",
-					"flat",
-					"mat",
-					"pull",
-					"res",
-					"nameOrIndex",
-					"name",
-					"filter",
-					"pick",
-					"'",
-					"yield",
-					"assign",
-					"updated_when",
-					"keyword",
-					"priority",
-					"fieldArr",
-					"illegalize",
-					"created_by",
-					"neoRes",
-					"transNeoRes",
-					"_.size",
-					"res",
-					"flatIndexMat",
-					"transBeautify",
-					"join(",
-					"log",
-					"console",
-					"shit",
-					"picker",
-					"KB",
-					"picker",
-					"msg",
-					"assignTodo",
-					"low",
-					"transbeaut",
-					"sortRow",
-					"_.partial",
-					"partial",
-					"transBeautify",
-					"transform",
-					"partialRight",
-					"gather",
-					"function",
-					"neoRes",
-					"gather",
-					"KB",
-					"tail",
-					"sortByRow",
-					"neoRes",
-					"sortByRow",
-					"transNeoRes",
-					"neoRes",
-					"tail",
-					"mat",
-					"console",
-					"shit",
-					"alice",
-					"ID0000001",
-					"getId",
-					"userId",
-					"ID0000001",
-					"getId",
-					"ID0000001",
-					"eventually",
-					"alice",
-					"whois",
-					"alice",
-					"ID0000001",
-					"whois",
-					" describe 'whois', ->",
-					"describe 'whois', ->",
-					"	describe 'whois', ->",
-					"	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"root",
-					"alice",
-					"\"",
-					"string",
-					"user",
-					"users",
-					"keyword",
-					"scriptsPath",
-					"MockRobot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"0_init",
-					"this.robot",
-					"0_init",
-					"serialize_users",
-					"robot",
-					"@",
-					"function",
-					"Shell",
-					"serialize_users",
-					"spySer",
-					")\n",
-					"system",
-					"yield",
-					"Promise",
-					"var",
-					"whois",
-					"ping",
-					"user",
-					"0_init",
-					"scripts",
-					"parseObj",
-					"parseKV",
-					"task2"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/theredrose/Documents/peppurr"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
 							"buffer": 0,
-							"file": "/Users/theredrose/Documents/peppurr/scripts/todo.js",
+							"file": "/Users/theredrose/Documents/aiva/lib/py/ai.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5148,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3726,
-										3663
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2384.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/theredrose/Documents/peppurr/.env",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 151,
+								"buffer_size": 1012,
 								"regions":
 								{
 								},
@@ -2869,138 +2542,79 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
 				},
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
+							"buffer": 1,
+							"file": "/Users/theredrose/Documents/aiva/scripts/dnn_titanic.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1388,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										552,
+										552
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 336.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
 							"buffer": 2,
-							"file": "/Users/theredrose/Documents/peppurr/lib/user.js",
+							"file": "/Users/theredrose/Documents/aiva/docs/CHANGELOG.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1569,
+								"buffer_size": 6963,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										539,
-										539
+										5961,
+										5961
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 41.0,
+								"translation.y": 1920.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 1559,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1216,
-										1216
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 296.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/theredrose/Documents/peppurr/README.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6232,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1404,
-										1404
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 512.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 17120,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3009,
-										2776
-									]
-								],
-								"settings":
-								{
-									"history_list_is_closing": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1813.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -3008,7 +2622,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -3046,18 +2660,22 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 157.0
+				"height": 168.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 144.0
 			},
 			"pinned_build_system": "",
 			"position": "1 642 0 638 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3067,204 +2685,516 @@
 				"selected_items":
 				[
 					[
-						"read",
-						"README.md"
+						"dnn",
+						"scripts/dnn_titanic.js"
 					],
 					[
-						"neo4jkb/lib/parse",
-						"node_modules/neo4jkb/lib/parse.js"
+						"client.",
+						"lib/client.py"
 					],
 					[
-						"common",
-						"test/common.js"
+						"ai.p",
+						"lib/py/ai.py"
 					],
 					[
-						"user",
-						"lib/user.js"
+						"change",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"dnn_",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"train",
+						"lib/py/ais/dnn_titanic_train.py"
+					],
+					[
+						"prepro",
+						"lib/py/ais/ai_lib/preprocess.py"
+					],
+					[
+						"deplo",
+						"lib/py/ais/dnn_titanic_deploy.py"
+					],
+					[
+						"titanic",
+						"lib/py/ais/data/titanic.csv"
+					],
+					[
+						"cha",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"deploy",
+						"lib/py/ais/dnn_titanic_deploy.py"
+					],
+					[
+						"ai.js",
+						"lib/js/ai.js"
+					],
+					[
+						"helper",
+						"lib/js/helper.js"
+					],
+					[
+						"wats",
+						"lib/js/ais/watson.js"
+					],
+					[
+						"ai.py",
+						"lib/py/ai.py"
+					],
+					[
+						"io_ser",
+						"lib/io_server.js"
+					],
+					[
+						"client.p",
+						"lib/client.py"
+					],
+					[
+						"io_serv",
+						"lib/io_server.js"
+					],
+					[
+						"server",
+						"node_modules/hubot/script/server"
+					],
+					[
+						"dnn_t",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"deve",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"prepr",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"travi",
+						".travis.yml"
 					],
 					[
 						"pack",
 						"package.json"
 					],
 					[
-						"0_",
-						"scripts/0_init.js"
+						"meh.",
+						"test/meh.js"
 					],
 					[
-						"todo",
-						"scripts/todo.js"
-					],
-					[
-						"dodo",
-						"node_modules/lomath/docs/annotated/docco.css"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"whosi",
-						"scripts/whois.js"
-					],
-					[
-						"const",
-						"brain/constrain.js"
-					],
-					[
-						"constr",
-						"brain/constrain.js"
-					],
-					[
-						"cons",
-						"brain/constrain.js"
-					],
-					[
-						"kb",
-						"scripts/KB_builder.js"
-					],
-					[
-						"consr",
-						"brain/constrain.js"
-					],
-					[
-						"meh",
-						"scripts/meh.js"
-					],
-					[
-						"meh2",
-						"scripts/meh2.js"
-					],
-					[
-						"npm",
-						"node_modules/scoped-http-client/src/npm-version.js"
-					],
-					[
-						"ping",
-						"scripts/ping.js"
-					],
-					[
-						"query",
-						"brain/query.js"
-					],
-					[
-						"kb_bui",
-						"scripts/KB_builder.js"
-					],
-					[
-						"lodas",
-						"node_modules/lodash/lodash.js"
-					],
-					[
-						"packa",
+						"package",
 						"package.json"
 					],
 					[
-						"quer",
-						"brain/query.js"
+						"devel",
+						"docs/DEVELOPMENT.md"
 					],
 					[
-						".env",
-						".env"
+						"read",
+						"README.md"
+					],
+					[
+						"install",
+						"bin/install"
+					],
+					[
+						"prep",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"chan",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"conce",
+						"lib/js/ai/conceptnet.js"
+					],
+					[
+						"chage",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"preproce",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"common",
+						"test/common.js"
 					],
 					[
 						"index",
 						"index.js"
 					],
 					[
-						"githu",
-						"app/scripts/github.js"
+						"test_cl",
+						"test/lib/test_client.coffee"
 					],
 					[
-						"",
-						"app/styles/lanyon.css"
+						"lib/cli",
+						"lib/client.js"
 					],
 					[
-						"repo-card",
-						"repo-card.html"
+						"trav",
+						".travis.yml"
 					],
 					[
-						"inde",
-						"app/index.html"
+						"trsavis",
+						"node_modules/hubot-slack/.travis.yml"
 					],
 					[
-						"gulp",
-						"gulpfile.babel.js"
+						"travis",
+						".travis.yml"
 					],
 					[
-						"t.",
-						"test/t.coffee"
+						".travis",
+						".travis.yml"
 					],
 					[
-						"html",
-						"node_modules/html-tags/html-tags.json"
+						".travi",
+						".travis.yml"
 					],
 					[
-						"side",
-						"app/scripts/side.js"
+						"clien",
+						"lib/client.py"
 					],
 					[
-						"repo",
-						"app/repo-card.html"
+						"dnn_1",
+						"lib/py/ai/dnn_1_deploy.py"
 					],
 					[
-						"github",
-						"app/scripts/github.js"
-					],
-					[
-						"cna",
-						"CNAME"
+						"client",
+						"lib/client.py"
 					],
 					[
 						".giti",
 						".gitignore"
 					],
 					[
-						"pg",
-						"D/dirtree/pg.js"
+						"instal",
+						"bin/install"
 					],
 					[
-						"giti",
+						"gitig",
 						".gitignore"
 					],
 					[
-						"readm",
-						"node_modules/colors/ReadMe.md"
+						"custom",
+						"lib/js/custom_msg.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"concep",
+						"lib/js/ai/conceptnet.js"
+					],
+					[
+						"clieny.p",
+						"node_modules/solr-client/lib/utils/type.js"
+					],
+					[
+						"index.",
+						"index.js"
+					],
+					[
+						"watson",
+						"lib/js/ai/watson.js"
+					],
+					[
+						"index.html",
+						"coverage/lcov-report/index.html"
+					],
+					[
+						"tbtr",
+						"lib/js/ai/TBtranslate.py"
+					],
+					[
+						"googletr",
+						"lib/js/ai/googletranslate.js"
+					],
+					[
+						"goog",
+						"lib/js/ai/google.js"
+					],
+					[
+						"ai.",
+						"lib/js/ai.js"
+					],
+					[
+						"indi",
+						"lib/js/ai/indico.js"
+					],
+					[
+						"googleap",
+						"lib/js/ai/googleapis.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						".e",
+						".env"
+					],
+					[
+						"docs",
+						"node_modules/JSONStream/examples/all_docs.js"
+					],
+					[
+						".keys-",
+						"bin/.keys-example"
+					],
+					[
+						".keys",
+						"bin/.keys-example"
+					],
+					[
+						".ekys",
+						"bin/.keys-example"
+					],
+					[
+						"key-aiva",
+						"bin/.keys-aiva"
+					],
+					[
+						".keys-aiva",
+						"bin/.keys-aiva"
 					],
 					[
 						"pac",
 						"package.json"
 					],
 					[
-						"mnis",
-						"mnist.py"
+						"packat",
+						"node_modules/tar/test/pack-no-proprietary.js"
 					],
 					[
-						"test",
-						"D/monster/test.js"
+						"chang",
+						"docs/CHANGELOG.md"
 					],
 					[
-						"targe",
-						"D/monsprof/target.js"
+						"changelo",
+						"node_modules/esprima/ChangeLog"
+					],
+					[
+						"google",
+						"lib/js/googleapis.js"
+					],
+					[
+						".keys-e",
+						"bin/.keys-example"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						".keys-a",
+						"bin/.keys-aiva"
+					],
+					[
+						"googl",
+						"lib/js/googleapis.js"
+					],
+					[
+						".key",
+						"bin/.keys-example"
+					],
+					[
+						"nlp",
+						"lib/js/nlp.js"
+					],
+					[
+						"nodena",
+						"lib/js/nodenatural.js"
+					],
+					[
+						"noden",
+						"lib/js/nodenatural.js"
+					],
+					[
+						"changel",
+						"node_modules/esprima/ChangeLog"
+					],
+					[
+						"googleapo",
+						"node_modules/googleapis/lib/auth/oauth2client.js"
+					],
+					[
+						"idnex",
+						"index.js"
+					],
+					[
+						"scripts/hello_py_rb",
+						"scripts/hello_py_rb.js"
+					],
+					[
+						"test/scripts/hello",
+						"test/scripts/test_hello_py_rb.coffee"
+					],
+					[
+						"node_moules/wordpos/src/wor",
+						"node_modules/wordpos/src/wordpos.js"
+					],
+					[
+						"test/lib_has",
+						"test/lib/test_hasher.coffee"
+					],
+					[
+						".gitig",
+						".gitignore"
+					],
+					[
+						"packge",
+						"package.json"
+					],
+					[
+						".env-e",
+						".env-example"
+					],
+					[
+						"env",
+						".env"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"natural",
+						"scripts/natural.js"
 					],
 					[
 						"readme",
 						"node_modules/colors/ReadMe.md"
 					],
 					[
-						"gul",
-						"gulpfile.js"
+						"changelog",
+						"node_modules/esprima/ChangeLog"
 					],
 					[
-						"genoption",
-						"D/lib/genOption.js"
+						"natura",
+						"scripts/natural.js"
 					],
 					[
-						"target",
-						"D/monster/target.js"
+						"desig",
+						"docs/DESIGN.md"
 					],
 					[
-						"main",
-						"D/monster/main.js"
+						"wordne",
+						"scripts/wordnet.js"
+					],
+					[
+						"design",
+						"docs/DESIGN.md"
+					],
+					[
+						"cocep",
+						"scripts/conceptnet.js"
+					],
+					[
+						"develop",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"dev",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"desi",
+						"docs/DESIGN.md"
+					],
+					[
+						"save",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"ptb",
+						"skflow_tut/ptb_word_lm.py"
+					],
+					[
+						"data/tex",
+						"skflow_tut/data/text8"
+					],
+					[
+						"gens",
+						"skflow_tut/gensim_word2vec.py"
+					],
+					[
+						"tf_con",
+						"skflow_tut/tf_convnet.py"
+					],
+					[
+						"grid",
+						"skflow_tut/grid_search.py"
+					],
+					[
+						"intro.",
+						"scikit_tut/intro.py"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"iris",
+						"eg/examples/iris.py"
+					],
+					[
+						"tita",
+						"skflow_tut/titanic_deploy.py"
+					],
+					[
+						"iris_sav",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"re",
+						"skflow_tut/README.md"
+					],
+					[
+						"out",
+						"skflow_tut/out_of_core_data_classification.py"
+					],
+					[
+						"mult",
+						"skflow_tut/multiple_gpu.py"
+					],
+					[
+						"mnist",
+						"skflow_tut/mnist.py"
+					],
+					[
+						"iris_save",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"mnis",
+						"skflow_tut/mnist.py"
+					],
+					[
+						"languag",
+						"skflow_tut/language_model.py"
+					],
+					[
+						"irispip",
+						"skflow/examples/iris_with_pipeline.py"
+					],
+					[
+						"irisp",
+						"skflow_tut/iris_with_pipeline.py"
 					]
 				],
 				"width": 0.0
@@ -3287,7 +3217,7 @@
 				],
 				"width": 390.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -3295,12 +3225,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 167.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 176,
+			"window_id": 440,
 			"workspace_name": ""
 		},
 		{
@@ -3308,6 +3238,230 @@
 			{
 				"selected_items":
 				[
+					[
+						"h_",
+						"h_npzfile"
+					],
+					[
+						"fit",
+						"fit_transform"
+					],
+					[
+						"str_",
+						"str_headers"
+					],
+					[
+						"fill",
+						"fillna_dict"
+					],
+					[
+						"enco",
+						"encoder_path"
+					],
+					[
+						"promi",
+						"promisifyAll"
+					],
+					[
+						"look",
+						"lookup"
+					],
+					[
+						"client",
+						"clientGen"
+					],
+					[
+						"clien",
+						"clientItr"
+					],
+					[
+						"cl",
+						"clientItr"
+					],
+					[
+						"class",
+						"classifier"
+					],
+					[
+						"model",
+						"model_path"
+					],
+					[
+						"mode",
+						"model_path"
+					],
+					[
+						"tokeni",
+						"tokenize"
+					],
+					[
+						"sing",
+						"singularize"
+					],
+					[
+						"log",
+						"logCb"
+					],
+					[
+						"h",
+						"h_conv2"
+					],
+					[
+						"tensor",
+						"tensor_in"
+					],
+					[
+						"language",
+						"language_model"
+					],
+					[
+						"seq",
+						"sequence_classifier"
+					],
+					[
+						"hidd",
+						"hidden_size"
+					],
+					[
+						"hidden",
+						"HIDDEN_SIZE"
+					],
+					[
+						"in",
+						"int32"
+					],
+					[
+						"offset",
+						"offset_begin"
+					],
+					[
+						"va",
+						"val_monitor"
+					],
+					[
+						"exp",
+						"exp_decay"
+					],
+					[
+						"random",
+						"random_state"
+					],
+					[
+						"Ten",
+						"TensorFlowEstimator"
+					],
+					[
+						"one_ho",
+						"one_hot_categorical_model"
+					],
+					[
+						"Em",
+						"EMBEDDING_SIZE"
+					],
+					[
+						"Tens",
+						"TensorFlowLinearClassifier"
+					],
+					[
+						"lemma",
+						"lemmaCanon"
+					],
+					[
+						"largest",
+						"largest_unit"
+					],
+					[
+						"string",
+						"stringified"
+					],
+					[
+						"origi",
+						"originDefault"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"lengt",
+						"lengthSortedMat"
+					],
+					[
+						"time",
+						"timeUnitOrder"
+					],
+					[
+						"title",
+						"title_link"
+					],
+					[
+						"Obj",
+						"objRb"
+					],
+					[
+						"nex",
+						"nextnVal"
+					],
+					[
+						"delm",
+						"delimiter"
+					],
+					[
+						"lowest",
+						"lowestOverable"
+					],
+					[
+						"low",
+						"lowestOverable"
+					],
+					[
+						"overab",
+						"overableKeys"
+					],
+					[
+						"date",
+						"dateStrArr"
+					],
+					[
+						"replae",
+						"replaceAndSplit"
+					],
+					[
+						"da",
+						"dateArr"
+					],
+					[
+						"normal",
+						"normalDate"
+					],
+					[
+						"cns",
+						"console"
+					],
+					[
+						"searc",
+						"searchUserID"
+					],
+					[
+						"defau",
+						"defaultRoom"
+					],
+					[
+						"legal",
+						"legalizeProp"
+					],
+					[
+						"seria",
+						"serialize_users"
+					],
+					[
+						"lega",
+						"legalizeProp"
+					],
+					[
+						"change",
+						"changeEdgePL"
+					],
 					[
 						"pO",
 						"pOpsRe"
@@ -3477,10 +3631,6 @@
 						"weight_variable"
 					],
 					[
-						"h_",
-						"h_conv1"
-					],
-					[
 						"max_",
 						"max_pool_2x2"
 					],
@@ -3532,22 +3682,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/Users/theredrose/Documents/rub/index.rb",
-					"settings":
-					{
-						"buffer_size": 3680,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/theredrose/Documents/rub/module1.rb",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -3566,6 +3700,30 @@
 					[
 						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
 						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/User/JavaScript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Node.sublime-build",
+						""
 					]
 				],
 				[
@@ -3604,10 +3762,38 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 137.0,
-				"last_filter": "",
+				"height": 354.0,
+				"last_filter": "markdow",
 				"selected_items":
 				[
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"kbu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"open re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
@@ -3637,23 +3823,15 @@
 						"Set Syntax: EditorConfig"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"prettif",
 						"HTMLPrettify: Set Prettify Preferences"
-					],
-					[
-						"kbu",
-						"Preferences: Key Bindings - User"
 					],
 					[
 						"view re",
 						"PackageResourceViewer: Open Resource"
 					]
 				],
-				"width": 452.0
+				"width": 350.0
 			},
 			"console":
 			{
@@ -3673,142 +3851,142 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/theredrose/Documents/rub"
+				"/Users/theredrose/Downloads"
 			],
 			"file_history":
 			[
-				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
-				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
-				"/Users/theredrose/Documents/peppurr/test/common.js",
-				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
-				"/Users/theredrose/Documents/peppurr/README.md",
-				"/Users/theredrose/Documents/peppurr/package.json",
-				"/Users/theredrose/Documents/peppurr/lib/user.js",
-				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
-				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/.env-example",
-				"/Users/theredrose/Documents/neo4jKB/,",
-				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
-				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/Users/theredrose/Documents/Machines/machine.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
-				"/Users/theredrose/Documents/peppurr/brain/query.js",
-				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
-				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
-				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
-				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
-				"/Users/theredrose/Documents/peppurr/.env",
-				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
-				"/Users/theredrose/Documents/peppurr/bin/install",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
-				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
-				"/Users/theredrose/Documents/peppurr/meh",
-				"/Users/theredrose/Documents/peppurr/bin/hubot",
-				"/Users/theredrose/Documents/peppurr/index.js",
-				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
-				"/Users/theredrose/Documents/peppurr/test/meh.js",
-				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
-				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
-				"/Users/theredrose/Documents/peppurr/.editorconfig",
-				"/Users/theredrose/Documents/peppurr/test/t.coffee",
-				"/Users/theredrose/Documents/peppurr/.gitignore",
-				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
-				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
-				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
-				"/Users/theredrose/Documents/kengz.github.io/README.md",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
-				"/Users/theredrose/Documents/kengz.github.io/index2.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
-				"/Users/theredrose/Documents/kengz.github.io/package.json",
-				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
+				"/Users/theredrose/Documents/aiva/docs/CHANGELOG.md",
+				"/Users/theredrose/Documents/aiva/lib/js/ai.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ais/watson.js",
+				"/Users/theredrose/Documents/aiva/lib/js/helper.js",
+				"/Users/theredrose/Documents/aiva/lib/py/ai.py",
+				"/Users/theredrose/Documents/aiva/lib/client.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/dnn_titanic_deploy.py",
+				"/Users/theredrose/Documents/aiva/scripts/dnn_titanic.js",
+				"/Users/theredrose/Documents/aiva/lib/py/ais/dnn_titanic_train.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai_py.py",
+				"/Users/theredrose/Documents/aiva/lib/client.rb",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_titanic_train.py",
+				"/Users/theredrose/Documents/aiva/lib/io_server.js",
+				"/Users/theredrose/Documents/aiva/node_modules/hubot/script/server",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_titanic_deploy.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_1_deploy.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/titanic_dnn_deploy.py",
+				"/Users/theredrose/Documents/aiva/scripts/dnn.js",
+				"/Users/theredrose/Documents/aiva/docs/DEVELOPMENT.md",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ai_lib/preprocess.py",
+				"/Users/theredrose/Documents/aiva/package.json",
+				"/Users/theredrose/Documents/aiva/.travis.yml",
+				"/Users/theredrose/Documents/aiva/test/0_init_test.js",
+				"/Users/theredrose/Documents/aiva/test/meh.js",
+				"/Users/theredrose/Documents/aiva/lib/rb/Hello.rb",
+				"/Users/theredrose/Documents/aiva/lib/py/hello.py",
+				"/Users/theredrose/Documents/aiva/lib/py/hello_rb.py",
 				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
-				"/Users/theredrose/Desktop/repos",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/CNAME",
-				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
-				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
-				"/Users/theredrose/Documents/mac_setup/README.md",
-				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
-				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
-				"/Users/theredrose/.bash_profile2",
+				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/theredrose/Documents/aiva/bin/install",
+				"/Users/theredrose/Documents/aiva/README.md",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/dnn_1_train.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic.csv",
+				"/Users/theredrose/Desktop/key",
+				"/Users/theredrose/Documents/aiva/node_modules/watson-developer-cloud/services/natural_language_classifier/json-training-to-csv.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/conceptnet.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/watson.js",
+				"/Users/theredrose/Documents/aiva/index.js",
+				"/Users/theredrose/Documents/aiva/test/common.js",
+				"/Users/theredrose/Documents/aiva/lib/client.js",
+				"/Users/theredrose/Documents/aiva/test/lib/test_client.coffee",
+				"/Users/theredrose/Documents/aiva/node_modules/hubot-slack/.travis.yml",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ai_lib/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/__init__.py",
+				"/Users/theredrose/Documents/aiva/.gitignore",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic2.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic_train2.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/data/titanic_train.csv",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ailib/preprocess.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/ailib/__init__.py",
+				"/Users/theredrose/Documents/aiva/lib/py/ai/lib/encoding.py",
+				"/Users/theredrose/Documents/aiva/scripts/ping.js",
+				"/Users/theredrose/Documents/aiva/lib/js/custom_msg.js",
+				"/Users/theredrose/Documents/aiva/node_modules/solr-client/lib/utils/type.js",
+				"/Users/theredrose/Documents/aiva/coverage/lcov-report/index.html",
+				"/Users/theredrose/Documents/aiva/bin/.keys-aivadev",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/google.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/googletranslate.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/googleapis.js",
+				"/Users/theredrose/Documents/aiva/lib/js/ai/indico.js",
+				"/Users/theredrose/Documents/aiva/.env",
 				"/Users/theredrose/.bash_profile",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
-				"/Users/theredrose/.forever/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/.index",
-				"/Users/theredrose/Documents/peppurr/scripts/test.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
-				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
-				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
-				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
-				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
-				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
-				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
-				"/Users/theredrose/Documents/wantanmee/README.md",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
-				"/Users/theredrose/.ssh/id_rsa.pub",
-				"/etc/sudoers",
-				"/usr/sbin/networksetup",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
+				"/Users/theredrose/Documents/aiva/scripts/whois.js",
+				"/Users/theredrose/Documents/aiva/lib/js/googleapis.js",
+				"/Users/theredrose/Documents/aiva/lib/js/watson.js",
+				"/Users/theredrose/Documents/aiva/node_modules/JSONStream/examples/all_docs.js",
+				"/Users/theredrose/Documents/aiva/lib/js/indico.js",
+				"/Users/theredrose/Documents/aiva/bin/.keys-example",
+				"/Users/theredrose/Documents/aiva/bin/.keys-aiva",
+				"/Users/theredrose/Documents/aiva/node_modules/tar/test/pack-no-proprietary.js",
+				"/Users/theredrose/Documents/aiva/node_modules/esprima/ChangeLog",
+				"/Users/theredrose/Documents/aiva/Gemfile",
+				"/Users/theredrose/Documents/aiva/lib/js/nlp.js",
+				"/Users/theredrose/Documents/aiva/lib/js/nodenatural.js",
+				"/Users/theredrose/Documents/aiva/scripts/googleapis.js",
+				"/Users/theredrose/Documents/aiva/node_modules/googleapis/lib/auth/oauth2client.js",
+				"/Users/theredrose/Documents/aiva/test/scripts/test_hello_py_rb.coffee",
+				"/Users/theredrose/Documents/aiva/scripts/hello_py_rb.js",
+				"/Users/theredrose/Documents/aiva/test/lib/test_hasher.coffee",
+				"/Users/theredrose/Documents/aiva/node_modules/wordpos/src/wordpos.js",
+				"/Users/theredrose/Documents/aiva/test/scripts/test_translate.coffee",
+				"/Users/theredrose/Documents/aiva/scripts/natural.js",
+				"/Users/theredrose/Documents/aiva/.env-example",
+				"/Users/theredrose/Documents/aiva/scripts/translate.js",
+				"/Users/theredrose/Documents/aiva/docs/DESIGN.md",
+				"/Users/theredrose/Documents/aiva/docs/FEATURES.md",
+				"/Users/theredrose/Documents/aiva/node_modules/colors/ReadMe.md",
+				"/Users/theredrose/Documents/aiva/scripts/wordnet.js",
+				"/Users/theredrose/Documents/aiva/scripts/conceptnet.js",
+				"/Users/theredrose/Documents/aiva/node_modules/concept-net/src/store.js",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_save_restore.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/ptb_word_lm.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/data/text8",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/tensor.py",
+				"/Users/theredrose/Documents/ai-notebook/scikit_tut/intro.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/README.md",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/tf_convnet.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/grid_search.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/deploy.py",
+				"/Users/theredrose/Documents/ai-notebook/.gitignore",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris.py",
+				"/Users/theredrose/Documents/ai-notebook/eg/examples/iris.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/titanic_deploy.py",
+				"/Users/theredrose/Documents/ai-notebook/README.md",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/titanic.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_val_based_early_stopping.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_with_pipeline.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_config_addon.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_custom_decay_dnn.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/iris_custom_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/multiple_gpu.py",
+				"/Users/theredrose/Documents/ai-notebook/eg/examples/multiple_gpu.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/out_of_core_data_classification.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/mnist_weights.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/mnist.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/language_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/language_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_with_pipeline.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_val_based_early_stopping.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/category.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow_tut/boston.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_custom_model.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/digits.py",
+				"/usr/local/lib/python3.5/site-packages/skflow/estimators/base.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/README.rst",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_config_addon.py",
+				"/Users/theredrose/Documents/ai-notebook/skflow/examples/iris_custom_decay_dnn.py"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
@@ -3822,134 +4000,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"alice",
-					"test_to",
-					"task2",
-					"item",
-					"targetObj",
-					"undefined",
-					"index",
-					"markDown",
-					"index",
-					"flat",
-					"mat",
-					"pull",
+					"classifier",
+					"accuracy",
+					"train",
+					"predict",
+					"model",
+					"classifier",
 					"res",
-					"nameOrIndex",
-					"name",
-					"filter",
-					"pick",
-					"'",
-					"yield",
-					"assign",
-					"updated_when",
-					"keyword",
-					"priority",
-					"fieldArr",
-					"illegalize",
-					"created_by",
-					"neoRes",
-					"transNeoRes",
-					"_.size",
-					"res",
-					"flatIndexMat",
-					"transBeautify",
-					"join(",
-					"log",
-					"console",
-					"shit",
-					"picker",
-					"KB",
-					"picker",
-					"msg",
-					"assignTodo",
-					"low",
-					"transbeaut",
-					"sortRow",
-					"_.partial",
-					"partial",
-					"transBeautify",
-					"transform",
-					"partialRight",
-					"gather",
-					"function",
-					"neoRes",
-					"gather",
-					"KB",
-					"tail",
-					"sortByRow",
-					"neoRes",
-					"sortByRow",
-					"transNeoRes",
-					"neoRes",
-					"tail",
-					"mat",
-					"console",
-					"shit",
-					"alice",
-					"ID0000001",
-					"getId",
-					"userId",
-					"ID0000001",
-					"getId",
-					"ID0000001",
-					"eventually",
-					"alice",
-					"whois",
-					"alice",
-					"ID0000001",
-					"whois",
-					" describe 'whois', ->",
-					"describe 'whois', ->",
-					"	describe 'whois', ->",
-					"	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"root",
-					"alice",
+					"res_aslist",
+					"score_native",
+					"tolist",
+					"x",
+					"predict",
+					"output",
+					"input",
+					"output",
+					"parseArr",
+					"input",
+					"strInput",
+					"input",
+					"user",
+					"this",
+					"split",
+					"token",
+					"str",
+					"replace",
+					"sample",
+					" \n",
+					"form",
+					"arrayParse",
+					"str",
+					"male",
+					"stringify",
+					"print(",
+					"initialize",
+					"nativ",
+					"res_aslist",
+					"output",
+					"__class__",
+					"sayHi",
+					"ai",
+					"ai_py",
+					"ai",
+					"ai_py",
+					"ai_lib",
+					"consol",
+					"predict",
+					"deploy",
+					"predict",
+					"hello",
+					"ai",
+					"dnn_1_deploy",
+					"sayHi",
+					"titanic_dnn",
+					"dnn",
+					"titanic_dnn",
+					"dnn_titanic",
+					"titanic_dnn",
+					"sayHi",
+					"hello",
+					"train",
+					"predict",
+					"str",
 					"\"",
-					"string",
+					"Survived",
+					"'",
+					", ",
+					"input",
+					"py",
+					"hello_py",
+					"titanic",
+					"predict",
+					"bin",
+					"lib",
+					"pyenv",
+					"hubot",
+					"SocketIO",
+					"socketIO",
+					"SocketIO",
+					"guide",
+					"(*)",
+					"`",
+					"Wordnet",
+					"Knowledge",
+					"java",
+					"rust",
+					"Machine",
+					"RESTful",
+					"java",
+					"py",
+					"thei",
+					"languages",
+					"python",
+					"Libraries",
+					"Tasks",
+					"Dev",
+					"JSON",
+					"msg",
+					"mocha",
+					"prevent",
+					"unit t",
+					"above",
+					"pattern",
+					"same",
+					"multipl",
+					"from",
+					"python",
+					"module",
 					"user",
-					"users",
-					"keyword",
-					"scriptsPath",
-					"MockRobot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"0_init",
-					"this.robot",
-					"0_init",
-					"serialize_users",
-					"robot",
-					"@",
-					"function",
-					"Shell",
-					"serialize_users",
-					"spySer",
-					")\n",
-					"system",
-					"yield",
-					"Promise",
-					"var",
-					"whois",
-					"ping",
-					"user",
-					"0_init",
-					"scripts",
-					"parseObj",
-					"parseKV",
-					"task2"
+					"capitalized",
+					"msg",
+					"```py",
+					"purposes",
+					"from",
+					"the",
+					"payload",
+					"Hello",
+					"pass",
+					"other_function",
+					"add",
+					"javascript",
+					"in",
+					"control",
+					"interface",
+					"module",
+					"this",
+					"use",
+					"hash",
+					"clientPass"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3967,79 +4145,20 @@
 			"folders":
 			[
 				{
-					"path": "/Users/theredrose/Documents/rub"
+					"path": "/Users/theredrose/Downloads"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/Users/theredrose/Documents/rub/index.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3680,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										417,
-										417
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/theredrose/Documents/rub/module1.rb",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -4070,1004 +4189,22 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 157.0
+				"height": 168.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "",
-			"position": "1 319 0 638 777 0 0 1280 777 ",
-			"project": "",
-			"replace":
+			"output.markdown":
 			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"read",
-						"README.md"
-					],
-					[
-						"neo4jkb/lib/parse",
-						"node_modules/neo4jkb/lib/parse.js"
-					],
-					[
-						"common",
-						"test/common.js"
-					],
-					[
-						"user",
-						"lib/user.js"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"0_",
-						"scripts/0_init.js"
-					],
-					[
-						"todo",
-						"scripts/todo.js"
-					],
-					[
-						"dodo",
-						"node_modules/lomath/docs/annotated/docco.css"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"whosi",
-						"scripts/whois.js"
-					],
-					[
-						"const",
-						"brain/constrain.js"
-					],
-					[
-						"constr",
-						"brain/constrain.js"
-					],
-					[
-						"cons",
-						"brain/constrain.js"
-					],
-					[
-						"kb",
-						"scripts/KB_builder.js"
-					],
-					[
-						"consr",
-						"brain/constrain.js"
-					],
-					[
-						"meh",
-						"scripts/meh.js"
-					],
-					[
-						"meh2",
-						"scripts/meh2.js"
-					],
-					[
-						"npm",
-						"node_modules/scoped-http-client/src/npm-version.js"
-					],
-					[
-						"ping",
-						"scripts/ping.js"
-					],
-					[
-						"query",
-						"brain/query.js"
-					],
-					[
-						"kb_bui",
-						"scripts/KB_builder.js"
-					],
-					[
-						"lodas",
-						"node_modules/lodash/lodash.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"quer",
-						"brain/query.js"
-					],
-					[
-						".env",
-						".env"
-					],
-					[
-						"index",
-						"index.js"
-					],
-					[
-						"githu",
-						"app/scripts/github.js"
-					],
-					[
-						"",
-						"app/styles/lanyon.css"
-					],
-					[
-						"repo-card",
-						"repo-card.html"
-					],
-					[
-						"inde",
-						"app/index.html"
-					],
-					[
-						"gulp",
-						"gulpfile.babel.js"
-					],
-					[
-						"t.",
-						"test/t.coffee"
-					],
-					[
-						"html",
-						"node_modules/html-tags/html-tags.json"
-					],
-					[
-						"side",
-						"app/scripts/side.js"
-					],
-					[
-						"repo",
-						"app/repo-card.html"
-					],
-					[
-						"github",
-						"app/scripts/github.js"
-					],
-					[
-						"cna",
-						"CNAME"
-					],
-					[
-						".giti",
-						".gitignore"
-					],
-					[
-						"pg",
-						"D/dirtree/pg.js"
-					],
-					[
-						"giti",
-						".gitignore"
-					],
-					[
-						"readm",
-						"node_modules/colors/ReadMe.md"
-					],
-					[
-						"pac",
-						"package.json"
-					],
-					[
-						"mnis",
-						"mnist.py"
-					],
-					[
-						"test",
-						"D/monster/test.js"
-					],
-					[
-						"targe",
-						"D/monsprof/target.js"
-					],
-					[
-						"readme",
-						"node_modules/colors/ReadMe.md"
-					],
-					[
-						"gul",
-						"gulpfile.js"
-					],
-					[
-						"genoption",
-						"D/lib/genOption.js"
-					],
-					[
-						"target",
-						"D/monster/target.js"
-					],
-					[
-						"main",
-						"D/monster/main.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 400.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 390.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 180,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"pO",
-						"pOpsRe"
-					],
-					[
-						"rOpsH",
-						"rOpsHeadRe"
-					],
-					[
-						"wOpsH",
-						"wOpsHeadRe"
-					],
-					[
-						"sOp",
-						"sOpsRe"
-					],
-					[
-						"propLabe",
-						"propLabelB"
-					],
-					[
-						"propDis",
-						"propDistLabelE"
-					],
-					[
-						"labelS",
-						"LabelStrA"
-					],
-					[
-						"isLe",
-						"isLegalWSentence"
-					],
-					[
-						"isLega",
-						"isLegalSentence"
-					],
-					[
-						"rOps",
-						"rOpsReStr"
-					],
-					[
-						"c",
-						"chaining"
-					],
-					[
-						"prop",
-						"propLabelCount"
-					],
-					[
-						"propl",
-						"propLabelB"
-					],
-					[
-						"propLa",
-						"propLabelA"
-					],
-					[
-						"propL",
-						"propLabelB"
-					],
-					[
-						"cons",
-						"console"
-					],
-					[
-						"singel",
-						"singleLabelQuery"
-					],
-					[
-						"stringi",
-						"stringifyLabel"
-					],
-					[
-						"propE",
-						"propLabelE"
-					],
-					[
-						"labe",
-						"labelStr"
-					],
-					[
-						"hash",
-						"hash_by"
-					],
-					[
-						"lit",
-						"literalizeProp"
-					],
-					[
-						"generat",
-						"generateMandatoryFields"
-					],
-					[
-						"mandator",
-						"mandatoryFields"
-					],
-					[
-						"manda",
-						"mandatoryFields"
-					],
-					[
-						"list-s",
-						"list-style-type"
-					],
-					[
-						"injec",
-						"inject2"
-					],
-					[
-						"castB",
-						"castBadgesForAll"
-					],
-					[
-						"create",
-						"createTable1"
-					],
-					[
-						"cli",
-						"client2"
-					],
-					[
-						"summa",
-						"summary_str"
-					],
-					[
-						"add",
-						"add_summary"
-					],
-					[
-						"feed",
-						"feed_dict"
-					],
-					[
-						"grah",
-						"graph_def"
-					],
-					[
-						"acc",
-						"accuracy_summary"
-					],
-					[
-						"name",
-						"name_scope"
-					],
-					[
-						"h_fc1",
-						"h_fc1_drop"
-					],
-					[
-						"h_pool2",
-						"h_pool2_flat"
-					],
-					[
-						"h_poo",
-						"h_pool2"
-					],
-					[
-						"bias",
-						"bias_variable"
-					],
-					[
-						"b_con",
-						"b_conv2"
-					],
-					[
-						"weig",
-						"weight_variable"
-					],
-					[
-						"h_",
-						"h_conv1"
-					],
-					[
-						"max_",
-						"max_pool_2x2"
-					],
-					[
-						"initia",
-						"initialize_all_variables"
-					],
-					[
-						"cross",
-						"cross_entropy"
-					],
-					[
-						"initil",
-						"initialize"
-					],
-					[
-						"matr",
-						"matrix2"
-					],
-					[
-						"chan",
-						"changeIP"
-					],
-					[
-						"demogra",
-						"demograph"
-					],
-					[
-						"connec",
-						"connectionString"
-					],
-					[
-						"missed",
-						"missedTargets"
-					],
-					[
-						"con",
-						"convnetjs"
-					],
-					[
-						"reqpro",
-						"reqpromise"
-					],
-					[
-						"reqpr",
-						"reqpromises"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/theredrose/Documents/Deal_Aggregator/.gitignore",
-					"settings":
-					{
-						"buffer_size": 607,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-							""
-						],
-						[
-							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/JavaScript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Node.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/Node.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 137.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"coff",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"edito",
-						"Set Syntax: EditorConfig"
-					],
-					[
-						"coffee",
-						"Coffee: Check Syntax"
-					],
-					[
-						"coffeescr",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"editor",
-						"Set Syntax: EditorConfig"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"prettif",
-						"HTMLPrettify: Set Prettify Preferences"
-					],
-					[
-						"kbu",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"view re",
-						"PackageResourceViewer: Open Resource"
-					]
-				],
-				"width": 452.0
-			},
-			"console":
-			{
-				"height": 0.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Users/theredrose/Documents/Deal_Aggregator"
-			],
-			"file_history":
-			[
-				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
-				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
-				"/Users/theredrose/Documents/peppurr/test/common.js",
-				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
-				"/Users/theredrose/Documents/peppurr/README.md",
-				"/Users/theredrose/Documents/peppurr/package.json",
-				"/Users/theredrose/Documents/peppurr/lib/user.js",
-				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
-				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/.env-example",
-				"/Users/theredrose/Documents/neo4jKB/,",
-				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
-				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/Users/theredrose/Documents/Machines/machine.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
-				"/Users/theredrose/Documents/peppurr/brain/query.js",
-				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
-				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
-				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
-				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
-				"/Users/theredrose/Documents/peppurr/.env",
-				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
-				"/Users/theredrose/Documents/peppurr/bin/install",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
-				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
-				"/Users/theredrose/Documents/peppurr/meh",
-				"/Users/theredrose/Documents/peppurr/bin/hubot",
-				"/Users/theredrose/Documents/peppurr/index.js",
-				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
-				"/Users/theredrose/Documents/peppurr/test/meh.js",
-				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
-				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
-				"/Users/theredrose/Documents/peppurr/.editorconfig",
-				"/Users/theredrose/Documents/peppurr/test/t.coffee",
-				"/Users/theredrose/Documents/peppurr/.gitignore",
-				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
-				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
-				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
-				"/Users/theredrose/Documents/kengz.github.io/README.md",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
-				"/Users/theredrose/Documents/kengz.github.io/index2.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
-				"/Users/theredrose/Documents/kengz.github.io/package.json",
-				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
-				"/Users/theredrose/Desktop/repos",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/CNAME",
-				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
-				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
-				"/Users/theredrose/Documents/mac_setup/README.md",
-				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
-				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
-				"/Users/theredrose/.bash_profile2",
-				"/Users/theredrose/.bash_profile",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
-				"/Users/theredrose/.forever/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/.index",
-				"/Users/theredrose/Documents/peppurr/scripts/test.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
-				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
-				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
-				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
-				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
-				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
-				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
-				"/Users/theredrose/Documents/wantanmee/README.md",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
-				"/Users/theredrose/.ssh/id_rsa.pub",
-				"/etc/sudoers",
-				"/usr/sbin/networksetup",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"alice",
-					"test_to",
-					"task2",
-					"item",
-					"targetObj",
-					"undefined",
-					"index",
-					"markDown",
-					"index",
-					"flat",
-					"mat",
-					"pull",
-					"res",
-					"nameOrIndex",
-					"name",
-					"filter",
-					"pick",
-					"'",
-					"yield",
-					"assign",
-					"updated_when",
-					"keyword",
-					"priority",
-					"fieldArr",
-					"illegalize",
-					"created_by",
-					"neoRes",
-					"transNeoRes",
-					"_.size",
-					"res",
-					"flatIndexMat",
-					"transBeautify",
-					"join(",
-					"log",
-					"console",
-					"shit",
-					"picker",
-					"KB",
-					"picker",
-					"msg",
-					"assignTodo",
-					"low",
-					"transbeaut",
-					"sortRow",
-					"_.partial",
-					"partial",
-					"transBeautify",
-					"transform",
-					"partialRight",
-					"gather",
-					"function",
-					"neoRes",
-					"gather",
-					"KB",
-					"tail",
-					"sortByRow",
-					"neoRes",
-					"sortByRow",
-					"transNeoRes",
-					"neoRes",
-					"tail",
-					"mat",
-					"console",
-					"shit",
-					"alice",
-					"ID0000001",
-					"getId",
-					"userId",
-					"ID0000001",
-					"getId",
-					"ID0000001",
-					"eventually",
-					"alice",
-					"whois",
-					"alice",
-					"ID0000001",
-					"whois",
-					" describe 'whois', ->",
-					"describe 'whois', ->",
-					"	describe 'whois', ->",
-					"	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"root",
-					"alice",
-					"\"",
-					"string",
-					"user",
-					"users",
-					"keyword",
-					"scriptsPath",
-					"MockRobot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"0_init",
-					"this.robot",
-					"0_init",
-					"serialize_users",
-					"robot",
-					"@",
-					"function",
-					"Shell",
-					"serialize_users",
-					"spySer",
-					")\n",
-					"system",
-					"yield",
-					"Promise",
-					"var",
-					"whois",
-					"ping",
-					"user",
-					"0_init",
-					"scripts",
-					"parseObj",
-					"parseKV",
-					"task2"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/theredrose/Documents/Deal_Aggregator"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/theredrose/Documents/Deal_Aggregator/.gitignore",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 607,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 0.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 157.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
+				"height": 144.0
 			},
 			"pinned_build_system": "",
 			"position": "0 319 0 638 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -5077,1190 +4214,516 @@
 				"selected_items":
 				[
 					[
-						"read",
-						"README.md"
+						"cha",
+						"docs/CHANGELOG.md"
 					],
 					[
-						"neo4jkb/lib/parse",
-						"node_modules/neo4jkb/lib/parse.js"
+						"deploy",
+						"lib/py/ais/dnn_titanic_deploy.py"
 					],
 					[
-						"common",
-						"test/common.js"
+						"ai.p",
+						"lib/py/ai.py"
 					],
 					[
-						"user",
-						"lib/user.js"
+						"ai.js",
+						"lib/js/ai.js"
+					],
+					[
+						"helper",
+						"lib/js/helper.js"
+					],
+					[
+						"wats",
+						"lib/js/ais/watson.js"
+					],
+					[
+						"dnn_",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"ai.py",
+						"lib/py/ai.py"
+					],
+					[
+						"dnn",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"io_ser",
+						"lib/io_server.js"
+					],
+					[
+						"client.p",
+						"lib/client.py"
+					],
+					[
+						"io_serv",
+						"lib/io_server.js"
+					],
+					[
+						"server",
+						"node_modules/hubot/script/server"
+					],
+					[
+						"change",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"dnn_t",
+						"scripts/dnn_titanic.js"
+					],
+					[
+						"deve",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"prepr",
+						"lib/py/ai/ai_lib/preprocess.py"
+					],
+					[
+						"travi",
+						".travis.yml"
 					],
 					[
 						"pack",
 						"package.json"
 					],
 					[
-						"0_",
-						"scripts/0_init.js"
+						"meh.",
+						"test/meh.js"
 					],
 					[
-						"todo",
-						"scripts/todo.js"
+						"package",
+						"package.json"
 					],
 					[
-						"dodo",
-						"node_modules/lomath/docs/annotated/docco.css"
+						"devel",
+						"docs/DEVELOPMENT.md"
 					],
 					[
-						"rea",
+						"train",
+						"lib/py/ai/dnn_1_train.py"
+					],
+					[
+						"read",
 						"README.md"
-					],
-					[
-						"whosi",
-						"scripts/whois.js"
-					],
-					[
-						"const",
-						"brain/constrain.js"
-					],
-					[
-						"constr",
-						"brain/constrain.js"
-					],
-					[
-						"cons",
-						"brain/constrain.js"
-					],
-					[
-						"kb",
-						"scripts/KB_builder.js"
-					],
-					[
-						"consr",
-						"brain/constrain.js"
-					],
-					[
-						"meh",
-						"scripts/meh.js"
-					],
-					[
-						"meh2",
-						"scripts/meh2.js"
-					],
-					[
-						"npm",
-						"node_modules/scoped-http-client/src/npm-version.js"
-					],
-					[
-						"ping",
-						"scripts/ping.js"
-					],
-					[
-						"query",
-						"brain/query.js"
-					],
-					[
-						"kb_bui",
-						"scripts/KB_builder.js"
-					],
-					[
-						"lodas",
-						"node_modules/lodash/lodash.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"quer",
-						"brain/query.js"
-					],
-					[
-						".env",
-						".env"
-					],
-					[
-						"index",
-						"index.js"
-					],
-					[
-						"githu",
-						"app/scripts/github.js"
-					],
-					[
-						"",
-						"app/styles/lanyon.css"
-					],
-					[
-						"repo-card",
-						"repo-card.html"
-					],
-					[
-						"inde",
-						"app/index.html"
-					],
-					[
-						"gulp",
-						"gulpfile.babel.js"
-					],
-					[
-						"t.",
-						"test/t.coffee"
-					],
-					[
-						"html",
-						"node_modules/html-tags/html-tags.json"
-					],
-					[
-						"side",
-						"app/scripts/side.js"
-					],
-					[
-						"repo",
-						"app/repo-card.html"
-					],
-					[
-						"github",
-						"app/scripts/github.js"
-					],
-					[
-						"cna",
-						"CNAME"
-					],
-					[
-						".giti",
-						".gitignore"
-					],
-					[
-						"pg",
-						"D/dirtree/pg.js"
-					],
-					[
-						"giti",
-						".gitignore"
-					],
-					[
-						"readm",
-						"node_modules/colors/ReadMe.md"
-					],
-					[
-						"pac",
-						"package.json"
-					],
-					[
-						"mnis",
-						"mnist.py"
-					],
-					[
-						"test",
-						"D/monster/test.js"
-					],
-					[
-						"targe",
-						"D/monsprof/target.js"
-					],
-					[
-						"readme",
-						"node_modules/colors/ReadMe.md"
-					],
-					[
-						"gul",
-						"gulpfile.js"
-					],
-					[
-						"genoption",
-						"D/lib/genOption.js"
-					],
-					[
-						"target",
-						"D/monster/target.js"
-					],
-					[
-						"main",
-						"D/monster/main.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 400.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 390.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 182,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"pO",
-						"pOpsRe"
-					],
-					[
-						"rOpsH",
-						"rOpsHeadRe"
-					],
-					[
-						"wOpsH",
-						"wOpsHeadRe"
-					],
-					[
-						"sOp",
-						"sOpsRe"
-					],
-					[
-						"propLabe",
-						"propLabelB"
-					],
-					[
-						"propDis",
-						"propDistLabelE"
-					],
-					[
-						"labelS",
-						"LabelStrA"
-					],
-					[
-						"isLe",
-						"isLegalWSentence"
-					],
-					[
-						"isLega",
-						"isLegalSentence"
-					],
-					[
-						"rOps",
-						"rOpsReStr"
-					],
-					[
-						"c",
-						"chaining"
-					],
-					[
-						"prop",
-						"propLabelCount"
-					],
-					[
-						"propl",
-						"propLabelB"
-					],
-					[
-						"propLa",
-						"propLabelA"
-					],
-					[
-						"propL",
-						"propLabelB"
-					],
-					[
-						"cons",
-						"console"
-					],
-					[
-						"singel",
-						"singleLabelQuery"
-					],
-					[
-						"stringi",
-						"stringifyLabel"
-					],
-					[
-						"propE",
-						"propLabelE"
-					],
-					[
-						"labe",
-						"labelStr"
-					],
-					[
-						"hash",
-						"hash_by"
-					],
-					[
-						"lit",
-						"literalizeProp"
-					],
-					[
-						"generat",
-						"generateMandatoryFields"
-					],
-					[
-						"mandator",
-						"mandatoryFields"
-					],
-					[
-						"manda",
-						"mandatoryFields"
-					],
-					[
-						"list-s",
-						"list-style-type"
-					],
-					[
-						"injec",
-						"inject2"
-					],
-					[
-						"castB",
-						"castBadgesForAll"
-					],
-					[
-						"create",
-						"createTable1"
-					],
-					[
-						"cli",
-						"client2"
-					],
-					[
-						"summa",
-						"summary_str"
-					],
-					[
-						"add",
-						"add_summary"
-					],
-					[
-						"feed",
-						"feed_dict"
-					],
-					[
-						"grah",
-						"graph_def"
-					],
-					[
-						"acc",
-						"accuracy_summary"
-					],
-					[
-						"name",
-						"name_scope"
-					],
-					[
-						"h_fc1",
-						"h_fc1_drop"
-					],
-					[
-						"h_pool2",
-						"h_pool2_flat"
-					],
-					[
-						"h_poo",
-						"h_pool2"
-					],
-					[
-						"bias",
-						"bias_variable"
-					],
-					[
-						"b_con",
-						"b_conv2"
-					],
-					[
-						"weig",
-						"weight_variable"
-					],
-					[
-						"h_",
-						"h_conv1"
-					],
-					[
-						"max_",
-						"max_pool_2x2"
-					],
-					[
-						"initia",
-						"initialize_all_variables"
-					],
-					[
-						"cross",
-						"cross_entropy"
-					],
-					[
-						"initil",
-						"initialize"
-					],
-					[
-						"matr",
-						"matrix2"
-					],
-					[
-						"chan",
-						"changeIP"
-					],
-					[
-						"demogra",
-						"demograph"
-					],
-					[
-						"connec",
-						"connectionString"
-					],
-					[
-						"missed",
-						"missedTargets"
-					],
-					[
-						"con",
-						"convnetjs"
-					],
-					[
-						"reqpro",
-						"reqpromise"
-					],
-					[
-						"reqpr",
-						"reqpromises"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/theredrose/Documents/mac_setup/setup",
-					"settings":
-					{
-						"buffer_size": 8853,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-							""
-						],
-						[
-							"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/JavaScript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Node.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/Node.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 137.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"coff",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"edito",
-						"Set Syntax: EditorConfig"
-					],
-					[
-						"coffee",
-						"Coffee: Check Syntax"
-					],
-					[
-						"coffeescr",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"editor",
-						"Set Syntax: EditorConfig"
 					],
 					[
 						"install",
-						"Package Control: Install Package"
+						"bin/install"
 					],
 					[
-						"prettif",
-						"HTMLPrettify: Set Prettify Preferences"
+						"prep",
+						"lib/py/ai/ai_lib/preprocess.py"
 					],
 					[
-						"kbu",
-						"Preferences: Key Bindings - User"
+						"prepro",
+						"lib/py/ai/ai_lib/preprocess.py"
 					],
 					[
-						"view re",
-						"PackageResourceViewer: Open Resource"
-					]
-				],
-				"width": 452.0
-			},
-			"console":
-			{
-				"height": 0.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Users/theredrose/Documents/mac_setup"
-			],
-			"file_history":
-			[
-				"/Users/theredrose/.bash_profile",
-				"/Users/theredrose/Documents/peppurr/test/lib/test_user.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/whois.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/neo4jkb/lib/parse.js",
-				"/Users/theredrose/Documents/peppurr/scripts/todo.js",
-				"/Users/theredrose/Documents/peppurr/test/common.js",
-				"/Users/theredrose/Documents/peppurr/scripts/0_init.js",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_serialize_users.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_0_init.coffee",
-				"/Users/theredrose/Documents/peppurr/test/scripts/test_ping.coffee",
-				"/Users/theredrose/Documents/peppurr/README.md",
-				"/Users/theredrose/Documents/peppurr/package.json",
-				"/Users/theredrose/Documents/peppurr/lib/user.js",
-				"/Users/theredrose/Documents/peppurr/scripts/serialize_users.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/node-env-file/TODO",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/annotated/docco.css",
-				"/Users/theredrose/Documents/peppurr/test/test_whois.coffee",
-				"/Users/theredrose/Documents/peppurr/.env-example",
-				"/Users/theredrose/Documents/neo4jKB/,",
-				"/Users/theredrose/Documents/peppurr/brain/constrain.js",
-				"/Users/theredrose/Documents/peppurr/scripts/KB_builder.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/Users/theredrose/Documents/Machines/machine.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh.js",
-				"/Users/theredrose/Documents/peppurr/scripts/meh2.js",
-				"/Users/theredrose/Documents/peppurr/brain/query.js",
-				"/Users/theredrose/Documents/peppurr/scripts/user_serializer.js",
-				"/Users/theredrose/Documents/peppurr/scripts/ping.js",
-				"/Users/theredrose/Documents/peppurr/test/ping_test.coffee",
-				"/Users/theredrose/Documents/peppurr/node_modules/scoped-http-client/src/npm-version.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lomath/docs/index.html",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/lodash.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/lodash/index.js",
-				"/Users/theredrose/Documents/peppurr/.env",
-				"/Users/theredrose/Documents/peppurr/logs/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/shadow.log",
-				"/Users/theredrose/Documents/peppurr/bin/install",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-shadow",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-example",
-				"/Users/theredrose/Documents/peppurr/bin/.keys-peppurr",
-				"/Users/theredrose/Documents/peppurr/node_modules/hubot/src/adapters/shell.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/stcmap.js",
-				"/Users/theredrose/Documents/peppurr/meh",
-				"/Users/theredrose/Documents/peppurr/bin/hubot",
-				"/Users/theredrose/Documents/peppurr/index.js",
-				"/Users/theredrose/Documents/peppurr/scripts/hi.coffee",
-				"/Users/theredrose/Documents/peppurr/test/meh.js",
-				"/Users/theredrose/Documents/peppurr/test/t1.coffee",
-				"/Users/theredrose/Documents/peppurr/scripts/s1.coffee",
-				"/Users/theredrose/Documents/peppurr/test/hello-world_test.coffee",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
-				"/Users/theredrose/Documents/peppurr/.editorconfig",
-				"/Users/theredrose/Documents/peppurr/test/t.coffee",
-				"/Users/theredrose/Documents/peppurr/.gitignore",
-				"/Users/theredrose/Downloads/602bfdb43a3530e114e91912d38f271c/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/manifest.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/keng.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/index.html",
-				"/Users/theredrose/Documents/kengz.github.io/scripts/main.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/gulpfile.babel.js",
-				"/Users/theredrose/Documents/kengz.github.io/_config.yml",
-				"/Users/theredrose/Documents/kengz.github.io/_posts/2016-01-11-combining-google-wsk-and-tinypress.markdown",
-				"/Users/theredrose/Documents/kengz.github.io/README.md",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/main.css",
-				"/Users/theredrose/Documents/kengz.github.io/index2.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/poole.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/lanyon.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/syntax.css",
-				"/Users/theredrose/Documents/kengz.github.io/package.json",
-				"/Users/theredrose/Documents/kengz.github.io/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.min.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/theredrose/Documents/kengz.github.io/node_modules/html-tags/html-tags.json",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/main.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/ghprofile-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/repo-card.html",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/side.js",
-				"/Users/theredrose/Documents/kengz.github.io/app/gh-profile.html",
-				"/Users/theredrose/Desktop/repos",
-				"/Users/theredrose/Documents/kengz.github.io/app/styles/github-activity-0.1.4.min.css",
-				"/Users/theredrose/Documents/kengz.github.io/app/scripts/github-activity-0.1.4.min.js",
-				"/Users/theredrose/Documents/kengz.github.io/CNAME",
-				"/Users/theredrose/Documents/kengz.github.io/dist/service-worker.js",
-				"/Users/theredrose/Documents/kengz.github.io/.gitignore",
-				"/Users/theredrose/Documents/mac_setup/README.md",
-				"/Users/theredrose/Documents/mac_setup/ubuntu_setup",
-				"/Users/theredrose/Documents/peppurr/bin/linuxinstall",
-				"/Users/theredrose/.bash_profile2",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/Emails/pg.js",
-				"/Users/theredrose/Documents/Sublime Text 3/Packages/JavaScript/Comments.tmPreferences",
-				"/Users/theredrose/.forever/peppurr.log",
-				"/Users/theredrose/Documents/peppurr/logs/.index",
-				"/Users/theredrose/Documents/peppurr/scripts/test.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/colors/ReadMe.md",
-				"/usr/local/Cellar/neo4j/2.3.1/libexec/data/log/console.log",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/.gitignore",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/00_start.py",
-				"/Users/theredrose/Documents/TensorFlow-Tutorials/5_convolutional_net.py",
-				"/Users/theredrose/Documents/wantanmee/D/monster/test.js",
-				"/Users/theredrose/Documents/wantanmee/node_modules/colors/ReadMe.md",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/target.js",
-				"/Users/theredrose/Documents/wantanmee/gulpfile.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/lib/genOption.js",
-				"/Users/theredrose/Documents/wantanmee/D/lib/gov.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/setupDB.js",
-				"/Users/theredrose/Documents/wantanmee/D/monsprof/main.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/target.js",
-				"/Users/theredrose/Documents/wantanmee/D/prof/x403.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/main.js",
-				"/Users/theredrose/Documents/wantanmee/README.md",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_0.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/pg.js",
-				"/Users/theredrose/Documents/wantanmee/D/monster/log/gulp_log_15.txt",
-				"/Users/theredrose/Documents/wantanmee/D/monster/setupDB.js",
-				"/Users/theredrose/.ssh/id_rsa.pub",
-				"/etc/sudoers",
-				"/usr/sbin/networksetup",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/convnet.js",
-				"/Users/theredrose/Documents/peppurr/node_modules/convnetjs/build/deepqlearn.js"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"-v",
-					"install",
-					"RVM",
-					"ruby",
-					"alice",
-					"test_to",
-					"task2",
-					"item",
-					"targetObj",
-					"undefined",
-					"index",
-					"markDown",
-					"index",
-					"flat",
-					"mat",
-					"pull",
-					"res",
-					"nameOrIndex",
-					"name",
-					"filter",
-					"pick",
-					"'",
-					"yield",
-					"assign",
-					"updated_when",
-					"keyword",
-					"priority",
-					"fieldArr",
-					"illegalize",
-					"created_by",
-					"neoRes",
-					"transNeoRes",
-					"_.size",
-					"res",
-					"flatIndexMat",
-					"transBeautify",
-					"join(",
-					"log",
-					"console",
-					"shit",
-					"picker",
-					"KB",
-					"picker",
-					"msg",
-					"assignTodo",
-					"low",
-					"transbeaut",
-					"sortRow",
-					"_.partial",
-					"partial",
-					"transBeautify",
-					"transform",
-					"partialRight",
-					"gather",
-					"function",
-					"neoRes",
-					"gather",
-					"KB",
-					"tail",
-					"sortByRow",
-					"neoRes",
-					"sortByRow",
-					"transNeoRes",
-					"neoRes",
-					"tail",
-					"mat",
-					"console",
-					"shit",
-					"alice",
-					"ID0000001",
-					"getId",
-					"userId",
-					"ID0000001",
-					"getId",
-					"ID0000001",
-					"eventually",
-					"alice",
-					"whois",
-					"alice",
-					"ID0000001",
-					"whois",
-					" describe 'whois', ->",
-					"describe 'whois', ->",
-					"	describe 'whois', ->",
-					"	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', ->\n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n	describe 'whois', -> \n    context '(alice)', ->\n      it 'return user alice', ->\n",
-					"describe 'lib/user.js', ->\n",
-					"root",
-					"alice",
-					"\"",
-					"string",
-					"user",
-					"users",
-					"keyword",
-					"scriptsPath",
-					"MockRobot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"hubot",
-					"Hubot",
-					"0_init",
-					"this.robot",
-					"0_init",
-					"serialize_users",
-					"robot",
-					"@",
-					"function",
-					"Shell",
-					"serialize_users",
-					"spySer",
-					")\n",
-					"system",
-					"yield",
-					"Promise",
-					"var",
-					"whois",
-					"ping",
-					"user",
-					"0_init"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/theredrose/Documents/mac_setup"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/theredrose/Documents/mac_setup/setup",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8853,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7230,
-										7230
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 4902.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 0.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 157.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0 561 0 638 777 0 0 1280 777 ",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"read",
-						"README.md"
+						"chan",
+						"docs/CHANGELOG.md"
 					],
 					[
-						"neo4jkb/lib/parse",
-						"node_modules/neo4jkb/lib/parse.js"
+						"conce",
+						"lib/js/ai/conceptnet.js"
+					],
+					[
+						"chage",
+						"docs/CHANGELOG.md"
+					],
+					[
+						"preproce",
+						"lib/py/ai/ai_lib/preprocess.py"
 					],
 					[
 						"common",
 						"test/common.js"
 					],
 					[
-						"user",
-						"lib/user.js"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"0_",
-						"scripts/0_init.js"
-					],
-					[
-						"todo",
-						"scripts/todo.js"
-					],
-					[
-						"dodo",
-						"node_modules/lomath/docs/annotated/docco.css"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"whosi",
-						"scripts/whois.js"
-					],
-					[
-						"const",
-						"brain/constrain.js"
-					],
-					[
-						"constr",
-						"brain/constrain.js"
-					],
-					[
-						"cons",
-						"brain/constrain.js"
-					],
-					[
-						"kb",
-						"scripts/KB_builder.js"
-					],
-					[
-						"consr",
-						"brain/constrain.js"
-					],
-					[
-						"meh",
-						"scripts/meh.js"
-					],
-					[
-						"meh2",
-						"scripts/meh2.js"
-					],
-					[
-						"npm",
-						"node_modules/scoped-http-client/src/npm-version.js"
-					],
-					[
-						"ping",
-						"scripts/ping.js"
-					],
-					[
-						"query",
-						"brain/query.js"
-					],
-					[
-						"kb_bui",
-						"scripts/KB_builder.js"
-					],
-					[
-						"lodas",
-						"node_modules/lodash/lodash.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"quer",
-						"brain/query.js"
-					],
-					[
-						".env",
-						".env"
-					],
-					[
 						"index",
 						"index.js"
 					],
 					[
-						"githu",
-						"app/scripts/github.js"
+						"test_cl",
+						"test/lib/test_client.coffee"
 					],
 					[
-						"",
-						"app/styles/lanyon.css"
+						"lib/cli",
+						"lib/client.js"
 					],
 					[
-						"repo-card",
-						"repo-card.html"
+						"trav",
+						".travis.yml"
 					],
 					[
-						"inde",
-						"app/index.html"
+						"trsavis",
+						"node_modules/hubot-slack/.travis.yml"
 					],
 					[
-						"gulp",
-						"gulpfile.babel.js"
+						"travis",
+						".travis.yml"
 					],
 					[
-						"t.",
-						"test/t.coffee"
+						".travis",
+						".travis.yml"
 					],
 					[
-						"html",
-						"node_modules/html-tags/html-tags.json"
+						".travi",
+						".travis.yml"
 					],
 					[
-						"side",
-						"app/scripts/side.js"
+						"clien",
+						"lib/client.py"
 					],
 					[
-						"repo",
-						"app/repo-card.html"
+						"dnn_1",
+						"lib/py/ai/dnn_1_deploy.py"
 					],
 					[
-						"github",
-						"app/scripts/github.js"
-					],
-					[
-						"cna",
-						"CNAME"
+						"client",
+						"lib/client.py"
 					],
 					[
 						".giti",
 						".gitignore"
 					],
 					[
-						"pg",
-						"D/dirtree/pg.js"
+						"instal",
+						"bin/install"
 					],
 					[
-						"giti",
+						"gitig",
 						".gitignore"
 					],
 					[
-						"readm",
-						"node_modules/colors/ReadMe.md"
+						"custom",
+						"lib/js/custom_msg.js"
+					],
+					[
+						"ping",
+						"scripts/ping.js"
+					],
+					[
+						"concep",
+						"lib/js/ai/conceptnet.js"
+					],
+					[
+						"clieny.p",
+						"node_modules/solr-client/lib/utils/type.js"
+					],
+					[
+						"index.",
+						"index.js"
+					],
+					[
+						"watson",
+						"lib/js/ai/watson.js"
+					],
+					[
+						"index.html",
+						"coverage/lcov-report/index.html"
+					],
+					[
+						"tbtr",
+						"lib/js/ai/TBtranslate.py"
+					],
+					[
+						"googletr",
+						"lib/js/ai/googletranslate.js"
+					],
+					[
+						"goog",
+						"lib/js/ai/google.js"
+					],
+					[
+						"ai.",
+						"lib/js/ai.js"
+					],
+					[
+						"indi",
+						"lib/js/ai/indico.js"
+					],
+					[
+						"googleap",
+						"lib/js/ai/googleapis.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						".e",
+						".env"
+					],
+					[
+						"docs",
+						"node_modules/JSONStream/examples/all_docs.js"
+					],
+					[
+						".keys-",
+						"bin/.keys-example"
+					],
+					[
+						".keys",
+						"bin/.keys-example"
+					],
+					[
+						".ekys",
+						"bin/.keys-example"
+					],
+					[
+						"key-aiva",
+						"bin/.keys-aiva"
+					],
+					[
+						".keys-aiva",
+						"bin/.keys-aiva"
 					],
 					[
 						"pac",
 						"package.json"
 					],
 					[
-						"mnis",
-						"mnist.py"
+						"packat",
+						"node_modules/tar/test/pack-no-proprietary.js"
 					],
 					[
-						"test",
-						"D/monster/test.js"
+						"chang",
+						"docs/CHANGELOG.md"
 					],
 					[
-						"targe",
-						"D/monsprof/target.js"
+						"changelo",
+						"node_modules/esprima/ChangeLog"
+					],
+					[
+						"google",
+						"lib/js/googleapis.js"
+					],
+					[
+						".keys-e",
+						"bin/.keys-example"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						".keys-a",
+						"bin/.keys-aiva"
+					],
+					[
+						"googl",
+						"lib/js/googleapis.js"
+					],
+					[
+						".key",
+						"bin/.keys-example"
+					],
+					[
+						"nlp",
+						"lib/js/nlp.js"
+					],
+					[
+						"nodena",
+						"lib/js/nodenatural.js"
+					],
+					[
+						"noden",
+						"lib/js/nodenatural.js"
+					],
+					[
+						"changel",
+						"node_modules/esprima/ChangeLog"
+					],
+					[
+						"googleapo",
+						"node_modules/googleapis/lib/auth/oauth2client.js"
+					],
+					[
+						"idnex",
+						"index.js"
+					],
+					[
+						"scripts/hello_py_rb",
+						"scripts/hello_py_rb.js"
+					],
+					[
+						"test/scripts/hello",
+						"test/scripts/test_hello_py_rb.coffee"
+					],
+					[
+						"node_moules/wordpos/src/wor",
+						"node_modules/wordpos/src/wordpos.js"
+					],
+					[
+						"test/lib_has",
+						"test/lib/test_hasher.coffee"
+					],
+					[
+						".gitig",
+						".gitignore"
+					],
+					[
+						"packge",
+						"package.json"
+					],
+					[
+						".env-e",
+						".env-example"
+					],
+					[
+						"env",
+						".env"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"natural",
+						"scripts/natural.js"
 					],
 					[
 						"readme",
 						"node_modules/colors/ReadMe.md"
 					],
 					[
-						"gul",
-						"gulpfile.js"
+						"changelog",
+						"node_modules/esprima/ChangeLog"
 					],
 					[
-						"genoption",
-						"D/lib/genOption.js"
+						"natura",
+						"scripts/natural.js"
 					],
 					[
-						"target",
-						"D/monster/target.js"
+						"desig",
+						"docs/DESIGN.md"
 					],
 					[
-						"main",
-						"D/monster/main.js"
+						"wordne",
+						"scripts/wordnet.js"
+					],
+					[
+						"design",
+						"docs/DESIGN.md"
+					],
+					[
+						"cocep",
+						"scripts/conceptnet.js"
+					],
+					[
+						"develop",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"dev",
+						"docs/DEVELOPMENT.md"
+					],
+					[
+						"desi",
+						"docs/DESIGN.md"
+					],
+					[
+						"save",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"ptb",
+						"skflow_tut/ptb_word_lm.py"
+					],
+					[
+						"data/tex",
+						"skflow_tut/data/text8"
+					],
+					[
+						"gens",
+						"skflow_tut/gensim_word2vec.py"
+					],
+					[
+						"tf_con",
+						"skflow_tut/tf_convnet.py"
+					],
+					[
+						"grid",
+						"skflow_tut/grid_search.py"
+					],
+					[
+						"intro.",
+						"scikit_tut/intro.py"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"iris",
+						"eg/examples/iris.py"
+					],
+					[
+						"tita",
+						"skflow_tut/titanic_deploy.py"
+					],
+					[
+						"iris_sav",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"titanic",
+						"skflow_tut/titanic.py"
+					],
+					[
+						"re",
+						"skflow_tut/README.md"
+					],
+					[
+						"out",
+						"skflow_tut/out_of_core_data_classification.py"
+					],
+					[
+						"mult",
+						"skflow_tut/multiple_gpu.py"
+					],
+					[
+						"mnist",
+						"skflow_tut/mnist.py"
+					],
+					[
+						"iris_save",
+						"skflow_tut/iris_save_restore.py"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"mnis",
+						"skflow_tut/mnist.py"
+					],
+					[
+						"languag",
+						"skflow_tut/language_model.py"
+					],
+					[
+						"irispip",
+						"skflow/examples/iris_with_pipeline.py"
+					],
+					[
+						"irisp",
+						"skflow_tut/iris_with_pipeline.py"
+					],
+					[
+						"iris_val",
+						"skflow/examples/iris_val_based_early_stopping.py"
+					],
+					[
+						"digits",
+						"skflow/examples/digits.py"
 					]
 				],
 				"width": 0.0
@@ -6291,12 +4754,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 167.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 183,
+			"window_id": 441,
 			"workspace_name": ""
 		}
 	],
