@@ -8,8 +8,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Javatar",
-		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -19,6 +17,7 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
+	"show_definitions": false,
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,

@@ -62,6 +62,11 @@
     "context": [
       { "key": "selector", "operator": "equal", "operand": "comment.line.double-slash"}
     ]
-  }
+  },
+
+
+	{ "keys": ["super+."], "command": "next_bookmark" },
+	{ "keys": ["super+shift+."], "command": "toggle_bookmark" },
+	{ "keys": ["super+shift+alt+."], "command": "clear_bookmarks" }
 
 ]
